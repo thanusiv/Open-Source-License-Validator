@@ -6,6 +6,7 @@
 - [How to Use Project](#how-to-use-project)
 - [Features](#Features)
 - [Technologies Used](#technologies-used)
+- [Wiki](#wiki)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -29,8 +30,9 @@ Since certain pickle files can take up a lot of space in the repository, the pic
 - Created scripts for each model that can be simply run and changed without having to deal with rerunning the preprocessing of data
 - Organized files so that navigation of the project is significantly easier
 - Obtained various pieces of data for different models from classification reports, confusion matrices and other statistics such as accuracy, precision, recall and F1-score
+- Utlized different ML techniques such as Random and Grid Search Cross validation, Elbow Method etc.
 - Use of OOP in Python can be used as template for future projects
-- Look at the report in this repository or the wiki for more information about each individual model, why things were done the way they were and additional features that were implemented for the creation of this project
+
 
 ## Technologies Used
 
@@ -41,6 +43,10 @@ Since certain pickle files can take up a lot of space in the repository, the pic
 - [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization library
 - [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
 - [fastText](https://fasttext.cc/) - One of the supervised ML models used
+
+## Wiki
+
+The report can be accessed directly from the repository or the [wiki]() for more information about each individual model, why things were done the way they were and additional things that were completed during the creation of this project.
 
 ## Acknowledgements
 
