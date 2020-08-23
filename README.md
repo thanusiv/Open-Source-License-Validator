@@ -46,7 +46,7 @@ Since certain pickle files can take up a lot of space in the repository, the pic
 
 ## Wiki
 
-The report can be accessed directly from the repository or the [wiki]() for more information about each individual model, why things were done the way they were and additional things that were completed during the creation of this project.
+The report can be accessed directly from the repository or the [wiki](https://github.com/thanusiv/Open-Source-License-Validator/wiki) for more information about each individual model, why things were done the way they were and additional things that were completed during the creation of this project.
 
 ## Acknowledgements
 
