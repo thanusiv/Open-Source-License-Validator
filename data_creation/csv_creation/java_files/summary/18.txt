@@ -1,0 +1,1 @@
+Some of the helper methods are gaurded by {@link FSNamesystem#readLock()}.

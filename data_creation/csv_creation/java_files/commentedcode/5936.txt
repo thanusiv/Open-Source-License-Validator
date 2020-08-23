@@ -1,0 +1,1 @@
+//			throw new ProcessFailureException(Messages.getString("NewManagedProject.5") + projectName); //$NON-NLS-1$

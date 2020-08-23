@@ -1,0 +1,1 @@
+//test create: create a file for each namenode

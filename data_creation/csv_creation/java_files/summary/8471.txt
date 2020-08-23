@@ -1,0 +1,1 @@
+   * return the state text as the toString() value

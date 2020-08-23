@@ -1,0 +1,1 @@
+   * Gets the remote app log dir.

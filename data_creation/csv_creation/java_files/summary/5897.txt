@@ -1,0 +1,4 @@
+The frequency (based on task progress) with which memory-emulation code is
+   * run. If the value is set to 0.1 then the emulation will happen at 10% of 
+   * the task's progress. The default value of this parameter is 
+   * {@link #DEFAULT_EMULATION_PROGRESS_INTERVAL}.

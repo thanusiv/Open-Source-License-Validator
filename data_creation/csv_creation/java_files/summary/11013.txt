@@ -1,0 +1,1 @@
+	 * Get the file extension specifications for each content type.

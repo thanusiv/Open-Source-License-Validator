@@ -1,0 +1,5 @@
+ /**
+   * Remove block pool level storage directory.
+   * @param absPathToRemove the absolute path of the root for the block pool
+   *                        level storage to remove.
+   */

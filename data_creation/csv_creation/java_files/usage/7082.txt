@@ -1,0 +1,1 @@
+	 * @param imageFlags The imageFlags to set

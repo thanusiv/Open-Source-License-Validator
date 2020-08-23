@@ -1,0 +1,1 @@
+   * @param expected expected value. If null, the property must not be in the set

@@ -1,0 +1,1 @@
+   * Create the history parser based on the input stream

@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.CLEAN_UP, fCleanUp);

@@ -1,0 +1,2 @@
+	 * Notifies this action that the given text selection has changed.  This default
+	 * implementation calls <code>selectionChanged(ISelection selection)</code>.

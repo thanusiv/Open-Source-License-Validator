@@ -1,0 +1,2 @@
+@param currentProxy
+   *          the proxy object which was being used before this failover event

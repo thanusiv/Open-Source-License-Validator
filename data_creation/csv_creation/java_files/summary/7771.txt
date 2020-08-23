@@ -1,0 +1,4 @@
+/**
+ * Interface to configure  {@link HttpURLConnection} created by
+ * {@link AuthenticatedURL} instances.
+ */

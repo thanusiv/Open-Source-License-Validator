@@ -1,0 +1,1 @@
+ @return Gets the map of this Preference.

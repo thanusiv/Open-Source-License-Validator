@@ -1,0 +1,2 @@
+See Guice bug 125,
+   * https://github.com/google/guice/issues/125

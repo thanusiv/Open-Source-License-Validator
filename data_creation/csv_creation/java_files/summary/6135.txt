@@ -1,0 +1,4 @@
+Hides Tooltip when the page is navigated with the keyboard.
+         * 
+         * Removes the Tooltip from page to make sure assistive devices don't
+         * recognize it by accident.

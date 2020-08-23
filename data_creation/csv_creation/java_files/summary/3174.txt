@@ -1,0 +1,2 @@
+Rolling leveldb instances are evicted when their endtime is earlier than
+   * the current time minus the time to live value.

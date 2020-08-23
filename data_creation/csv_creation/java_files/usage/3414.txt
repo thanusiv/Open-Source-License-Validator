@@ -1,0 +1,4 @@
+// NB: should wait at least 1 second to ensure the timestamp of the master
+    // index will change upon the writing, because Linux seems to update the
+    // file modification
+    // time with 1 second accuracy:

@@ -1,0 +1,2 @@
+ @param selectionProvider the selection provider used instead of the
+	 *  page selection provider.

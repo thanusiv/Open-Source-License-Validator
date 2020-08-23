@@ -1,0 +1,2 @@
+  // The SBN will not have any blocks in its neededReplication queue
+      // since the SBN doesn't process replication.

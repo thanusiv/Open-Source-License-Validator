@@ -1,0 +1,2 @@
+Case where the text field only uses its internal buffer, no external
+     * property data source.

@@ -1,0 +1,1 @@
+@link org.eclipse.jface.text.contentassist.IContextInformation}

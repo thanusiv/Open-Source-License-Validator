@@ -1,0 +1,14 @@
+/**
+	 * Before making calls to an index you have to obtain a lock. The objects
+	 * returned by an index become invalid as soon as the indexer writes to the
+	 * index. You may obtain nested read locks. Make sure you release the lock.
+	 * @see #getLastWriteAccess()
+	 * <pre>
+	 * index.acquireReadLock();
+	 * try {
+	 *    ....
+	 * } finally {
+	 *    index.releaseReadLock();
+	 * }
+	 * </pre>
+	 */

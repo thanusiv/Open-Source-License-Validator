@@ -1,0 +1,3 @@
+@throws IllegalArgumentException if the given value is already bound to a
+   *     different key in this bimap. The bimap will remain unmodified in this
+   *     event. To avoid this exception, call {@link #forcePut} instead.

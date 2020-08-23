@@ -1,0 +1,3 @@
+Test that when access time updates are not needed, the FSNamesystem
+   * write lock is not taken by getBlockLocations.
+   * Regression test for HDFS-3981.

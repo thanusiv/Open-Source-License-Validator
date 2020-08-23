@@ -1,0 +1,2 @@
+Flush a {@link Flushable}, with control over whether an {@code IOException} may be thrown.
+   *

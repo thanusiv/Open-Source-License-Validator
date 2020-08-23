@@ -1,0 +1,11 @@
+This scanner recognizes
+ * <ul>
+ * <li>C multi line comments</li>
+ * <li>Assembly line comments</li>
+ * <li>C++ line comments</li>
+ * <li>C string literals</li>
+ * <li>Assembly character literals</li>
+ * <li>C preprocessor directives</li>
+ * </ul>
+ * Default supported line start comment characters are ';', '!', '|' and '@'.
+ * <p>

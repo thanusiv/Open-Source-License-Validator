@@ -1,0 +1,2 @@
+@throws SwiftConfigurationException if the URI host doesn't parse into
+   *                                     container.service

@@ -1,0 +1,2 @@
+Returns the breakpoint at the last line of mouse activity in the ruler
+	 * or <code>null</code> if none.

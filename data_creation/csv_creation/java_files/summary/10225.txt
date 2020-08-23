@@ -1,0 +1,1 @@
+   * Returns the suffix component of the log dir.

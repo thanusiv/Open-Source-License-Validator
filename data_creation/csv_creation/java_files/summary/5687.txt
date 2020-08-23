@@ -1,0 +1,4 @@
+This test makes sure that when
+ * {@link HdfsClientConfigKeys#DFS_CLIENT_TEST_DROP_NAMENODE_RESPONSE_NUM_KEY} is set,
+ * DFSClient instances can still be created within NN/DN (e.g., the fs instance
+ * used by the trash emptier thread in NN)

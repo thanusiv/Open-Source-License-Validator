@@ -1,0 +1,3 @@
+/**
+	 * Opens the <code>SystemConnectionPropertyPage</code> page for the selected connection.
+	 */

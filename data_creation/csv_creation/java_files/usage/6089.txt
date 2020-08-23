@@ -1,0 +1,1 @@
+     * @return The close timeout (in ms)

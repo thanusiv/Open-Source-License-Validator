@@ -1,0 +1,1 @@
+                // an encoded null is cached, return it directly.

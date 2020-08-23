@@ -1,0 +1,6 @@
+/**
+	 * Returns the C project handle corresponding to the project defined in
+	 * in the main page.
+	 *
+	 * @returns the C project
+	 */

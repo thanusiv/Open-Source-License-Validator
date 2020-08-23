@@ -1,0 +1,3 @@
+@param typeIndex
+     *            The index of a generic type to use to define the child type
+     *            that should be decoded

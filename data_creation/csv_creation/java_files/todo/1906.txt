@@ -1,0 +1,2 @@
+// The result can be empty when using group by and there
+                        // are no matches (#18043)

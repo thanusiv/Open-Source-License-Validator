@@ -1,0 +1,3 @@
+Adds a property change listener to this target.
+	 * Has no affect if the identical listener is already registered.
+	 *

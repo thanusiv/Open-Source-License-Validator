@@ -1,0 +1,9 @@
+Calculates the amount of resources that need to be freed up (by killing
+   * opportunistic containers) in order for the given guaranteed container to
+   * start its execution. Resource allocation to be freed up =
+   * <code>containersAllocation</code> -
+   *   allocation of <code>opportunisticContainersToKill</code> +
+   *   allocation of <code>queuedGuaranteedContainers</code> that will start
+   *     before the given container +
+   *   allocation of given container -
+   *   total resources of node.

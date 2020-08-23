@@ -1,0 +1,2 @@
+ // Schedule timer for showing the tooltip according to if it
+                // was recently closed or not.

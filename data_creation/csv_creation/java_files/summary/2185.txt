@@ -1,0 +1,16 @@
+/**
+ * This policy works in combination with an implementation of task
+ * checkpointing. It computes the tasks to be preempted in response to the RM
+ * request for preemption. For strict requests, it maps containers to
+ * corresponding tasks; for fungible requests, it attempts to pick the best
+ * containers to preempt (reducers in reverse allocation order). The
+ * TaskAttemptListener will interrogate this policy when handling a task
+ * heartbeat to check whether the task should be preempted or not. When handling
+ * fungible requests, the policy discount the RM ask by the amount of currently
+ * in-flight preemptions (i.e., tasks that are checkpointing).
+ *
+ * This class it is also used to maintain the list of checkpoints for existing
+ * tasks. Centralizing this functionality here, allows us to have visibility on
+ * preemption and checkpoints in a single location, thus coordinating preemption
+ * and checkpoint management decisions in a single policy.
+ */

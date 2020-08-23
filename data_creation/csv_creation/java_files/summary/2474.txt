@@ -1,0 +1,3 @@
+ Used to compute binding resolution during the parse.
+ * 
+ * Imperative style symbol table with destructive update.

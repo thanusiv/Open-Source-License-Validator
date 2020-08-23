@@ -1,0 +1,1 @@
+Returns an immutable copy of the specified {@code RangeSet}.

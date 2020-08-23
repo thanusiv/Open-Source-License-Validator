@@ -1,0 +1,15 @@
+/**
+ * Manages storage for the set of BlockPoolSlices which share a particular 
+ * block pool id, on this DataNode.
+ * 
+ * This class supports the following functionality:
+ * <ol>
+ * <li> Formatting a new block pool storage</li>
+ * <li> Recovering a storage state to a consistent state (if possible></li>
+ * <li> Taking a snapshot of the block pool during upgrade</li>
+ * <li> Rolling back a block pool to a previous snapshot</li>
+ * <li> Finalizing block storage by deletion of a snapshot</li>
+ * </ul>
+ * 
+ * @see Storage
+ */

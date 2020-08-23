@@ -1,0 +1,1 @@
+        // We let Dagger Components through to aid migrations.

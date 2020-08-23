@@ -1,0 +1,2 @@
+@param simpleClassName
+	 *            if true, use the class's simple name, otherwise the package

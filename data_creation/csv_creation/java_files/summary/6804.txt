@@ -1,0 +1,5 @@
+Prints paintable element end tag.
+     * 
+     * Calls to {@link #startPaintable(Component, String)}should be matched by
+     * {@link #endPaintable(Component)}. If the parent tag is closed before
+     * every child tag is closed a PaintException is raised.

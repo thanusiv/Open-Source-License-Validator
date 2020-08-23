@@ -1,0 +1,2 @@
+// inline bool disconnect( const char *signal = 0,
+		//                         const QObject *receiver = 0, const char *member = 0 );

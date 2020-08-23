@@ -1,0 +1,1 @@
+   * Verify that that a service is in a given state.

@@ -1,0 +1,1 @@
+@return the model presentation to be used for this view

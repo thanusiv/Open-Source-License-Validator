@@ -1,0 +1,2 @@
+  // Test to make sure that we can't do delegation token
+  // functions using just delegation token auth

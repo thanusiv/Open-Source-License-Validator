@@ -1,0 +1,1 @@
+Interface for accessing the index for one or more projects.

@@ -1,0 +1,2 @@
+If this method returns false, then the CProjectDescriptionStorageType creates
+	 * a '.cproject' containing this data

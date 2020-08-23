@@ -1,0 +1,2 @@
+The type as defined in the CProjectDescriptionStorage extension point, wraps the
+	 * implemented ICProjectDescriptionType to provide proxy object for use by CProjectDescriptionStorageManager

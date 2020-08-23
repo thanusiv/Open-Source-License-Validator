@@ -1,0 +1,7 @@
+/**
+ * An extension of the IMemoryBlockRetrievalExtension interface that supports
+ * memory spaces. The memory space interface is provisional, thus this class
+ * cannot yet be API.
+ * 
+ * @author Alain Lee and John Cortell
+ */

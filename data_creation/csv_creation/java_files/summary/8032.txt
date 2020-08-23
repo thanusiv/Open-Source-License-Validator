@@ -1,0 +1,1 @@
+    // delete finalized.tmp dir in a separate thread

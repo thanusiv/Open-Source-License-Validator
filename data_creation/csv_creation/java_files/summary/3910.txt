@@ -1,0 +1,2 @@
+ Braced initializer list, for example as in:
+ * <pre> int a[]= {1,2,3}; </pre>

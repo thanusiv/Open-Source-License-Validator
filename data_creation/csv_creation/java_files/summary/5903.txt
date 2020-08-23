@@ -1,0 +1,4 @@
+<p>A {@link ResourceUsageEmulatorPlugin} that emulates the total heap 
+ * usage by loading the JVM heap memory. Adding smaller chunks of data to the 
+ * heap will essentially use up some heap space thus forcing the JVM to expand 
+ * its heap and thus resulting into increase in the heap usage.</p>

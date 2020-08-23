@@ -1,0 +1,3 @@
+// Failsafe - we should not hit this case but let's make sure
+        // we never overwrite a newer version of a block file with an
+        // older version.

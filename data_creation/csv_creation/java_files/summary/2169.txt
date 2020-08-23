@@ -1,0 +1,1 @@
+	/** Flag whether this drag source listener allows to drag */

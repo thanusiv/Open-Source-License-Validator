@@ -1,0 +1,2 @@
+ // Exercise some boundary cases - a divisor of the chunk size
+    // the chunk size, 2x chunk size, and +/-1 around these.

@@ -1,0 +1,1 @@
+		// Return true if there is already a config of that name defined on the target

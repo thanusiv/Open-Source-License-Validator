@@ -1,0 +1,1 @@
+            // this action request is only to set shared render parameters

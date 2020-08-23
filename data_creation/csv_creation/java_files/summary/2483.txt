@@ -1,0 +1,2 @@
+Returns the binding associated with the given identifier, or
+	 * null if there is none.

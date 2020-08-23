@@ -1,0 +1,1 @@
+   * Striped file checksum computing.

@@ -1,0 +1,1 @@
+@return true if policy is applicable to passed depth, false otherwise

@@ -1,0 +1,4 @@
+/**
+   * An ACL entry that is inspected during permission checks to enforce
+   * permissions.
+   */

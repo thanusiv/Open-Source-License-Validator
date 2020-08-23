@@ -1,0 +1,1 @@
+// get delegation token for the outDir's file system

@@ -1,0 +1,1 @@
+   * @return valid true if the token has not expired; false otherwise

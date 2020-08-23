@@ -1,0 +1,1 @@
+ * Basic editor for QML. Thus far has only syntax highlighting capabilities.

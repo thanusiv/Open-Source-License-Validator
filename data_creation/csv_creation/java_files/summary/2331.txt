@@ -1,0 +1,2 @@
+Creates a process closure and connects the launched process with a
+	 * console document.

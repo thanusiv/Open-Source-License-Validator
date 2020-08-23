@@ -1,0 +1,3 @@
+/**
+     * Value <code>0</code> means it's not known.  Value <code>1</code>, means it's known.
+     */

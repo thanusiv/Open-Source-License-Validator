@@ -1,0 +1,5 @@
+/**
+	 * Constant to find direct includes, only.
+	 * @see #findIncludedBy(IIndexFile, int)
+	 * @see #findIncludes(IIndexFile, int)
+	 */

@@ -1,0 +1,6 @@
+ Searches for all bindings with simple names that match the given pattern. In case a binding
+	 * exists in multiple projects, no duplicate bindings are returned.
+	 * This is fully equivalent to
+	 * <pre>
+	 * findBindings(new Pattern[] {pattern}, isFullyQualified, filter, monitor);
+	 * </pre>

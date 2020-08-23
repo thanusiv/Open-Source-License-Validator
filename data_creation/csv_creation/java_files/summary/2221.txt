@@ -1,0 +1,2 @@
+Returns a funnel that processes an {@code Iterable} by funneling its elements in iteration
+   * order with the specified funnel. No separators are added between the elements.

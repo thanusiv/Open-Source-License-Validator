@@ -1,0 +1,1 @@
+Returns a funnel that extracts the bytes from a {@code byte} array.

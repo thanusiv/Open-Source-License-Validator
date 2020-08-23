@@ -1,0 +1,1 @@
+    // Minimal interval is 1 minute

@@ -1,0 +1,1 @@
+    	 * Tries to make a text hover focusable (or "sticky").

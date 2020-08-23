@@ -1,0 +1,4 @@
+Creates a new DomainSocketWatcher and tracks its thread for termination due
+   * to an unexpected exception.  At the end of each test, if there was an
+   * unexpected exception, then that exception is thrown to force a failure of
+   * the test.

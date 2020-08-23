@@ -1,0 +1,1 @@
+   * @param out output stream to write the fsck output

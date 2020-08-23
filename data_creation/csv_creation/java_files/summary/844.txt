@@ -1,0 +1,1 @@
+Set whether the output of the job is compressed.

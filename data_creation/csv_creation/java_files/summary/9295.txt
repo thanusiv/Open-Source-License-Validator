@@ -1,0 +1,1 @@
+     * Inserts a widget before the specified index.

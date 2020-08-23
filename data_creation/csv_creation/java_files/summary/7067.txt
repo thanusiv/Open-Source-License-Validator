@@ -1,0 +1,2 @@
+View model node that defines how alarm DMContexts are displayed in the view.  Alarm
+ * nodes are fairly static, once they are created their label doesn't change.

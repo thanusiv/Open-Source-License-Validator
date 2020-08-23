@@ -1,0 +1,1 @@
+	 * @see ITokenScanner#setRange(IDocument, int, int)

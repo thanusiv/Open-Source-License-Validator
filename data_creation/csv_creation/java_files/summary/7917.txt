@@ -1,0 +1,6 @@
+
+/**
+ * Active state of the namenode. In this state, namenode provides the namenode
+ * service and handles operations of type {@link OperationCategory#WRITE} and
+ * {@link OperationCategory#READ}.
+ */

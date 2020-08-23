@@ -1,0 +1,1 @@
+	 * A collection containing the categories tree. This is used as model for the tree viewer.

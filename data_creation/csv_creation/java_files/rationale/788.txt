@@ -1,0 +1,3 @@
+/** Implementation should seek forward in_ to the first byte of the next record.
+   *  The initial byte offset in the stream is arbitrary.
+   */

@@ -1,0 +1,1 @@
+    							// With MI, an invalid location won't generate an error

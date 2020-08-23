@@ -1,0 +1,1 @@
+   * @throws ServiceStateException on any failure to initialize

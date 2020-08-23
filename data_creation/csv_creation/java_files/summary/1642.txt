@@ -1,0 +1,1 @@
+Construct a node from its path

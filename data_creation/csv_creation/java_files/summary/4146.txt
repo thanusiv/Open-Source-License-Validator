@@ -1,0 +1,2 @@
+ Handler for {@link GridDoubleClickEvent}s that happen in the body of the
+ * Grid.

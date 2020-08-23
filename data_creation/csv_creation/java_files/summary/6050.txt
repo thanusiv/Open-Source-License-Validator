@@ -1,0 +1,2 @@
+A Future that doesn't implement ListenableFuture, useful for testing
+   * listenInPoolThread.

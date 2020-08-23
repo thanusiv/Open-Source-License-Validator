@@ -1,0 +1,1 @@
+   * get the rpc status corresponding to this exception

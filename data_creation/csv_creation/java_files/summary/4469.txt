@@ -1,0 +1,2 @@
+Used by the {@link HistoryViewer} to print job history in a machine-readable
+ * JSON format.

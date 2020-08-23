@@ -1,0 +1,1 @@
+Get <code>NodeReport</code> for all nodes in the cluster.

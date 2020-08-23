@@ -1,0 +1,1 @@
+  /** Returns the scoping annotation, or null if there isn't one. */

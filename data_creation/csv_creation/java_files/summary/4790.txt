@@ -1,0 +1,2 @@
+A storage policy specifies the placement of block replicas on specific
+ * storage types.

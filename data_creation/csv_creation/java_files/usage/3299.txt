@@ -1,0 +1,1 @@
+@return     True if we successfully added a no-checksum anchor.

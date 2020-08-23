@@ -1,0 +1,1 @@
+@param count the expected number of logged error and warning messages

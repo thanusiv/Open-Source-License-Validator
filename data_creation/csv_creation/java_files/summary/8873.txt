@@ -1,0 +1,2 @@
+/ To be safe, refresh the breakpoint message as the property
+									// change might affect it.

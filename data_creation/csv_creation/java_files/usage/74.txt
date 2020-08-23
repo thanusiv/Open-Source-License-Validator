@@ -1,0 +1,1 @@
+@throws AccessControlException if pool cannot be accessed

@@ -1,0 +1,2 @@
+ // 2. Rename <SD>/current/<bpid>/current to
+    //    <SD>/current/<bpid>/previous.tmp

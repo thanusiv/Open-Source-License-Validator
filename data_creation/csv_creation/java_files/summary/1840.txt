@@ -1,0 +1,5 @@
+Configure the set of default line start comment characters.
+	 * <p>
+	 * These characters are considered line comment introducers only as first
+	 * non-whitespace character on the line.
+	 * </p>

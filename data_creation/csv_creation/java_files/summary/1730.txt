@@ -1,0 +1,1 @@
+Returns the type that this is qualifying

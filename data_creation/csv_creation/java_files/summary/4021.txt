@@ -1,0 +1,3 @@
+Executes {@link ASTRunnable#runOnAST(ILanguage, IASTTranslationUnit)} with the AST
+	 * provided by this cache for the given translation unit. Handles acquiring
+	 * and releasing the index read-lock for the client.

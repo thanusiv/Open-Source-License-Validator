@@ -1,0 +1,3 @@
+JSON-marshallable description of a single component.
+ * It supports the deserialization of unknown attributes, but does
+ * not support their creation.

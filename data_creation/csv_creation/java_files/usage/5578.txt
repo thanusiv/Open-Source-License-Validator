@@ -1,0 +1,2 @@
+@param str
+	 *            the string

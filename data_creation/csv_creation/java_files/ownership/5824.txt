@@ -1,0 +1,3 @@
+Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     Wind River Systems   - Modified for new DSF Reference Implementation

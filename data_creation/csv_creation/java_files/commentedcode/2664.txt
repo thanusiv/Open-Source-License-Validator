@@ -1,0 +1,1 @@
+//		System.out.print("Trials: " + n + " Max length: " + max + " ignoreCase: " + !caseSensitive);

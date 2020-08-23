@@ -1,0 +1,1 @@
+   * Creates a new instance with the given detail message.

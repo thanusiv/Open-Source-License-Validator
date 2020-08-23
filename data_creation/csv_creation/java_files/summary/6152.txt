@@ -1,0 +1,1 @@
+Sets the maximum width of the tooltip popup.

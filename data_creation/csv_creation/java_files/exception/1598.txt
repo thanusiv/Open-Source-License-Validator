@@ -1,0 +1,3 @@
+@throws IllegalArgumentException if an attempt to {@code put} any
+   *     entry fails. Note that some map entries may have been added to the
+   *     bimap before the exception was thrown.

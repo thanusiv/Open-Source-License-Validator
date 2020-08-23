@@ -1,0 +1,3 @@
+*
+	 * Returns the element directly containing this element,
+	 * or {@code null} if this element has no parent.

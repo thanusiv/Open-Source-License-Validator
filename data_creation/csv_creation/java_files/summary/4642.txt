@@ -1,0 +1,4 @@
+ Initialize this delegate, updating this delegate's
+	 * presentation.
+	 * As well, all of the flavors of AbstractDebugActionDelegates need to 
+	 * have the initial enabled state set with a call to update(IAction, ISelection).

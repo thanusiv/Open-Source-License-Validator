@@ -1,0 +1,2 @@
+Viewer input requester used to update the viewer once the viewer input has been
+	 * resolved.

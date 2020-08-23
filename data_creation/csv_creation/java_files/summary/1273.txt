@@ -1,0 +1,1 @@
+		// Get a block that is contiguous to the end of an existing block

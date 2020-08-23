@@ -1,0 +1,1 @@
+	 * @return whether the given project is a new-style project, i.e. CConfigurationDataProvider-driven

@@ -1,0 +1,2 @@
+Returns the C project this element is contained in, or {@code null} if this element
+	 * is not contained in any C project

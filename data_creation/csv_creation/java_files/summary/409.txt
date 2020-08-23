@@ -1,0 +1,2 @@
+This interface represents a postfix array subscript expression. x[10]
+ * y.z()[t * t]

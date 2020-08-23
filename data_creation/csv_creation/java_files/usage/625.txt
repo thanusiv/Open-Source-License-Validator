@@ -1,0 +1,5 @@
+ @param binding a binding for which names are searched for
+	 * @param flags a combination of {@link #FIND_DECLARATIONS}, {@link #FIND_DEFINITIONS},
+	 * {@link #FIND_REFERENCES} and {@link #SEARCH_ACROSS_LANGUAGE_BOUNDARIES}.
+	 * @return an array of names
+	 * @throws CoreException

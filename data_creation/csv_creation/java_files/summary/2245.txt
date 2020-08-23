@@ -1,0 +1,3 @@
+// This event can be triggered by one of the following flows
+// WebUI -> Container
+// CLI -> RM -> NM

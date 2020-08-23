@@ -1,0 +1,2 @@
+@throws ServiceStateException if the service state is different from
+   * the desired state

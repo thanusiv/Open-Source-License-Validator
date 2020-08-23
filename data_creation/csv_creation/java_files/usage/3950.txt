@@ -1,0 +1,2 @@
+@param wait				if <code>true</code>, wait for AST to be computed
+	 *                          (might compute a new AST)

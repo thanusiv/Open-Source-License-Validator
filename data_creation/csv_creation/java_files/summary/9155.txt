@@ -1,0 +1,1 @@
+	 * can hold both file and dir path

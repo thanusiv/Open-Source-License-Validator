@@ -1,0 +1,6 @@
+/**
+ * An {@link InputStream} that counts the number of bytes read.
+ *
+ * @author Chris Nokleberg
+ * @since 1.0
+ */

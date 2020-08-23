@@ -1,0 +1,7 @@
+ /**
+   * Hardlink all finalized and RBW blocks in fromDir to toDir
+   * 
+   * @param fromDir directory where the snapshot is stored
+   * @param toDir the current data directory
+   * @throws IOException if error occurs during hardlink
+   */

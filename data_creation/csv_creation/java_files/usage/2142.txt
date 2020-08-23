@@ -1,0 +1,1 @@
+@return true if the document may be changed by the drag.

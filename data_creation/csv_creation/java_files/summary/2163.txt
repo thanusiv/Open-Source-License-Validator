@@ -1,0 +1,1 @@
+/** The position category to be used to indicate a drag source selection */

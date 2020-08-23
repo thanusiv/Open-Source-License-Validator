@@ -1,0 +1,3 @@
+Visit a scope annotation. This scope strategy is found only on module bindings. The instance
+   * that implements this scope is registered by {@link com.google.inject.Binder#bindScope(Class,
+   * Scope) Binder.bindScope()}.

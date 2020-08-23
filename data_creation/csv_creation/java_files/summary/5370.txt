@@ -1,0 +1,4 @@
+This action behaves in two different ways: If there is no current text
+     * hover, the tooltip is displayed using information presenter. If there is
+     * a current text hover, it is converted into a information presenter in
+     * order to make it sticky.

@@ -1,0 +1,2 @@
+@return the interface implemented by the proxy objects returned by
+   *         {@link FailoverProxyProvider#getProxy()}

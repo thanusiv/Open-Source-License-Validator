@@ -1,0 +1,2 @@
+Writes data to the given stream of the given size, flushing every
+   * x bytes.

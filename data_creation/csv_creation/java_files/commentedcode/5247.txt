@@ -1,0 +1,3 @@
+/*-{
+             return $wnd.performance.now();
+        }-*/;

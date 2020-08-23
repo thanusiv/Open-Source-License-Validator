@@ -1,0 +1,1 @@
+   * TaskInformation is aggregated in this class after parsing

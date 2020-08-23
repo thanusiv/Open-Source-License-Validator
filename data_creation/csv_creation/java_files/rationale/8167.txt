@@ -1,0 +1,2 @@
+/ Check if zlib consumed all input buffer
+    // set keepUncompressedBuf properly

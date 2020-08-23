@@ -1,0 +1,4 @@
+	 * Creates a new action with no text and no image.
+	 * <p>
+	 * Configure the action later using the set methods.
+	 * </p>

@@ -1,0 +1,1 @@
+// reposition splitter in case it is out of box

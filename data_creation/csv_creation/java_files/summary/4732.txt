@@ -1,0 +1,3 @@
+The view controller for the working set configurations pane in the dialog. It takes care of coordinating
+ * the user gestures in the pane with the working set configuration model, and vice-versa. It also implements
+ * the handling of the action buttons.

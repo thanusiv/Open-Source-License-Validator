@@ -1,0 +1,2 @@
+Do a basic write test against an HDFS cluster with Kerberos enabled but
+   * without the principal and keytab properties set.

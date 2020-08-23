@@ -1,0 +1,2 @@
+// Have to temporarily turn off the "remove terminated launches when new one created"
+		// preference because it does not work well for multilaunch

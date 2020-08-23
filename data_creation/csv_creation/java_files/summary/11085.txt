@@ -1,0 +1,4 @@
+ Updates the label parameters for this column based on the provided
+     * properties.  The label information is written to the givne label
+     * update under the given column index.   
+     *

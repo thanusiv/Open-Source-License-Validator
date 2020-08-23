@@ -1,0 +1,2 @@
+   * @param portletMode
+     *            the portlet mode to switch to

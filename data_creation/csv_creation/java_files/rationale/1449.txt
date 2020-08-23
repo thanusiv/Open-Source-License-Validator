@@ -1,0 +1,2 @@
+// It doesn't matter what we throw;
+                  // it's swallowed in getBestComparer().

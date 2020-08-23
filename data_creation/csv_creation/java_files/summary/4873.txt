@@ -1,0 +1,1 @@
+   * Accepts an element visitor. Invokes the visitor method specific to this element's type.

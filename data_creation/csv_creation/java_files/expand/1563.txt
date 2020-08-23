@@ -1,0 +1,3 @@
+The standard Preference object are managed by this focus manager if they are created
+	 * using the respective factory methods. Other SWT widgets can be added in subclasses 
+	 * when they are created.

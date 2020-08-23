@@ -1,0 +1,1 @@
+		// nothing to do since the Local connection can't be removed

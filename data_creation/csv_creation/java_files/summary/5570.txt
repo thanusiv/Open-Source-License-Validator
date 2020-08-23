@@ -1,0 +1,5 @@
+Some general purpose functions that can be useful for logging/tracing
+ * activities. This is a duplicate of LoggingUtils in
+ * org.eclipse.cdt.internal.core. The idea is for core parts of DSF (ones that
+ * don't have debug in package name) to have very limited dependencies on other
+ * plugins.

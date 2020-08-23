@@ -1,0 +1,1 @@
+A descending wrapper around an {@code ImmutableSortedMultiset}

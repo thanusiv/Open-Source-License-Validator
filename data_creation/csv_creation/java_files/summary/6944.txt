@@ -1,0 +1,1 @@
+	 * Check if the user is allowed to edit language settings provider entries in UI.

@@ -1,0 +1,5 @@
+*
+	 * Searches for all bindings in global scope with a given name. In case a binding exists in
+	 * multiple projects, no duplicate bindings are returned. This method makes use of the BTree
+	 * and is faster than the methods using patterns.
+	 *

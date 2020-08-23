@@ -1,0 +1,2 @@
+@param linkageID the id of the linkage whose bindings should be retained
+	 * @return an IndexFilter instance

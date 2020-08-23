@@ -1,0 +1,1 @@
+		// Initialize the version with whatever is current.

@@ -1,0 +1,1 @@
+    // Open next tooltip faster. Disabled after 2 sec of showTooltip-silence.

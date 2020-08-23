@@ -1,0 +1,1 @@
+     * Creates a new empty panel with the given caption and content.

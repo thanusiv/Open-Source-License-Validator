@@ -1,0 +1,3 @@
+ This class has the same basic functionality as the GWT DeckPanel
+ * {@link com.google.gwt.user.client.ui.DeckPanel}, with the exception that it
+ * doesn't manipulate the child widgets' width and height attributes.

@@ -1,0 +1,4 @@
+/**
+	 * Set whether this template template parameter is a parameter pack.
+	 * @since 5.2
+	 */

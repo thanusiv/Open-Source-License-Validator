@@ -1,0 +1,1 @@
+  /** trash is enabled if at least one storage directory contains trash root */

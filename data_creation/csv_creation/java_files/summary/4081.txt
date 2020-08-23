@@ -1,0 +1,3 @@
+Utility methods to check preconditions.
+ * <p>
+ * Commonly used for method arguments preconditions.

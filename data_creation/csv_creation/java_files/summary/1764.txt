@@ -1,0 +1,1 @@
+Get an IndexFilter that filters out bindings from linkages other than that specified.

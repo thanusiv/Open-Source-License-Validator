@@ -1,0 +1,5 @@
+Contributors:
+ *     Ericsson	AB		- Initial Implementation
+ *     Alvaro Sanchez-Leon (Ericsson AB) - [Memory] Support 16 bit addressable size (Bug 426730)
+ *     Alvaro Sanchez-Leon (Ericsson AB) - [Memory] Make tests run with different values of addressable size (Bug 460241)
+ *     Simon Marchi (Ericsson) - Refactoring, remove usage of AsyncCompletionWaitor

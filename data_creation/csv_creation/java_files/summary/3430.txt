@@ -1,0 +1,2 @@
+// Init 2nd har file system on the same underlying FS, so the
+    // metadata gets reused:

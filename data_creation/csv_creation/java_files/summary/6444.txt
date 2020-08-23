@@ -1,0 +1,4 @@
+A utility class for accessing parts of the Q_PROPERTY expansion that have already
+ * been entered as well as the offset of various parts of the declaration.  This is
+ * used for things like proposing only parameters that are not already used, offering
+ * appropriate suggestions for a specific parameter, etc.

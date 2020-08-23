@@ -1,0 +1,2 @@
+Outputs the time passed since various events recored in
+     * performance.timing if supported by the browser.

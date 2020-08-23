@@ -1,0 +1,1 @@
+   * @param path  the path to redirect to

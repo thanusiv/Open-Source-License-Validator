@@ -1,0 +1,7 @@
+<ul>
+ * <li>Importing projects into the workspace</li>
+ * <li>Adding expected resources to the delta verifier</li>
+ * <li>Verifying the delta</li>
+ * <li>Printing markers</li>
+ * <li>Cleaning up the workspace at the end</li>
+ * </ul>

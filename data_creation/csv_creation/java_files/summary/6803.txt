@@ -1,0 +1,6 @@
+Prints element start tag.
+     * 
+     * <pre>
+     * Todo:
+     * Checking of input values
+     * </pre>

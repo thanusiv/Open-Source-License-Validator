@@ -1,0 +1,1 @@
+	 * Checks the argument for leading whitespaces and invalid directory name characters.

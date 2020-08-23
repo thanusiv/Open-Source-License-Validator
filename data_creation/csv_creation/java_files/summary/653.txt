@@ -1,0 +1,6 @@
+ Returns the file objects for the given location and linkage.
+	 * Multiple files are returned when a header file is stored in the index in multiple variants
+	 * for different sets of macro definitions.
+	 * This method may only return files that are actually managed by this fragment.
+	 * This method returns files without content, also.
+	 *

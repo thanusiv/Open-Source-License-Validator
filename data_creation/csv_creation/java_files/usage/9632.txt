@@ -1,0 +1,2 @@
+@param a
+     *            the first json value to check, may not be null

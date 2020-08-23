@@ -1,0 +1,8 @@
+<p>
+ * Note: Debug elements which support restart should implement this interface.
+ * Adopting to this interface is not enough.   
+ * </p>
+ * <p>
+ * Note 2: Debugger can also implement the asynchronous  
+ * {@link org.eclipse.debug.core.commands.IRestartHandler}.
+ * </p>

@@ -1,0 +1,10 @@
+/**
+     * Validates the data in event to be appropriate for the
+     * {@link DropHandler#drop(DragAndDropEvent)} method.
+     * <p>
+     * Note that even if your criterion is validated on client side, you should
+     * always validate the data on server side too.
+     * 
+     * @param dragEvent
+     * @return
+     */

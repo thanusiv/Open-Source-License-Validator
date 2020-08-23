@@ -1,0 +1,6 @@
+// There are 3 overloads of QObject::connect (Qt 4.8.4). They can be
+		// distinguished by examining
+		// the type of the forth parameter.
+		// connect( , , , const char *, )
+		// connect( , , , QMetaMethod&, )
+		// connect( , , , Qt::ConnectionType = )

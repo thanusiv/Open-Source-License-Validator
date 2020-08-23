@@ -1,0 +1,12 @@
+A PBImageDelimitedTextWriter generates a text representation of the PB fsimage,
+ * with each element separated by a delimiter string.  All of the elements
+ * common to both inodes and inodes-under-construction are included. When
+ * processing an fsimage with a layout version that did not include an
+ * element, such as AccessTime, the output file will include a column
+ * for the value, but no value will be included.
+ *
+ * Individual block information for each file is not currently included.
+ *
+ * The default delimiter is tab, as this is an unlikely value to be included in
+ * an inode path or other text metadata. The delimiter value can be via the
+ * constructor.

@@ -1,0 +1,9 @@
+"dscl . -read /Users/<name> | grep UniqueID" returns "UniqueId: <id>",
+  // "dscl . -read /Groups/<name> | grep PrimaryGroupID" returns "PrimaryGoupID: <id>"
+  // The following method returns a command that uses awk to process the result,
+  // of these commands, and returns "<name> <id>", to simulate one entry returned by 
+  // MAC_GET_ALL_USERS_CMD or MAC_GET_ALL_GROUPS_CMD.
+  // Specificially, this method returns:
+  // id -u <name> | awk '{print "<name>:"$1 }'
+  // OR
+  // dscl . -read /Groups/<name> | grep PrimaryGroupID | awk '($1 == "PrimaryGroupID:") { print "<name> " $2 }'

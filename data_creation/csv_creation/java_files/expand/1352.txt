@@ -1,0 +1,3 @@
+// Dragging curtain interferes with click events if added in
+            // mousedown so we add it only when needed i.e., if the mouse moves
+            // outside the splitter.

@@ -1,0 +1,2 @@
+Releases a shared AST previously acquired by calling
+	 * {@link #acquireSharedAST(ITranslationUnit, IIndex, boolean, IProgressMonitor)}.

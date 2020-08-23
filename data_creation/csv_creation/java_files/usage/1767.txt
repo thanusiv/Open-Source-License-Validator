@@ -1,0 +1,1 @@
+	 * @return whether to include objects of the given linkage in the query.

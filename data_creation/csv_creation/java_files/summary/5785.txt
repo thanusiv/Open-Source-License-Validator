@@ -1,0 +1,2 @@
+Encapsulate the acquisition of the JWT token from HTTP cookies within the
+   * request.

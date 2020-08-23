@@ -1,0 +1,4 @@
+/**
+		 * Override default behavior by terminating all sub-launches
+		 * @see org.eclipse.debug.core.Launch#terminate()
+		 */

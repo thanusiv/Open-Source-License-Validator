@@ -1,0 +1,1 @@
+Get the {@link CompressionCodec} for compressing the job outputs.

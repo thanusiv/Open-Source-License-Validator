@@ -1,0 +1,4 @@
+Because user or group id are treated as Integer (signed integer or int32)
+   * here, the number 4294967294 is out of range. The solution is to convert
+   * uint32 to int32, so to map the out-of-range ID to the negative side of
+   * Integer, e.g. 4294967294 maps to -2 and 4294967295 maps to -1.

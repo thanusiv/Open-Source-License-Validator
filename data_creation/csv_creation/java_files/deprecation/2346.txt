@@ -1,0 +1,2 @@
+@deprecated As of 7.0.1, use {@link #getPropertiesAsArray(Type)} instead
+     *             for improved performance

@@ -1,0 +1,1 @@
+@param length2 How much to compare from the right buffer

@@ -1,0 +1,2 @@
+ Datanode statistics.
+ * For decommissioning/decommissioned nodes, only used capacity is counted.

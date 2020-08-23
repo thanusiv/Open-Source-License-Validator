@@ -1,0 +1,1 @@
+            // Handle icon onload events to ensure shadow is resized correctly

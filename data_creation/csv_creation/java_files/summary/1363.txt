@@ -1,0 +1,3 @@
+/**
+   * Emit everything from the collector.
+   */

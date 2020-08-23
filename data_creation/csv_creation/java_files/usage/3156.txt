@@ -1,0 +1,1 @@
+   * @param n the desired limit on the number of unique values

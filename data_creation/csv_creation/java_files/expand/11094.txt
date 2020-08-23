@@ -1,0 +1,7 @@
+* Class used by the PropertiesBasedLabelProvider to generate store 
+ * label attributes related to a single column.  Each column info is 
+ * configured with an array of attributes (there are currently four
+ * types of attributes: text, image, font, and color), which are 
+ * evaluated in order to generate the label.  
+ * <p/>
+ * Clients are not intended to extend this class.

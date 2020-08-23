@@ -1,0 +1,4 @@
+// Make sure that if clients are currently waiting for a count,
+            // they are notified of the update (their request monitors will be 
+            // completed with an error).  They shoudl then re-request data 
+            // from provider again.

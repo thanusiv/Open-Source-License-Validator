@@ -1,0 +1,6 @@
+<p>The OpportunisticContainerAllocator allocates containers on a given list
+ * of Nodes after it modifies the container sizes to within allowable limits
+ * specified by the <code>ClusterManager</code> running on the RM. It tries to
+ * distribute the containers as evenly as possible. It also uses the
+ * <code>NMTokenSecretManagerInNM</code> to generate the required NM tokens for
+ * the allocated containers</p>

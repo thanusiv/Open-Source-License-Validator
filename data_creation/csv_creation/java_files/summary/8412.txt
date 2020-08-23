@@ -1,0 +1,1 @@
+	/** Sets whether thread's process is selected. */

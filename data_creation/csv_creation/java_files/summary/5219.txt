@@ -1,0 +1,1 @@
+    // Kill the opportunistic containers that were chosen.

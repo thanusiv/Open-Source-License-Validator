@@ -1,0 +1,2 @@
+@param swallowIOException if true, don't propagate IO exceptions thrown by the {@code flush}
+   *     method

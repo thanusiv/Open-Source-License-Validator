@@ -1,0 +1,5 @@
+// header disappears, but table body height stays at
+                    // 77px
+                    // and below the body is an empty area (same height
+                    // as header would
+                    // have)

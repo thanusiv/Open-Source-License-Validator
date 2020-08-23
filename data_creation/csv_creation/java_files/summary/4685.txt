@@ -1,0 +1,1 @@
+    // Get the registry if it already exists.

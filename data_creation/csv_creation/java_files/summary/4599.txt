@@ -1,0 +1,2 @@
+eturn true when sounds good to continue or retry, false when severe
+     * condition or totally failed.

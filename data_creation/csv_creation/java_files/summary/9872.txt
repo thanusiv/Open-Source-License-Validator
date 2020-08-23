@@ -1,0 +1,1 @@
+   * Called when the node is done with its penalty or done copying.

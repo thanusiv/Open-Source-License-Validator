@@ -1,0 +1,1 @@
+E.g. the root of a tree returns 0 and its children return 1

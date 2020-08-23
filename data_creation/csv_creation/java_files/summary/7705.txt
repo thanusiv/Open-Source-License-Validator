@@ -1,0 +1,3 @@
+Returns an array of type-ids representing the exception specification. The return value
+	 * {@link #NO_EXCEPTION_SPECIFICATION} indicates that no exceptions are specified, whereas
+	 * {@link IASTTypeId#EMPTY_TYPEID_ARRAY} is used for an empty exception specification.

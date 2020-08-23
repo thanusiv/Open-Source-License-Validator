@@ -1,0 +1,1 @@
+    // Killed tasks might not have counters

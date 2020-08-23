@@ -1,0 +1,1 @@
+	 * Characters not applicable for line start comments.

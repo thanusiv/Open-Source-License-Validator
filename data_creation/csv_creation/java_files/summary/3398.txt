@@ -1,0 +1,2 @@
+Runs the benchmark for the given file size and flush frequency from the
+   * command line.

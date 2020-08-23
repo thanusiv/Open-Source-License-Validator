@@ -1,0 +1,2 @@
+/ Check if 'zlib' says its 'finished' and
+    // all compressed data has been consumed

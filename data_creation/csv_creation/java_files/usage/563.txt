@@ -1,0 +1,3 @@
+@param binding a binding for which declarations are searched for
+	 * @return an array of names
+	 * @throws CoreException

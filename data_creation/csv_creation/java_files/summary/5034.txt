@@ -1,0 +1,2 @@
+Decoding the variable-length integer. Suppose the value of the first byte
+   * is FB, and the following bytes are NB[*].

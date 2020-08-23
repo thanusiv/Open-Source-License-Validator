@@ -1,0 +1,2 @@
+These are provide as a 3 element tuple of: hostname, port
+   * and optionally path (depending on the application)

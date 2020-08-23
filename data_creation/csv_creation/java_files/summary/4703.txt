@@ -1,0 +1,2 @@
+// it is possible that some project configurations had to applied in
+		// order to effect a build. Refresh to handle that case

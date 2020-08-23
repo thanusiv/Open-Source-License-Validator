@@ -1,0 +1,2 @@
+ // we must hook value change listener to ensure updates in all use
+            // cases (eg. edit mode)

@@ -1,0 +1,2 @@
+// Normalize the resource asks (Similar to what the the RM scheduler does
+    // before accepting an ask)

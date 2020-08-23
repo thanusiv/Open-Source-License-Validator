@@ -1,0 +1,5 @@
+/**
+	 * Returns an array of files containing unresolved includes.
+	 * @noreference This method is not intended to be referenced by clients.
+	 * @since 5.4
+	 */

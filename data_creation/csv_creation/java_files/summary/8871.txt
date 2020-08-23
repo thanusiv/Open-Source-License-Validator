@@ -1,0 +1,3 @@
+breakpoint.getMarker().setAttribute(IMarker.LINE_NUMBER, getInt(IMarker.LINE_NUMBER));
+								breakpoint.getMarker().setAttribute(ICLineBreakpoint2.REQUESTED_LINE, getInt(IMarker.LINE_NUMBER));
+							}

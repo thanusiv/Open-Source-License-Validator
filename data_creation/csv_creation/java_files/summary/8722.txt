@@ -1,0 +1,10 @@
+/**
+   * Regression test for HDFS-2795:
+   *  - Start an HA cluster with a DN.
+   *  - Write several blocks to the FS with replication 1.
+   *  - Shutdown the DN
+   *  - Wait for the NNs to declare the DN dead. All blocks will be under-replicated.
+   *  - Restart the DN.
+   * In the bug, the standby node would only very slowly notice the blocks returning
+   * to the cluster.
+   */

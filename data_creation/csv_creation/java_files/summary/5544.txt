@@ -1,0 +1,2 @@
+This class is intended only for drag/drop between eclipse instances,
+		// so DND_COPY always set and we don't bother checking if the target is the source

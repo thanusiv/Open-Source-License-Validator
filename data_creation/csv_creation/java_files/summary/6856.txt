@@ -1,0 +1,1 @@
+          //label is not enabled in the cluster or there's only "default" label,

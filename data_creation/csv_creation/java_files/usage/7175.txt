@@ -1,0 +1,2 @@
+@return the first ancestor of this C element that has the given type, {@code null} if no such
+	 *     an ancestor can be found

@@ -1,0 +1,2 @@
+ // do the link
+    // hardlink finalized blocks in tmpDir

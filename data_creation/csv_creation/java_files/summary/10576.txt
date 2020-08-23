@@ -1,0 +1,2 @@
+ Maintains a list of extensions implementing the org.eclipse.cdt.ui.callHierarchyProviders
+ * extension point.

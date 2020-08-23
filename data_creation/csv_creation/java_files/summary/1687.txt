@@ -1,0 +1,4 @@
+ICProject cproject= e.getAffectedProject();
+		if (cproject == null) {
+			return;
+		}

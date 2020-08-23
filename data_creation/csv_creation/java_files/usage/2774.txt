@@ -1,0 +1,1 @@
+   * @return counts that have been added with the current qutoa usage

@@ -1,0 +1,3 @@
+the failed attempt is the one that made this task successful
+        // so its no longer successful. Reset fields set in
+        // handleTaskFinishedEvent()

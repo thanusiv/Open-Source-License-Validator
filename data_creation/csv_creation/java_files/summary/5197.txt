@@ -1,0 +1,2 @@
+ Remove the given container from the allocated containers, and update
+   * allocated container utilization accordingly.

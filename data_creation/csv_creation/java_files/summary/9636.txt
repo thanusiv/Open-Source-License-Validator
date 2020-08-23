@@ -1,0 +1,1 @@
+     * Encodes a connector map. Invisible connectors are skipped.

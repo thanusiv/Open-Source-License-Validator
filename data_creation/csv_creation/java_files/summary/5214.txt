@@ -1,0 +1,2 @@
+ // If there are sufficient resources to execute the given container, do
+      // not kill more opportunistic containers.

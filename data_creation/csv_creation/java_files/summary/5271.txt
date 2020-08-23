@@ -1,0 +1,2 @@
+ Creates a new child node or retrieves and existing child and updates
+         * its total time and hit count.

@@ -1,0 +1,1 @@
+	 * When used as a lambda declarator, it can be mutable.

@@ -1,0 +1,1 @@
+	 * Returns an absolute URI corresponding to the innermost file enclosing this element.

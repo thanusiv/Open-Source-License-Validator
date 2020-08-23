@@ -1,0 +1,4 @@
+// If the block is corrupted, it means all its available replicas are
+        // corrupted. We don't mark it as missing given these available replicas
+        // might still be accessible as the block might be incorrectly marked as
+        // corrupted by client machines.

@@ -1,0 +1,1 @@
+   * Processes a single shared cache resource directory.

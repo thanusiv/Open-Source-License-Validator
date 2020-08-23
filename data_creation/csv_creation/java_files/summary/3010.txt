@@ -1,0 +1,1 @@
+   * Constructs exception with the specified detail message and cause.

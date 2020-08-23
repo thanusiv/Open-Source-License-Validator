@@ -1,0 +1,3 @@
+Used to show tooltips; usually used via the singleton in
+     * {@link ApplicationConnection}. NOTE that #setOwner(Widget)} should be
+     * called after instantiating.

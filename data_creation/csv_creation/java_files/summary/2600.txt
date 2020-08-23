@@ -1,0 +1,2 @@
+// set constructFullMapAtInit to false to allow testing code to
+      // do incremental update to maps after initial construction

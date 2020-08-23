@@ -1,0 +1,3 @@
+Write the objec to a DataOutput. The serialized format of the Version is
+     * major version followed by minor version, both as big-endian short
+     * integers.

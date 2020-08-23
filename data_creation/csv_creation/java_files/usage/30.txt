@@ -1,0 +1,1 @@
+@param access The access required by the path.

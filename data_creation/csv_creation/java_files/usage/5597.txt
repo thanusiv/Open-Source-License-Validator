@@ -1,0 +1,1 @@
+	 * @return the editor's selection provider or <code>null</code>

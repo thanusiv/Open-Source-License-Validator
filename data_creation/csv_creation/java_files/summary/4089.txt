@@ -1,0 +1,1 @@
+Verifies an long is greater or equal to zero.

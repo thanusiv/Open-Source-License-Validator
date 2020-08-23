@@ -1,0 +1,2 @@
+ Resets the collected profiler data. Calls to this method will be removed
+     * by the compiler unless profiling is enabled.

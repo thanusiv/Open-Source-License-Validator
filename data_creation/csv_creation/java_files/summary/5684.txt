@@ -1,0 +1,2 @@
+always reset the selection if anything was replaced
+						// but not when we had a single line non-tab invocation

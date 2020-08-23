@@ -1,0 +1,2 @@
+ Use the receiving linkage by default, and override only if the binding is found to
+		// have a linkage with a different id.

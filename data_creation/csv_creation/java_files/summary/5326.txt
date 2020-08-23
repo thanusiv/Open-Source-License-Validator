@@ -1,0 +1,1 @@
+ Callback interface for generating custom style names for cells

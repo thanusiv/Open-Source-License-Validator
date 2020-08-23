@@ -1,0 +1,5 @@
+/*
+	 * isValid
+	 * 
+	 * @see org.eclipse.debug.ui.ILaunchConfigurationTab#isValid
+	 */

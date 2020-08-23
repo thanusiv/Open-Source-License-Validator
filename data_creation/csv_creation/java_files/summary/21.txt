@@ -1,0 +1,4 @@
+/**
+   * Verify if the caller has the required permission. This will result into 
+   * an exception if the caller is not allowed to access the resource.
+   */

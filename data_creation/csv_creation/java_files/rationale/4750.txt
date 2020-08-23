@@ -1,0 +1,1 @@
+// YARN doesn't have the concept of slots per task, set it as 1.

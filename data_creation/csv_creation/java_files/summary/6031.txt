@@ -1,0 +1,3 @@
+Provides context sensitive annotations for source elements.
+ * 
+ * This interface is experimental.

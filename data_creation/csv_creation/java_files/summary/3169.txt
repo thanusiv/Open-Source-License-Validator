@@ -1,0 +1,1 @@
+  /** Calculated timestamp of when to roll a new leveldb instance. */

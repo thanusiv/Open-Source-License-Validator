@@ -1,0 +1,2 @@
+'spy' should have been ignored since 'abstractFuture' was done before
+    // a listener was added.

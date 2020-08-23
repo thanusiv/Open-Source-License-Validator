@@ -1,0 +1,3 @@
+/**
+	 * Relation between template template parameter and its name.
+	 */

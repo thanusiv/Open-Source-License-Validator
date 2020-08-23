@@ -1,0 +1,1 @@
+    // 2. Test "file:" ecPolicy and no ecPolicy (path-only). Both should work.

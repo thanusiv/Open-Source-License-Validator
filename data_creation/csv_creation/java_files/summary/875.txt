@@ -1,0 +1,1 @@
+   * Localize the given JobConf to be specific for this task.

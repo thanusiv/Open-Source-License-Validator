@@ -1,0 +1,2 @@
+ this is the path to the cache resource directory
+      // the directory name is the resource key (i.e. a unique identifier)

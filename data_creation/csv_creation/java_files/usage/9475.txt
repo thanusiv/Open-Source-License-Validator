@@ -1,0 +1,1 @@
+	 * @param isCodeCompletion  completion is in code, not preprocessor, etc.

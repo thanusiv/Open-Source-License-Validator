@@ -1,0 +1,2 @@
+@param informationDisplayString the string to be displayed when presenting the context information,
+	 *		may not be <code>null</code>

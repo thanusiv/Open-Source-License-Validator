@@ -1,0 +1,1 @@
+		 * Constructor verifies that version is in the range (min_version, max_version]

@@ -1,0 +1,11 @@
+/*-{
+        $wnd.__gwtStatsEvent({
+            evtGroup: @com.vaadin.client.Profiler::evtGroup,
+            moduleName: @com.google.gwt.core.client.GWT::getModuleName()(),
+            millis: (new Date).getTime(),
+            sessionId: undefined,
+            subSystem: name,
+            type: type,
+            relativeMillis: @com.vaadin.client.Profiler::getRelativeTimeMillis()()
+        });
+    }-*/;

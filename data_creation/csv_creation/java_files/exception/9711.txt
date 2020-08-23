@@ -1,0 +1,2 @@
+ @throws InvalidExpressionException
+	 *             if the given expression can't be reduced to a single constant

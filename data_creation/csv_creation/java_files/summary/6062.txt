@@ -1,0 +1,2 @@
+Tests that clicking on active fields doesn't change Table selection, nor does
+ * dragging rows.

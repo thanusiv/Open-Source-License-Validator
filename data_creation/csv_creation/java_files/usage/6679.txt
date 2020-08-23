@@ -1,0 +1,1 @@
+@since 7.0 (previously using startTag(Paintable, String))

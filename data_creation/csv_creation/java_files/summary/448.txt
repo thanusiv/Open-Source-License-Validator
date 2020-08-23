@@ -1,0 +1,6 @@
+/**
+ * An container context object.  In the GDB/MI protocol, thread groups
+ * are used as containers of threads, and are represented by a string 
+ * identifier.  These thread groups are the basis for this context.
+ * @since 1.1
+ */

@@ -1,0 +1,3 @@
+// test.har has the following contents:
+    //   dir1/1.txt
+    //   dir1/2.txt

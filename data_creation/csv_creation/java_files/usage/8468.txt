@@ -1,0 +1,1 @@
+   * @return true if the transition to a new state is valid

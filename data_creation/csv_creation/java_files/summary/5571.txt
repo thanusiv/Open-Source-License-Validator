@@ -1,0 +1,3 @@
+Return a string that uniquely identifies a Java object reference, in the
+	 * form "classname@id", where 'classname' is the simple or package qualified
+	 * name of the object's class, and 'id' is the hash code.

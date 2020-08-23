@@ -1,0 +1,1 @@
+   * Validate that the expiration time of the JWT token has not been violated.

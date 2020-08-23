@@ -1,0 +1,1 @@
+   * @param pathSpec  the path spec in the form of /controller/action/:args etc.

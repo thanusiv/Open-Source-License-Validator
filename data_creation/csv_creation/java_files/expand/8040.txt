@@ -1,0 +1,4 @@
+ // We allow rollback to a state, which is either consistent with
+    // the namespace state or can be further upgraded to it.
+    // In another word, we can only roll back when ( storedLV >= software LV)
+    // && ( DN.previousCTime <= NN.ctime)

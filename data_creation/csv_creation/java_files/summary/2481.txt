@@ -1,0 +1,1 @@
+	 * Hashes a key into an index in the hash table.

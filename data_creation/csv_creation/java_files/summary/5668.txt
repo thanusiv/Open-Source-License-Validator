@@ -1,0 +1,2 @@
+Returns the size in characters of a string. All characters count one, tabs count the editor's
+	 * preference for the tab display

@@ -1,0 +1,1 @@
+ * Tests declarative support for {@link CustomLayout}.

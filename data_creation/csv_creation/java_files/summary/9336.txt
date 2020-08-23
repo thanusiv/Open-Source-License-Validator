@@ -1,0 +1,1 @@
+  /** test partitioner for patterns */

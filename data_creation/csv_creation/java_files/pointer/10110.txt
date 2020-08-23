@@ -1,0 +1,1 @@
+		 * @see org.eclipse.jface.text.contentassist.ICompletionProposal#getImage()

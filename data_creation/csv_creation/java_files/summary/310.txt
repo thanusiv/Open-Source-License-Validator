@@ -1,0 +1,1 @@
+// Invalidate 2/4 of the redundant journals.

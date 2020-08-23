@@ -1,0 +1,2 @@
+@throws ServletException
+   *           thrown if the handler could not be initialized.

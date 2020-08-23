@@ -1,0 +1,1 @@
+Why integers and not enums? Cross platform serialization as JSON

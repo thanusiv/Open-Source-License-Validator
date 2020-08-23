@@ -1,0 +1,5 @@
+/**
+	 * Constant to specify infinite depth.
+	 * @see #findIncludedBy(IIndexFile, int)
+	 * @see #findIncludes(IIndexFile, int)
+	 */

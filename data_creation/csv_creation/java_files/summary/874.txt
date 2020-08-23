@@ -1,0 +1,1 @@
+    // check if map-outputs are to be compressed

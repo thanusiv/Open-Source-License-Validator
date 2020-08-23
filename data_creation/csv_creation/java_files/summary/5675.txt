@@ -1,0 +1,2 @@
+// change document:
+		// get current white space

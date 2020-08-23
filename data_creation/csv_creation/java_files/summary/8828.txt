@@ -1,0 +1,7 @@
+/**
+ * Common function for actions that operate on a text viewer.
+ * <p>
+ * Clients may subclass this class.
+ * </p>
+ * @since 3.0
+ */

@@ -1,0 +1,3 @@
+// static bool connect( const QObject *sender, const QMetaMethod &signal,
+    	//                      const QObject *receiver, const QMetaMethod &method,
+    	//                      Qt::ConnectionType type = Qt::AutoConnection )

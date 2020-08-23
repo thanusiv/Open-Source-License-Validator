@@ -1,0 +1,4 @@
+/**
+	 * Constant representing a folder (ICContainer object).
+	 * A C element with this type can be safely cast to <code>ICContainer</code>.
+	 */

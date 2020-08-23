@@ -1,0 +1,2 @@
+@param monitor a progress monitor to indicate the duration of the operation, or
+	 * <code>null</code> if progress reporting is not required.

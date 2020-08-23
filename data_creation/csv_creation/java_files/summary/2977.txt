@@ -1,0 +1,3 @@
+/**
+         * The style name for the row. Null if none.
+         */

@@ -1,0 +1,5 @@
+/**
+	 * Add, Create/Link: always enabled
+	 * Edit: enabled if 1 element selected (entry or filter)
+	 * Delete: enabled if selected element is entry
+	 */

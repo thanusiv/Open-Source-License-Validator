@@ -1,0 +1,10 @@
+ * contents of whole class such as ResourceDescription,
+ * ConfigurationDescription or ProjectDescription
+ *
+ * Notes:
+ *
+ * 1. Many strings in the file remain unlocalized
+ *    since they represent method names.
+ * 2. It is experimental functionality. Work is in progress.
+ * 3. Tree depth is limited by 16. Deeper branches are truncated.
+ *    But it seems to be very rare situation.

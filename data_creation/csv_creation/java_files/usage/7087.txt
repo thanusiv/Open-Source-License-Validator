@@ -1,0 +1,1 @@
+	 * @param element the element to compute the text flags for

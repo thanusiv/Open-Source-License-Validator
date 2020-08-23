@@ -1,0 +1,11 @@
+/**
+	 * Initializes the custom field-editor.
+	 * 
+     * @param option the underlying build-option.
+     * @param extraArgument an optional {@link IOption#getFieldEditorExtraArgument() extra argument} 
+     * 			for the field-editor. May be {@code null}.
+     * @param preferenceName the name of the preference this field editor binds to.
+     * @param parent the parent of the field editor's control.
+     * @return {@code true} iff the custom field-editor can be successfully displayed. Returning {@code false}
+     * 			would cause the built-in field-editor to be displayed based on the option's {@link IOption#getValueType() valueType}.
+	 */

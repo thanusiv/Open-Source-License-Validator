@@ -1,0 +1,1 @@
+ Zero-args constructor for the serialization.

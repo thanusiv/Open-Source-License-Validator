@@ -1,0 +1,7 @@
+
+	/**
+	 * Returns the list of controls for which tool-tips should be displayed by the Build Settings dialog-page.
+	 * 
+	 * @return the list of controls for which tool-tips should automatically be displayed by the Build Settings dialog-page.
+	 * 			May return {@code null} to signify that tool-tips are handled by the custom field-editor itself.
+	 */

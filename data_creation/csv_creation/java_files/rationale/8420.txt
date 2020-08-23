@@ -1,0 +1,2 @@
+// if it has an associated debugger, add a marker
+			// (for now, every thread is debugged.)

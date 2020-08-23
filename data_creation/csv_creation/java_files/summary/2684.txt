@@ -1,0 +1,1 @@
+	/** get the highest recorded load value for this CPU*/

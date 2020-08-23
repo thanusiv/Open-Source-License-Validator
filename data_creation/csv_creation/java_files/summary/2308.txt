@@ -1,0 +1,4 @@
+ /**
+     * Sync the data to DataNode, close the current block, and allocate a new
+     * block
+     */

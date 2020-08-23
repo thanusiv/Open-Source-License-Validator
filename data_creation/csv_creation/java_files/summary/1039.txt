@@ -1,0 +1,2 @@
+// Create a fake block deletion notification on the DataNode.
+    // This will be sent with the next incremental block report.

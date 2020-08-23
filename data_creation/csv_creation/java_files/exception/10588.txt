@@ -1,0 +1,1 @@
+   * @throws AuthenticationException thrown if the token is invalid or if it has expired.

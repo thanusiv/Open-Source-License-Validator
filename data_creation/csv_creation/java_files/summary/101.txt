@@ -1,0 +1,4 @@
+/**
+		 * Associate the launch
+		 * @param subLaunch
+		 */

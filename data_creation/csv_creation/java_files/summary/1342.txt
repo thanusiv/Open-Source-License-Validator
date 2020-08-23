@@ -1,0 +1,2 @@
+Returns the given position clamped to the range between current minimum
+     * and maximum positions.

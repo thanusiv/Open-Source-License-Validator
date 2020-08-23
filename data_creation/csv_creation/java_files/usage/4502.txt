@@ -1,0 +1,1 @@
+	 * @return boolean indicating whether this storage type writes a (compatible) .cproject file

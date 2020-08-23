@@ -1,0 +1,2 @@
+The information (e.g., the IP address) of the current proxy object. It
+     * provides information for debugging purposes.

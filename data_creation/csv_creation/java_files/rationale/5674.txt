@@ -1,0 +1,2 @@
+// if we are right before the text start / line end, and already after the insertion point
+		// then just shift to the right

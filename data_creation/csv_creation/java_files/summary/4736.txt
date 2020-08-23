@@ -1,0 +1,2 @@
+Visits Connector classes and check for methods with @OnStateChange
+ * annotations.

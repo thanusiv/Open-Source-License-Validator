@@ -1,0 +1,1 @@
+			// this does not check for superinterfaces, feel free to implement as needed

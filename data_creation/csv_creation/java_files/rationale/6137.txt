@@ -1,0 +1,2 @@
+If the parent (sub)component already has a tooltip open and it
+            // hasn't changed, we ignore the event.

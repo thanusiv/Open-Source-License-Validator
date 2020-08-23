@@ -1,0 +1,1 @@
+    // Try to load native hadoop library and set fallback flag appropriately

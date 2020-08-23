@@ -1,0 +1,2 @@
+Marks an event subscriber method as being thread-safe. This annotation indicates that EventBus
+ * may invoke the event subscriber simultaneously from multiple threads.

@@ -1,0 +1,1 @@
+Note: you must hold the cache lock to call this function.

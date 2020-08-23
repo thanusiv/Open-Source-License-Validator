@@ -1,0 +1,3 @@
+/**
+   * Returns {@code true} if the bit is set at the specified index.
+   */

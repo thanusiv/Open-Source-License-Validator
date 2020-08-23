@@ -1,0 +1,4 @@
+Returns a {@code new Object()} for every request, and increments a counter for every request.
+   * An {@code Integer} loader that returns the key for {@code load} requests, and increments the
+   * old value on {@code reload} requests. The load counts are accessible via {@link #getLoadCount}
+   * and {@link #getReloadCount}.

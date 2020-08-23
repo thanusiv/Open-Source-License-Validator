@@ -1,0 +1,1 @@
+   * @param token authentication token for the cookie.

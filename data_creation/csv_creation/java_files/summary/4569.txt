@@ -1,0 +1,2 @@
+	// Provide parameter info as context information that
+							// is tied to the completion proposal.

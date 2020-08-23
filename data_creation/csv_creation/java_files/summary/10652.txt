@@ -1,0 +1,2 @@
+* Testing Member_Reference completion kind, with a prefix
+ * After a .

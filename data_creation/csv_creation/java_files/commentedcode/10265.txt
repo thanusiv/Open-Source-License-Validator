@@ -1,0 +1,1 @@
+//		fExpandInMakefile = TRUE.equals(element.getAttribute(EXPAND_ENVIRONMENT_MACROS));

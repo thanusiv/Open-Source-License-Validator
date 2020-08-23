@@ -1,0 +1,5 @@
+/**
+	 * Caller to {@link #getMemorySpaces()} provides one of these, as that
+	 * method may need to consult the debugger backend, and thus needs to be
+	 * asynchronous
+	 */

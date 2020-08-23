@@ -1,0 +1,2 @@
+Choose the opportunistic containers to kill in order to free up resources
+   * for running the given container.

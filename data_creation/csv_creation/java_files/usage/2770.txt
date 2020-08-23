@@ -1,0 +1,3 @@
+@param namespace size of the directory to be set
+   * @param storagespace storage space take by all the nodes under this directory
+   * @param typespaces counters of storage type usage

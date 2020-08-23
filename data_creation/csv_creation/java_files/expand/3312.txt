@@ -1,0 +1,6 @@
+/**
+   * The monotonic time in nanoseconds at which the replica became evictable, or
+   * null if it is not evictable.
+   *
+   * Protected by the cache lock.
+   */

@@ -1,0 +1,3 @@
+ /**
+   * Monotonic time at which the replica was created.
+   */

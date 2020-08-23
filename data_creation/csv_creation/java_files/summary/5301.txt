@@ -1,0 +1,5 @@
+Sets the profiler result consumer that is used to output the profiler
+     * data to the user.
+     * <p>
+     * <b>Warning!</b> This is internal API and should not be used by
+     * applications or add-ons.

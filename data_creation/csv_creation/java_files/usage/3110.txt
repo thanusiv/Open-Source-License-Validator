@@ -1,0 +1,1 @@
+@return breakpoint associated with activity in the ruler or <code>null</code>

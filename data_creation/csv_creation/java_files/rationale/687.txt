@@ -1,0 +1,1 @@
+// This page can be displayed either for project or for folder

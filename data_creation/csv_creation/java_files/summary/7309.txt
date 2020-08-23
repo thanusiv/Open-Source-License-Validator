@@ -1,0 +1,2 @@
+ Default implementation creates a delta assuming that the root layout node
+     * is the input object into the view.

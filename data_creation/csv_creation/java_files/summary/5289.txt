@@ -1,0 +1,4 @@
+Initializes the profiler. This should be done before calling any other
+     * function in this class. Failing to do so might cause undesired behavior.
+     * This method has no side effects if the initialization has already been
+     * done.

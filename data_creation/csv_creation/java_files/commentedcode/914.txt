@@ -1,0 +1,7 @@
+//	public void setExcluded(boolean excluded) {
+//		if(excluded == fIsExcluded)
+//			return;
+//
+//		fIsExcluded = excluded;
+//		setModified(true);
+//	}

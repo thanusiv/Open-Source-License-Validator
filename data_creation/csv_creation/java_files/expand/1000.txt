@@ -1,0 +1,2 @@
+// If list is already sorted, just copy from src to dest.  This is an
+    // optimization that results in faster sorts for nearly ordered lists.

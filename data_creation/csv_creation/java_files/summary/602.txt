@@ -1,0 +1,3 @@
+/**
+	 * Any lock obtained by {@link #acquireReadLock()} must be released.
+	 */

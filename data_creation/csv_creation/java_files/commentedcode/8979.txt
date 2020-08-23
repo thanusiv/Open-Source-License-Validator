@@ -1,0 +1,4 @@
+//		public void add(Category category) {
+//			category.index= fIndex++;
+//			fCategoriesList.add(category);
+//		}

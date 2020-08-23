@@ -1,0 +1,1 @@
+@see org.eclipse.cdt.managedbuilder.core.IManagedCommandLineInfo#getOutputPrefix()

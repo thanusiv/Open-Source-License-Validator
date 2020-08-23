@@ -1,0 +1,3 @@
+Setting table height and setting column header mode as hidden leaves the body
+ * height of the table as it would be with the headers visible and leaves an
+ * empty area below the body.

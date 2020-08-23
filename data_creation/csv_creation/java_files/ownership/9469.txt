@@ -1,0 +1,8 @@
+Contributors:
+ *     IBM Rational Software - Initial API and implementation
+ *     Anton Leherbauer (Wind River Systems)
+ *     Bryan Wilkinson (QNX)
+ *     Markus Schorn (Wind River Systems)
+ *     Thomas Corbat (IFS)
+ *     Sergey Prigogin (Google)
+ *     Mohamed Azab (Mentor Graphics)

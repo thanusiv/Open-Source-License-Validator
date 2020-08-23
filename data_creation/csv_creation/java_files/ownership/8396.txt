@@ -1,0 +1,3 @@
+Contributors:
+ *     William R. Swanson (Tilera Corporation) - initial API and implementation
+ *     Xavier Raynaud (Kalray) - Bug 431690, 432151, 431935

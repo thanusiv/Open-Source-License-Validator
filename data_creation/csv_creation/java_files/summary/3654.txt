@@ -1,0 +1,1 @@
+			// each SOM Directory entry has 2 32bit words: SOM offset from LST and size

@@ -1,0 +1,1 @@
+			// draw an alpha-shaded "pixie" light for each thread

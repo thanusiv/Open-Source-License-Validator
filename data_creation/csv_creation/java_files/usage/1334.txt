@@ -1,0 +1,3 @@
+@return minimumPosition if pos is less than minimumPosition;
+     *         maximumPosition if pos is greater than maximumPosition; pos
+     *         otherwise.

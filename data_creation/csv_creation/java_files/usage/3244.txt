@@ -1,0 +1,2 @@
+@param newSnapshotName
+   *          New name of the snapshot

@@ -1,0 +1,2 @@
+// If container is null and distributed scheduling is enabled, container
+    // might be queued. Otherwise, container might not be handled by this NM.

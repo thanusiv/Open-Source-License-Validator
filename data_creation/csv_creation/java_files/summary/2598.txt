@@ -1,0 +1,2 @@
+// print the following log at initialization or when the static
+        // mapping file was deleted after prior load

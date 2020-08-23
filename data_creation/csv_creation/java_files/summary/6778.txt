@@ -1,0 +1,1 @@
+     * Adds text node. All the contents of the text are XML-escaped.

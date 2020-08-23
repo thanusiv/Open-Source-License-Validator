@@ -1,0 +1,1 @@
+	 * Modifier indicating a class destructor

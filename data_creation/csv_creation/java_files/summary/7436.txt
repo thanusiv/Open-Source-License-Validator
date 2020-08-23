@@ -1,0 +1,1 @@
+	 * Only lock the workspace is this is a ManagedBuild, or this project references others.

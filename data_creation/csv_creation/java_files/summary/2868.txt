@@ -1,0 +1,3 @@
+Handles ambiguities when parsing declarators.
+ * <br>
+ * Example: void f(int (D));  // is D a type?

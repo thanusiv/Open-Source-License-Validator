@@ -1,0 +1,2 @@
+Flag which tells if the colors are automatically disposed when
+	 * the current display gets disposed.

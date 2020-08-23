@@ -1,0 +1,2 @@
+ This class provides rudimentary checking of DFS volumes for errors and
+ * sub-optimal conditions.

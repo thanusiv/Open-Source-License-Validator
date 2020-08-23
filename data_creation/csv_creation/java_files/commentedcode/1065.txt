@@ -1,0 +1,1 @@
+//		fSortMembers.setActionDefinitionId(ICEditorActionDefinitionIds.SORT_MEMBERS);

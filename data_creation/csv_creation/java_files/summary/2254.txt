@@ -1,0 +1,4 @@
+Visit an unspecified or unscoped strategy. On a module, this strategy indicates that the
+   * injector should use scoping annotations to find a scope. On an injector, it indicates that
+   * no scope is applied to the binding. An unscoped binding will behave like a scoped one when it
+   * is linked to a scoped binding.

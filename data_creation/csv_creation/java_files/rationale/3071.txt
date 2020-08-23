@@ -1,0 +1,1 @@
+Casting to any type is safe because the set will never hold any elements.

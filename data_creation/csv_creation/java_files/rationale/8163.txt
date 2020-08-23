@@ -1,0 +1,2 @@
+// Check if zlib has consumed all input
+    // compress should be invoked if keepUncompressedBuf true

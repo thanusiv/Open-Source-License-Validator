@@ -1,0 +1,1 @@
+     * Create and return a sender given an IO stream pair.

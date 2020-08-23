@@ -1,0 +1,4 @@
+/**
+		 * Override default behavior by querying all sub-launches if they can be terminated
+		 * @see org.eclipse.debug.core.Launch#canTerminate()
+		 */

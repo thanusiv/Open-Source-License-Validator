@@ -1,0 +1,1 @@
+ * This dialog is used to add/edit user-defined register groups.

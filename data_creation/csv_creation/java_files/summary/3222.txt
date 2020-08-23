@@ -1,0 +1,3 @@
+// We have reached the maximum allowable snapshot ID and since we don't
+      // handle rollover we will fail all subsequent snapshot creation
+      // requests.

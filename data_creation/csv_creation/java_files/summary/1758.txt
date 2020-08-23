@@ -1,0 +1,2 @@
+Get an IndexFilter that filters out bindings without declarations and those from linkages
+	 * other than that specified.

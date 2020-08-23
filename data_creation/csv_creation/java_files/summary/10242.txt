@@ -1,0 +1,1 @@
+ * Extends to IModules interface to supporting loading symbols.

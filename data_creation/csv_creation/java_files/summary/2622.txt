@@ -1,0 +1,5 @@
+This is a COMBO BOX. So we need to take the value of the bitfield and
+                 *  compare it to the associated mnemonic values to see which mnemonic is
+                 *  representing the current value. At this point the Bitfield Model data
+                 *  has already been established since the "canModify()" method is called
+                 *  first by the flexible hierarchy proxies.

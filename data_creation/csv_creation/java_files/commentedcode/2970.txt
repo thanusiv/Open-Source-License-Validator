@@ -1,0 +1,4 @@
+/* disabled for Hadoop v1 compatibility
+    assertFalse("File claims to be a symlink " + fileInfo,
+                       status.isSymlink());
+*/

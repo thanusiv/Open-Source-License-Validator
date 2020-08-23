@@ -1,0 +1,2 @@
+The class that encapsulates response from clusterinfo for 
+ * updates from the node managers.

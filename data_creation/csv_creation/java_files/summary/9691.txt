@@ -1,0 +1,1 @@
+	/** Creates and returns visualizer control on specified parent. */

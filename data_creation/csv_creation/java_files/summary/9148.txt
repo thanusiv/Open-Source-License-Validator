@@ -1,0 +1,2 @@
+ This interface represents the given build macro
+ * Clients may implement or extend this interface.

@@ -1,0 +1,1 @@
+	/** Invoked to allow element to paint itself on the viewer canvas */

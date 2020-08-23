@@ -1,0 +1,1 @@
+   * Mark the host as penalized

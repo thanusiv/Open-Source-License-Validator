@@ -1,0 +1,4 @@
+/**
+	 * Not allowed on frozen ast.
+	 * @deprecated Replaced by {@link #setArgument(IASTInitializerClause)}
+	 */

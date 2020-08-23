@@ -1,0 +1,1 @@
+	 * Returns value of the attribute of the provider by id or closest superclass.

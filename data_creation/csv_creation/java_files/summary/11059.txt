@@ -1,0 +1,1 @@
+ * Abstract base for all different rename processors used by the top processor.

@@ -1,0 +1,2 @@
+A type string which MUST be in the serialized json. This permits
+   * fast discarding of invalid entries

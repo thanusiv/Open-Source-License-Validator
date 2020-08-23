@@ -1,0 +1,2 @@
+Configures this {@code Builder} to order entries by value according to the specified
+     * comparator.

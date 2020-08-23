@@ -1,0 +1,2 @@
+// This is a project file.  We want to be notified if the Autoconf editor
+			// properties are changed such that the macro versions are changed.

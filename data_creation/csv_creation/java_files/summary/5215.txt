@@ -1,0 +1,2 @@
+ // Go over the running opportunistic containers. Avoid containers that have
+    // already been marked for killing.

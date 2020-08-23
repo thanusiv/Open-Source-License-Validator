@@ -1,0 +1,4 @@
+/**
+	 * Add a nested template parameter.
+	 * @since 5.3
+	 */

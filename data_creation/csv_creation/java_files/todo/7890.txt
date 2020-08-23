@@ -1,0 +1,1 @@
+bug 222817 (OptionCategoryApplicability)

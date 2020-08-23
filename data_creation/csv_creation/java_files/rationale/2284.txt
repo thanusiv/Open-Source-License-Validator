@@ -1,0 +1,5 @@
+// By default the tracepoint is enabled at creation
+												// If it wasn't supposed to be, then disable it right away
+												// Also, tracepoints are created with no passcount.
+												// We have to set the passcount manually now.
+												// Same for commands.

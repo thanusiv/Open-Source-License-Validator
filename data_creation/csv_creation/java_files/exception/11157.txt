@@ -1,0 +1,3 @@
+  * @throws PortletModeException
+     *             if the portlet mode is not allowed for some reason
+     *             (configuration, permissions etc.)

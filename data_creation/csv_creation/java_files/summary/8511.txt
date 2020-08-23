@@ -1,0 +1,6 @@
+/**
+	 * Creates a new context information without an image.
+	 *
+	 * @param contextDisplayString the string to be used when presenting the context
+	 * @param informationDisplayString the string to be displayed when presenting the context information
+	 */

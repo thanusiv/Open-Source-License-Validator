@@ -1,0 +1,1 @@
+  //  decides if this plugin can emulate heap usage or not

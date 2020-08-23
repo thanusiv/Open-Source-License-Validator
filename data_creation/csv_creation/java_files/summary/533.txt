@@ -1,0 +1,6 @@
+Defines a viewport tag generator class that will be used for generating the
+ * content of a viewport tag that will be added to the HTML of the host page of
+ * a UI class.
+ * <p>
+ * If you want to use the same viewport values for all requests, you can use the
+ * simpler {@link Viewport} annotation instead.

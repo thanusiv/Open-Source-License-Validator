@@ -1,0 +1,2 @@
+Look through all linkage nodes to find the next one that has a non-empty
+			// names list.

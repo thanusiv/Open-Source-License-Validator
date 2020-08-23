@@ -1,0 +1,8 @@
+/**
+	 * Returns an unsorted collection of the enumerators contained in the enum references
+	 * in the Q_ENUMS macro expansion.
+	 * <p>
+	 * NOTE: It would be nice if the textual order of the enumerators was preserved by the
+	 * underlying CDT index, but it is not.  The {@link Enumerator#getOrdinal()} method can
+	 * be used to recover some ordering information.
+	 */

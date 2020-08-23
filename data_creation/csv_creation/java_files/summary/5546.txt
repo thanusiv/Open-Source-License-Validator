@@ -1,0 +1,1 @@
+	 * Constructor setting a viewer such as TreeViewer to pull selection from later on.

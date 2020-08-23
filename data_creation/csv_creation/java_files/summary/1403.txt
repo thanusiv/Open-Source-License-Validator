@@ -1,0 +1,3 @@
+/*
+	 * Reimplemented method from superclass
+	 */

@@ -1,0 +1,4 @@
+//	protected CLanguageData doCreateLanguageDataForContentTypes(String languageId,
+//			String[] typesIds) {
+//		return fFactory.createLanguageData(fCfg, this, null, null, languageId, typesIds, true);
+//	}

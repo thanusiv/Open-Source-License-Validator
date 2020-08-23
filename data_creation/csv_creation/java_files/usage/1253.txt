@@ -1,0 +1,2 @@
+@return the number of bytes necessary to write out this header,
+   * including the length-prefixing of the payload and header

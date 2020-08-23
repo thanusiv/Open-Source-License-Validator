@@ -1,0 +1,2 @@
+ // Since the label for triggers doesn't change, this node will generate 
+        // delta info only if the list of alarms is changed.

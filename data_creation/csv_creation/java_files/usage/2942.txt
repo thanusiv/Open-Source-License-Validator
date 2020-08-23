@@ -1,0 +1,1 @@
+   * @param path path of the directory

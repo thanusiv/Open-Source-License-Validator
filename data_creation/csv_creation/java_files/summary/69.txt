@@ -1,0 +1,1 @@
+// If this user is the directory owner, return

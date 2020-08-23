@@ -1,0 +1,3 @@
+ Contributors:
+ *     Ericsson - initial API and implementation
+ *     Intel Corporation - Added Reverse Debugging BTrace support

@@ -1,0 +1,2 @@
+Replace the journal at index <code>index</code> with one that throws an
+   * exception on flush.

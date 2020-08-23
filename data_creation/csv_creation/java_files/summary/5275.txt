@@ -1,0 +1,1 @@
+Gets the number of times this node has been entered

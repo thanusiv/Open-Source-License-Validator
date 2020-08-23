@@ -1,0 +1,4 @@
+// DFSck client scans for the string HEALTHY/CORRUPT to check the status
+        // of file system and return appropriate code. Changing the output
+        // string might break testcases. Also note this must be the last line
+        // of the report.

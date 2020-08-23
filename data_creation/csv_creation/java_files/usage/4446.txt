@@ -1,0 +1,1 @@
+   * @return the UGI for <i>sink</i>

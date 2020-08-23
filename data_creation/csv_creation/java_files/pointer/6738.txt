@@ -1,0 +1,1 @@
+@link StreamingStartEvent#disposeStreamVariable()

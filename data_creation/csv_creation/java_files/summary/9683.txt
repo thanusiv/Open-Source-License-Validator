@@ -1,0 +1,1 @@
+	/** Invoked when visualizer view's context menu is invoked, to populate it. */

@@ -1,0 +1,1 @@
+      // We only expect an exception if x was not a power of 2.

@@ -1,0 +1,5 @@
+Configure the set of default line end comment characters.
+	 * <p>
+	 * These characters are considered line comment introducers at the end of a
+	 * instruction line.
+	 * </p>

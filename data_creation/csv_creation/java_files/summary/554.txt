@@ -1,0 +1,3 @@
+/**
+	 * Constant to search for all declarations including definitions.
+	 */

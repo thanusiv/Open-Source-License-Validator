@@ -1,0 +1,2 @@
+This class represents the set of Build Macros that could be loaded
+ * and stored in XML

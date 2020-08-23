@@ -1,0 +1,4 @@
+uid and gid are defined as uint32 in linux. Some systems create
+   * (intended or unintended) <nfsnobody, 4294967294> kind of <name,Id>
+   * mapping, where 4294967294 is 2**32-2 as unsigned int32. As an example,
+   *   https://bugzilla.redhat.com/show_bug.cgi?id=511876.

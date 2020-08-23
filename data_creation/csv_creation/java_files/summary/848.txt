@@ -1,0 +1,1 @@
+// Ensure that the output directory is set and not already there

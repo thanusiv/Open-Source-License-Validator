@@ -1,0 +1,2 @@
+Returns if the current selection is valid, i.e. whether it is empty and the caret in the
+	 * whitespace at the start of a line, or covers multiple lines.

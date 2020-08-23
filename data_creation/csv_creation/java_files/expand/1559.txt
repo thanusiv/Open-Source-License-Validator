@@ -1,0 +1,7 @@
+Each ModifyDialogTabPage has its own instance,
+	 * and it should add all relevant controls upon creation, always in the same sequence.
+	 * This established a mapping of controls to indexes, which allows to restore the focus
+	 * in a later session. 
+	 * The index is saved in the dialog settings, and there is only one common preference for 
+	 * all tab pages. It is always the currently active tab page which stores its focus
+	 * index.

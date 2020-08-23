@@ -1,0 +1,2 @@
+@return Resource to install marker on, or <code>null</code> for not
+     *         available.

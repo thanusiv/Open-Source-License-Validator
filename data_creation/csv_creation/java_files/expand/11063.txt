@@ -1,0 +1,3 @@
+ The options that may need exhaustive file search since index lookup is not guaranteed to
+     * return all files participating in refactoring. When one of these options is selected,
+     * the exhaustive file search is enabled.

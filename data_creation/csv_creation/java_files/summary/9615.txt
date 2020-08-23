@@ -1,0 +1,2 @@
+ // Legacy Object[] and String[] handled elsewhere, this takes care
+            // of generic arrays

@@ -1,0 +1,2 @@
+Create a new ServerSocket that will not accept SSLv3 connections,
+   * but will accept TLSv1.x connections.

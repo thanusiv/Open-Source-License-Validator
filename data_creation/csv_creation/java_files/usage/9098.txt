@@ -1,0 +1,2 @@
+@param minValue
+     *            The minimum value to accept or null for no limit

@@ -1,0 +1,1 @@
+	 * Returns the style bits for the viewer.

@@ -1,0 +1,4 @@
+Contributors:
+ *     Ericsson - initial API and implementation
+ *     Vladimir Prus (CodeSourcery) - Support for -data-read-memory-bytes (bug 322658)     
+ *     Jens Elmenthaler (Verigy) - Added Full GDB pretty-printing support (bug 302121)

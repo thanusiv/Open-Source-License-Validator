@@ -1,0 +1,1 @@
+   * @return true if an expected audience is present, otherwise false

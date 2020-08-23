@@ -1,0 +1,5 @@
+
+    /**
+     * When doing sync to DataNodes, also update the metadata (block length) in
+     * the NameNode.
+     */

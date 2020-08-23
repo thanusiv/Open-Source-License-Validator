@@ -1,0 +1,2 @@
+ Gets the maximum time spent for one invocation of this node,
+         * including time spent in sub nodes

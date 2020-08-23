@@ -1,0 +1,5 @@
+/**
+	 * Entry kind constant describing a path entry identifying a
+	 * library. A library is an archive containing 
+	 * consisting of pre-compiled binaries.
+	 */

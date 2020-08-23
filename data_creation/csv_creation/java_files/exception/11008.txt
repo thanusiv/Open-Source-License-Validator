@@ -1,0 +1,1 @@
+	 * @throws CoreException if project creation fails for any reason

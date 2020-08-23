@@ -1,0 +1,1 @@
+   * @return the remote application specific log dir.

@@ -1,0 +1,2 @@
+Returns Language Settings Provider image registered for closest superclass
+	 * or interface.

@@ -1,0 +1,1 @@
+@return the <code>TaskInfo</code> for the given task-attempt

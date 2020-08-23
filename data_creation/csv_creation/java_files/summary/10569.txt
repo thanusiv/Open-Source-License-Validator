@@ -1,0 +1,1 @@
+    // Objects to verify interactions based on request

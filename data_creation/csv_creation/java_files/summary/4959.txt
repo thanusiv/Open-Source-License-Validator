@@ -1,0 +1,1 @@
+						// Select the most 'relevant' IFile for an external location

@@ -1,0 +1,2 @@
+ A Common Navigator action provider providing the contributions
+ * from the open editor action group.

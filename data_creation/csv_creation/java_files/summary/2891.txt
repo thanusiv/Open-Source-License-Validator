@@ -1,0 +1,2 @@
+Assert that a path exists -but make no assertions as to the
+   * type of that entry

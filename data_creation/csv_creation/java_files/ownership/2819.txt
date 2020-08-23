@@ -1,0 +1,4 @@
+Contributors:
+ *     Markus Schorn - initial API and implementation
+ *     Andrew Ferguson (Symbian)
+ *     Sergey Prigogin (Google)

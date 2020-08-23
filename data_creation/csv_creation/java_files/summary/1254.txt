@@ -1,0 +1,2 @@
+Write the header into the buffer.
+   * This requires that PKT_HEADER_LEN bytes are available.

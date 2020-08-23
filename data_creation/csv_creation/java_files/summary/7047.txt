@@ -1,0 +1,5 @@
+ <p>  
+     * Note: the return type is an object which can be safely cast to
+     * an MIEvent.  However returning a parametrized MIEvent type here
+     * leads to compiler warnings related to generics (see bug 240997)
+     * </p>

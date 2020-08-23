@@ -1,0 +1,3 @@
+/* (non-Javadoc)
+		 * @see org.eclipse.debug.core.Launch#launchRemoved(org.eclipse.debug.core.ILaunch)
+		 */

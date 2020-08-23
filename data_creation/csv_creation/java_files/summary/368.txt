@@ -1,0 +1,4 @@
+**
+	 * <code>FIELD_SIZE</code> represents the relationship between a
+	 * <code>IASTFieldDeclarator</code> and its <code>IASTExpression</code>.
+	 */

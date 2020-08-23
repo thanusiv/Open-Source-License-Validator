@@ -1,0 +1,3 @@
+Notification that the selection of configuration(s) in some project in the current working set
+	 * configuration has changed. I accordingly update the visuals of the working-set configuration to
+	 * indicate whether it is active or not.

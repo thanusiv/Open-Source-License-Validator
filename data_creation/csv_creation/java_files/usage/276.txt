@@ -1,0 +1,2 @@
+@param classType
+     *            {@link ComponentConnector} class to instantiate

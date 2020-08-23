@@ -1,0 +1,1 @@
+ * A container for things that can be tagged and then stored in the index database.

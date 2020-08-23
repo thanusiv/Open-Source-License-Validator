@@ -1,0 +1,1 @@
+	 * Filter out proposals, keep only templates

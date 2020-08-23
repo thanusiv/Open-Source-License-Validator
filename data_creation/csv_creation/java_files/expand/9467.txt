@@ -1,0 +1,6 @@
+Operation which selects a random file and attempts to delete that file (if it
+ * exists)
+ * 
+ * This operation will capture statistics on success the time taken to delete
+ * and the number of successful deletions that occurred and on failure or error
+ * it will capture the number of failures and the amount of time taken to fail

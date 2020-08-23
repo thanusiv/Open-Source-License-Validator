@@ -1,0 +1,1 @@
+Returns an immutable map containing the given entries, in order.

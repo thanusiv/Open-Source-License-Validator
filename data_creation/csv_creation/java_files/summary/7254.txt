@@ -1,0 +1,4 @@
+/**
+	 * Returns the first ancestor of this C element that has the given type.
+	 * Returns {@code null} if no such an ancestor can be found.
+	 * This is a handle-only method.

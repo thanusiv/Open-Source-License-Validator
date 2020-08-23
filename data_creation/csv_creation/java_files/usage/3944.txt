@@ -1,0 +1,2 @@
+@param wait
+	 *            <code>true</code> if the AST should be computed or waited

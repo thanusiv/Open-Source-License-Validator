@@ -1,0 +1,1 @@
+	/** Indicates whether the AST is currently being computed */

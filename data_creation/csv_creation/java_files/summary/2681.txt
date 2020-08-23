@@ -1,0 +1,1 @@
+	/** Gets core with specified ID. */

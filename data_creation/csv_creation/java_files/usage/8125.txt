@@ -1,0 +1,1 @@
+   * @param directBufferSize Size of the direct buffer to be used.

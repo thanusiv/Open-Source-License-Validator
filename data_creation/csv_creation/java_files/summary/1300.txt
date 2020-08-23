@@ -1,0 +1,1 @@
+Enum of address types -as integers.

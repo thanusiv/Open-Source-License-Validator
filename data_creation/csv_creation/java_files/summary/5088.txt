@@ -1,0 +1,1 @@
+		// Make sure that the name is at least one character in length

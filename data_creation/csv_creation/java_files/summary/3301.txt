@@ -1,0 +1,8 @@
+/**
+ * A ShortCircuitReplica object contains file descriptors for a block that
+ * we are reading via short-circuit local reads.
+ *
+ * The file descriptors can be shared between multiple threads because
+ * all the operations we perform are stateless-- i.e., we use pread
+ * instead of read, to avoid using the shared position state.
+ */

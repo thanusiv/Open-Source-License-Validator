@@ -1,0 +1,1 @@
+Delete a snapshot for a snapshottable directory

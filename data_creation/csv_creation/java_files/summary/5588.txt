@@ -1,0 +1,4 @@
+/**
+	 * General string utility for removing newline and space character from the
+	 * end of a string. Typically used when logging an object's toString()
+	 *

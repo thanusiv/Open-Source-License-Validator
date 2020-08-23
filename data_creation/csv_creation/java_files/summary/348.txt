@@ -1,0 +1,4 @@
+/*
+		 * Select the last used connection in the connecion pulldown if it still
+		 * exists.
+		 */

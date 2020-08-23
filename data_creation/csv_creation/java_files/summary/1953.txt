@@ -1,0 +1,4 @@
+Computes and updates the shares of {@link Schedulable}s as per
+   * the {@link SchedulingPolicy}, to be used later for scheduling decisions.
+   * The shares computed are instantaneous and only consider queues with
+   * running applications.

@@ -1,0 +1,3 @@
+/**
+	 * Set default value for the template template parameter.
+	 */

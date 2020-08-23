@@ -1,0 +1,1 @@
+     * Parse first 2 arguments, corresponding to the "-op" option.

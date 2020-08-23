@@ -1,0 +1,1 @@
+        // Remove window immediately when the current response is sent

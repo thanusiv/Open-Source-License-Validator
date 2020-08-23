@@ -1,0 +1,2 @@
+@throws IOException if {@code swallowIOException} is false and {@link Flushable#flush} throws
+   *     an {@code IOException}.

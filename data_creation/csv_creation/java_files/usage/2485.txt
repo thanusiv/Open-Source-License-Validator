@@ -1,0 +1,1 @@
+@param mask A bit mask used to identify the namespace of the identifier.

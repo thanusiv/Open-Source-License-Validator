@@ -1,0 +1,2 @@
+// Ignore ExitExceptions as the tests may result in the
+        // NameNode doing an immediate shutdown.

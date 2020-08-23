@@ -1,0 +1,1 @@
+     * Compares the value with the reference. If they match, returns false.

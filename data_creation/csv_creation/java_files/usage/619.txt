@@ -1,0 +1,5 @@
+ @param pattern a pattern the name of the bindings have to match.
+	 * @param filter a filter that allows for skipping parts of the index
+	 * @param monitor a monitor to report progress, may be {@code null}
+	 * @return an array of bindings matching the pattern
+	 * @throws CoreException

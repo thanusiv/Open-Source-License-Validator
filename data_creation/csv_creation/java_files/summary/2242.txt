@@ -1,0 +1,2 @@
+ Verify that information about the fencing target gets passed as
+   * environment variables to the fencer.

@@ -1,0 +1,11 @@
+ /**
+   * None of the blocks can be removed if all blocks are corrupt.
+   * 
+   * The test strategy : 
+   *    Bring up Cluster with 3 DataNodes
+   *    Create a file of replication factor 3 
+   *    Corrupt all three replicas 
+   *    Verify that all replicas are corrupt and 3 replicas are present.
+   *    Set the replication factor to 1 
+   *    Verify that all replicas are corrupt and 3 replicas are present.
+   */

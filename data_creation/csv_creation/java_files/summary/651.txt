@@ -1,0 +1,2 @@
+Looks for include relations originated by the given file.
+	 * This is the same as <pre> findIncludes(file, DEPTH_ZERO); </pre>

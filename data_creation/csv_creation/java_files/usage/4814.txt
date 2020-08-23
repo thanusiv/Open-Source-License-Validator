@@ -1,0 +1,2 @@
+@return Collection of properties which should be flushed, or 
+     * <code>null</code> if none.

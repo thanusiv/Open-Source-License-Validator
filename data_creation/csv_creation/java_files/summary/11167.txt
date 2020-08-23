@@ -1,0 +1,2 @@
+Returns the JSR-286 portlet configuration that provides access to the
+     * portlet context and init parameters.

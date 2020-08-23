@@ -1,0 +1,14 @@
+* <ul>
+ * 	<li>if selection is of type <code>ITextSelection</code> then
+ * 	<code>run(ITextSelection)</code> and <code>selectionChanged(ITextSelection)</code>
+ * 	is called.</li>
+ * 	<li>if selection is of type <code>IStructuredSelection</code> then
+ * 	<code>run(IStructuredSelection)</code> and <code>
+ * 	selectionChanged(IStructuredSelection)</code> is called.</li>
+ * 	<li>default is to call <code>run(ISelection)</code> and <code>
+ * 	selectionChanged(ISelection)</code>.</li>
+ * </ul>
+ *
+ * <p>
+ * Note: This class is not intended to be subclassed outside the CDT UI plugin.
+ * </p>

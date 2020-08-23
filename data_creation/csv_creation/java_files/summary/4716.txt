@@ -1,0 +1,3 @@
+Handles selection of working sets and their configurations. Among potentially other actions, this
+	 * injects the working-set configuration selection into the project configurations controller and updates
+	 * the enablement of the buttons.

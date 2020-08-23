@@ -1,0 +1,2 @@
+Get the fallback storage types for creating new block replicas. Fallback
+   * storage types are used if the preferred storage types are not available.

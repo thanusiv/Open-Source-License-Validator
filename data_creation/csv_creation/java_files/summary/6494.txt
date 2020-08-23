@@ -1,0 +1,1 @@
+ * Simple derived class to verify that we handle generics correctly.

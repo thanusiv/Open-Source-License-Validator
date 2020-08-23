@@ -1,0 +1,2 @@
+ field value should be different from the original value and current
+        // proeprty value

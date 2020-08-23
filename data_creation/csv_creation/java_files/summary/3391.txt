@@ -1,0 +1,2 @@
+ A simple benchmark to find out the difference in speed between block
+ * and page blobs.

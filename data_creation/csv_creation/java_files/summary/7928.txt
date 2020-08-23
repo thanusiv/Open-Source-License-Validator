@@ -1,0 +1,1 @@
+     * Delete all discovered scanner info for the resource

@@ -1,0 +1,5 @@
+/**
+	 * Searches for all bindings with qualified names that seen as an array of simple names match
+	 * the given array of patterns. In case a binding exists in multiple projects, no duplicate
+	 * bindings are returned. You can search with an array of patterns that specifies a partial
+	 * qualification only.

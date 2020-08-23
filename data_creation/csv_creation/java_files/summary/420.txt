@@ -1,0 +1,4 @@
+/**
+	 * Not allowed on frozen ast.
+	 * @since 5.2
+	 */

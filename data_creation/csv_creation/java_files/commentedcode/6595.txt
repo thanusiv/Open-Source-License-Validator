@@ -1,0 +1,8 @@
+public void onBrowserEvent(Event event) { // Remove current selection
+         * when mouse leaves if (DOM.eventGetType(event) == Event.ONMOUSEOUT) {
+         * Element to = DOM.eventGetToElement(event); if
+         * (!DOM.isOrHasChild(getElement(), to)) { DOM.setElementProperty(
+         * super.getSelectedItem().getElement(), "className",
+         * super.getSelectedItem().getStylePrimaryName()); } }
+         * 
+         * super.onBrowserEvent(event); }

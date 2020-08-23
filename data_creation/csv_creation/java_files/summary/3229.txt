@@ -1,0 +1,1 @@
+  /** Add the given snapshottable directory to {@link #snapshottables}. */

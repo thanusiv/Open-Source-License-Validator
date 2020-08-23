@@ -1,0 +1,2 @@
+  // Test to make sure that cancelled delegation tokens
+  // are rejected

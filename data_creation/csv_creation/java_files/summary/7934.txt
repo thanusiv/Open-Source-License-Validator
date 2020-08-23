@@ -1,0 +1,3 @@
+/**
+ * A task for rebuilding an index, works for all indexers.
+ */

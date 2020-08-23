@@ -1,0 +1,2 @@
+Stop a container only if it is currently running. If queued, do not stop
+   * it.

@@ -1,0 +1,2 @@
+@param totalPreemptedResourceAllowed how many resources allowed to be
+   *                                      preempted in this round

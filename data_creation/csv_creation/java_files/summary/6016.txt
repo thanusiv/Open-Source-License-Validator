@@ -1,0 +1,2 @@
+Creates a cleaner task based on the root directory location and the
+   * filesystem.

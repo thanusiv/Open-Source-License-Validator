@@ -1,0 +1,4 @@
+ /**
+   * Restore all files from the trash directory to their corresponding
+   * locations under current/
+   */

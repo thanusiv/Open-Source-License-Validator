@@ -1,0 +1,4 @@
+True if the user specified the -move option.
+   *
+   * Whe this option is in effect, we will copy salvaged blocks into the lost
+   * and found. */

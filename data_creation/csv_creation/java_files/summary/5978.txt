@@ -1,0 +1,3 @@
+Supplies some default environment variables for the Autotools toolchain. For
+ * example, V=1 to enable verbose output necessary for proper GCC output
+ * parsing.

@@ -1,0 +1,3 @@
+*
+	 * Declaration of a union without the definition.
+	 * struct C;

@@ -1,0 +1,4 @@
+This method should be called once and only once, during the launch,
+	 * to complete the initialization.  It will perform the final steps
+	 * to configure GDB for the type of debugging session chosen by the
+	 * user.

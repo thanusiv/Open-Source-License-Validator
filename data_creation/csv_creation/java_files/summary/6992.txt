@@ -1,0 +1,1 @@
+ * This class provides debug event filtering service for the pin-able views.

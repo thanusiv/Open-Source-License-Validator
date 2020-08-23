@@ -1,0 +1,2 @@
+Returns a list containing the nonempty intersections of {@code range}
+   * with the ranges in this range set.

@@ -1,0 +1,1 @@
+ C/C++ extension of <code>IThread</code>.

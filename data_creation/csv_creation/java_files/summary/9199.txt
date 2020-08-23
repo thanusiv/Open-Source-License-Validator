@@ -1,0 +1,1 @@
+         * Reset the cache when the count is changed.

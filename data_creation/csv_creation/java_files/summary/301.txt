@@ -1,0 +1,1 @@
+// A single journal failure should not result in a call to terminate

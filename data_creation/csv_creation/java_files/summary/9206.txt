@@ -1,0 +1,1 @@
+   * Returns an initialized, thread-safe CGroupsHandler instance.

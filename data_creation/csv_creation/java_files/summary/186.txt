@@ -1,0 +1,3 @@
+/**
+	 * Get default value for template template parameter or <code>null</code>.
+	 */

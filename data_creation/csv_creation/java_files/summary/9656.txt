@@ -1,0 +1,1 @@
+            // Connectors are simply serialized as ID.

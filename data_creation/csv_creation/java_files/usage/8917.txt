@@ -1,0 +1,3 @@
+ @param favoredNodes datanodes that should be favored as targets. This
+   *          is only a hint and due to cluster state, namenode may not be 
+   *          able to place the blocks on these datanodes.

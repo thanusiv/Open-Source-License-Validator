@@ -1,0 +1,1 @@
+        // Reset the count cache and all the value caches.

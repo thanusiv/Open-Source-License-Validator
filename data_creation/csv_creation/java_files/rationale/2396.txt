@@ -1,0 +1,2 @@
+// During tests, the default Configuration will use a local mapred
+      // So don't specify -config or -cluster

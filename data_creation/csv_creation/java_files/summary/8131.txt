@@ -1,0 +1,6 @@
+/**
+ * A {@link Compressor} based on the popular 
+ * zlib compression algorithm.
+ * http://www.zlib.net/
+ * 
+ */

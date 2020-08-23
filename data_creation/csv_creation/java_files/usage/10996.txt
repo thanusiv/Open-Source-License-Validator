@@ -1,0 +1,1 @@
+	 * @return array of file extension specifications

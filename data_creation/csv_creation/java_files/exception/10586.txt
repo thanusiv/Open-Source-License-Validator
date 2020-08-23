@@ -1,0 +1,1 @@
+   * @throws ServletException thrown if the filter or the authentication handler could not be initialized properly.

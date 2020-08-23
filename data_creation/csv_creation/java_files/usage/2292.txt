@@ -1,0 +1,2 @@
+// Note that breakpoint commands (actions) are not handled by the backend 
+		// which is why we don't check for changes here

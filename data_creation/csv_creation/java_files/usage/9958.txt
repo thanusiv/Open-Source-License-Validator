@@ -1,0 +1,1 @@
+	 * @param creating if true the created project description will be contain the true "isCdtProjectCreating" state.

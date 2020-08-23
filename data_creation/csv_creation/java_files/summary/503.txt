@@ -1,0 +1,4 @@
+Sets the root testing directory and reinitializes any additional test paths
+   * that are under the root.  This method is intended to be called from a
+   * subclass's @BeforeClass method if there is a need to override the testing
+   * directory.

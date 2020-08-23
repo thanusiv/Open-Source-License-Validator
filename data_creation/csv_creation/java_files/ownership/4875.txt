@@ -1,0 +1,4 @@
+Contributors:
+ * Red Hat Incorporated         - initial implementation
+ * IBM Rational Software        - add and remove nature static methods
+ * Anna Dushistova (MontaVista) - [402595]Autotools nature loses builders added by contributed wizard pages

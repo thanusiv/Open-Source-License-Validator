@@ -1,0 +1,6 @@
+//    parclass Bird {
+    //    	public:
+    //    		Bird(float P) @{ od.power(P);
+    //    		od.memory(100,60);
+    //    		od.protocol("socket http"); };
+    //    };

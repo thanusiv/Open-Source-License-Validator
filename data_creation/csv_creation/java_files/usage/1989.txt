@@ -1,0 +1,1 @@
+@return modified filter that is compatible with the underlying container

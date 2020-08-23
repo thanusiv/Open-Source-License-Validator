@@ -1,0 +1,2 @@
+@throws IllegalArgumentException if two keys have the same value or two
+   *         values have the same key

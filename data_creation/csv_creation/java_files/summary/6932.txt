@@ -1,0 +1,1 @@
+	 * Find icon URL in its bundle.

@@ -1,0 +1,10 @@
+//	public BuildMacroException(int code, 
+//			String message, 
+//			Throwable exception, 
+//			String macroName, 
+//			String expression, 
+//			String referencedName,
+//			int contextType,
+//			Object contextData) {
+//		super(new BuildMacroStatus(code, message, exception, macroName, expression, referencedName, contextType, contextData));
+//	}

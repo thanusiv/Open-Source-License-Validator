@@ -1,0 +1,3 @@
+Sets namespace and storagespace take by the directory rooted
+   * at this INode. This should be used carefully. It does not check 
+   * for quota violations.

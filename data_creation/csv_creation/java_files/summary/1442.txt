@@ -1,0 +1,2 @@
+Returns the Unsafe-using Comparer, or falls back to the pure-Java
+     * implementation if unable to do so.

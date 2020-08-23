@@ -1,0 +1,1 @@
+   * Returns true if annotations of the specified type are binding annotations.

@@ -1,0 +1,1 @@
+	 * @return <code>true</code> if smart mode is on, <code>false</code> otherwise

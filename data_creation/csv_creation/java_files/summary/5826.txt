@@ -1,0 +1,5 @@
+
+ *      -exec-continue [--all | --thread-group ID]
+ * 
+ *   Asynchronous command.  Resumes the execution of the inferior program
+ *   until a breakpoint is encountered, or until the inferior exits.

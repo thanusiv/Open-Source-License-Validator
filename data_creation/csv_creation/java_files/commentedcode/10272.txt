@@ -1,0 +1,9 @@
+/*	public void setExpanded(boolean expand){
+		if(fExpandInMakefile != expand){
+			fExpandInMakefile = expand;
+			fIsDirty = true;
+			//should we set the change state here?
+			fIsChanged = true;
+		}
+	}
+*/

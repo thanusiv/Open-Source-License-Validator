@@ -1,0 +1,1 @@
+@return true if check passes (is over) or false otherwise

@@ -1,0 +1,1 @@
+	 * @param write if true, the writable description copy is returned.

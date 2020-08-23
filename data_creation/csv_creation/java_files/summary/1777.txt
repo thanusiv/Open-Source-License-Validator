@@ -1,0 +1,1 @@
+The endpoint value <i>is</i> considered part of the set ("inclusive").

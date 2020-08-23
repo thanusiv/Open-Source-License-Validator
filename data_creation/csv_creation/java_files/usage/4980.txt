@@ -1,0 +1,2 @@
+@param cmp
+   *          Comparator for the key.

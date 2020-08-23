@@ -1,0 +1,2 @@
+// The resource that changed has attributes which make it uninteresting,
+						 // so don't do anything

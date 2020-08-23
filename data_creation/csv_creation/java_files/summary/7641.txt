@@ -1,0 +1,1 @@
+  /** Writes bytes from a InputStream directly into the buffer. */

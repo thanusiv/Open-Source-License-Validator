@@ -1,0 +1,2 @@
+@throws IOException If the child InputSplit cannot be read, typically
+   *                     for failing access checks.

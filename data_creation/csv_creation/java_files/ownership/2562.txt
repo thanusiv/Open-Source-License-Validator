@@ -1,0 +1,4 @@
+ Contributors:
+ *     IBM Rational Software - Initial API and implementation
+ *     Yuan Zhang / Beth Tibbitts (IBM Research)
+ *     Sergey Prigogin (Google)

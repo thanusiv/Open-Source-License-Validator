@@ -1,0 +1,1 @@
+    	// ensure decoration support has been created and configured.

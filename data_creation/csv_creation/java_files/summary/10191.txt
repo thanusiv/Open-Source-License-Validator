@@ -1,0 +1,1 @@
+	 * Returns the image descriptor of the described category.

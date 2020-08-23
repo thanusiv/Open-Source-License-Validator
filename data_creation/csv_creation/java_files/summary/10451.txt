@@ -1,0 +1,2 @@
+Prerequisites of this special target shall not be removed if make recieves an
+ * asynchronous events.

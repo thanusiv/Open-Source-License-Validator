@@ -1,0 +1,6 @@
+/**
+	 * Sets the tree input.
+	 * 
+	 * @param input
+	 *        the tree input.
+	 */

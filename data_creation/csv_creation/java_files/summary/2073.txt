@@ -1,0 +1,2 @@
+ Add all ranges from the specified range set to this builder. Duplicate or connected ranges
+     * are permitted, and will be merged in the resulting immutable range set.

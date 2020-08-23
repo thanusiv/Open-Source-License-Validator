@@ -1,0 +1,6 @@
+/**
+	 * Basic testing of Config based ScannerConfigProfile management.
+	 * 
+	 * This test runs through some of the funcationality used by the DiscoveryTab
+	 * @throws CoreException
+	 */

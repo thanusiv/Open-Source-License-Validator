@@ -1,0 +1,4 @@
+Verify the signature of the JWT token in this method. This method depends
+   * on the public key that was established during init based upon the
+   * provisioned public key. Override this method in subclasses in order to
+   * customize the signature verification behavior.

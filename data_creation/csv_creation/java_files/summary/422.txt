@@ -1,0 +1,6 @@
+/**
+	 * Set the expression that represents the array.
+	 * 
+	 * @param expression
+	 *            <code>IASTExpression</code> to be set.
+	 */

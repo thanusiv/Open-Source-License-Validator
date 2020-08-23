@@ -1,0 +1,2 @@
+/** Read a record. Implementation should call numRecStats at the end
+   */

@@ -1,0 +1,2 @@
+Returns the index of the first bit that is set to true that occurs on or after the
+   * specified starting index. If no such bit exists then {@code -1} is returned.

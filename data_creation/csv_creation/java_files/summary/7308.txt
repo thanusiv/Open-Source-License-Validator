@@ -1,0 +1,2 @@
+Default implementation does not examine the event and assumes that every
+     * event should be processed to generate a delta.

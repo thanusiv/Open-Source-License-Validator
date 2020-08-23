@@ -1,0 +1,1 @@
+@param doCheckOwner Require user to be the owner of the path?

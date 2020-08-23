@@ -1,0 +1,2 @@
+ This will occur before the waiting get() in the
+     * listenInPoolThread-spawned thread completes:

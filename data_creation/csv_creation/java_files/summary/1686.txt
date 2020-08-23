@@ -1,0 +1,1 @@
+// the index manager has reported a change to an index

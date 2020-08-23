@@ -1,0 +1,2 @@
+Test whether atime can be set explicitly even when the atime support is
+   * disabled.

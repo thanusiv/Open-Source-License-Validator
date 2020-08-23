@@ -1,0 +1,5 @@
+Return the PDOMBinding for the given Qt name creating a new binding if needed.  The
+	 * implementation caches the result using the name instance as the key.  This ensures
+	 * one-to-one uniqueness between AST names and PDOMBindings.
+	 * <p>
+	 * This method is not thread-safe.

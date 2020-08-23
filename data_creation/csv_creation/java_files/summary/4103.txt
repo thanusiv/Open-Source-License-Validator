@@ -1,0 +1,1 @@
+Interface for getting a secret key associated with some application.

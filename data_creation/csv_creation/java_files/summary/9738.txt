@@ -1,0 +1,1 @@
+     * Set the list of enum values for this combo field editor

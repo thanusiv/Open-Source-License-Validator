@@ -1,0 +1,3 @@
+// If a node is found that has a name in the list, then update this iterator to
+				// point to the next linkage's node (this is so the next call to advance starts
+				// at the right place).

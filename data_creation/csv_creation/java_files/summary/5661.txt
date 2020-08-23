@@ -1,0 +1,1 @@
+	 * Returns the possibly project-specific core preference defined under <code>key</code>.

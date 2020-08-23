@@ -1,0 +1,1 @@
+     * Replace current open tooltip with new content

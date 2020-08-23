@@ -1,0 +1,3 @@
+@param value
+     *            event value object that is Serializable and, if appropriate,
+     *            has a valid JAXB annotation

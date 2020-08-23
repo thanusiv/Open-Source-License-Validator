@@ -1,0 +1,6 @@
+ The Checkpointer is a daemon that periodically wakes up
+ * up (determined by the schedule specified in the configuration),
+ * triggers a periodic checkpoint and then goes back to sleep.
+ * 
+ * The start of a checkpoint is triggered by one of the two factors:
+ * (1) time or (2) the size of the edits file.

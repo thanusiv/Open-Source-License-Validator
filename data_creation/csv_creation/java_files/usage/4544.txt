@@ -1,0 +1,1 @@
+@return the edit group or <code>null</code>.

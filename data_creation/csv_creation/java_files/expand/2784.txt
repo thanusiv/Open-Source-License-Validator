@@ -1,0 +1,4 @@
+ // The following steps are important:
+      // check quotas in this inode and all ancestors before changing counts
+      // so that no change is made if there is any quota violation.
+      // (1) verify quota in this inode

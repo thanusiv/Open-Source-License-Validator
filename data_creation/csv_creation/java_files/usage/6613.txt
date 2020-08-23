@@ -1,0 +1,2 @@
+@return return the file that contains the selection or the
+	 * active file if there is no present selection

@@ -1,0 +1,3 @@
+Contributors:
+ *     QNX - Initial API and implementation
+ *     Markus Schorn (Wind River Systems)

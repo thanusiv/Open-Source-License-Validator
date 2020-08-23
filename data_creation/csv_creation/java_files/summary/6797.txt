@@ -1,0 +1,3 @@
+Adds details about {@link StreamVariable} to the UIDL stream. Eg. in web
+     * terminals Receivers are typically rendered for the client side as URLs,
+     * where the client side implementation can do an http post request.

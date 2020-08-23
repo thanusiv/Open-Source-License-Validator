@@ -1,0 +1,3 @@
+/*
+	 * createDownloadOption This creates the skip download check button.
+	 */

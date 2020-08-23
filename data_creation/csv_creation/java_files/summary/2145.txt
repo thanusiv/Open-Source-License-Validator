@@ -1,0 +1,1 @@
+Convert a widget offset to the corresponding document offset.

@@ -1,0 +1,2 @@
+Removes the given listener.
+	 * Has no effect if an identical listener was not already registered.

@@ -1,0 +1,4 @@
+Contributors:
+ *     Ericsson - initial API and implementation
+ *     Marc Khouzam (Ericsson) - Use new FinalLaunchSequence_7_0 as base class (Bug 365471)
+ *     Xavier Raynaud (Kalray) - Avoid duplicating fields in sub-classes (add protected accessors)

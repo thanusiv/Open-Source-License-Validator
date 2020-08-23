@@ -1,0 +1,3 @@
+Action that dispatches the <code>IAction#run()</code> and the
+ * <code>ISelectionChangedListener#selectionChanged</code>
+ * according to the type of the selection.

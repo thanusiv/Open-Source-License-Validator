@@ -1,0 +1,1 @@
+    // make sure the source path has been updated to the snapshot path

@@ -1,0 +1,2 @@
+<p>Note that a successful call to this method could cause the size of the
+   * bimap to increase by one, stay the same, or even decrease by one.

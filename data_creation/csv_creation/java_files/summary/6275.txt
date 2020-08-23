@@ -1,0 +1,1 @@
+		// Handle bindings in unknown linkages as though the name is to be added to this linkage.

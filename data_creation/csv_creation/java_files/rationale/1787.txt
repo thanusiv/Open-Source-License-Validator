@@ -1,0 +1,9 @@
+ <h3>ML columns</h3>
+ *
+ * A column with ML attributes attached is called an ML column.
+ * The data in ML columns are stored as double values, i.e., an ML column is either a scalar column
+ * of double values or a vector column.
+ * Columns of other types must be encoded into ML columns using transformers.
+ * We use {@link org.apache.spark.ml.attribute.Attribute} to describe a scalar ML column, and
+ * {@link org.apache.spark.ml.attribute.AttributeGroup} to describe a vector ML column.
+ * ML attributes are stored in the metadata field of the column schema.

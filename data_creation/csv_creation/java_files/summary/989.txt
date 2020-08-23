@@ -1,0 +1,3 @@
+/**
+ * Test methods for {@link CheckedProviderMethodsModule}.
+ */

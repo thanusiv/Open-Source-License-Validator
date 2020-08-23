@@ -1,0 +1,3 @@
+Removes the given listener from this target.
+	 * Has no affect if the listener is not registered.
+	 *

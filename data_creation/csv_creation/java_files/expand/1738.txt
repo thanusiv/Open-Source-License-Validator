@@ -1,0 +1,5 @@
+ This method is called once an application
+   * is no longer using a claimed resource in the shared cache. The client uses
+   * a checksum to identify the resource and an {@link ApplicationId} to
+   * identify which application is releasing the resource.
+   * </p>

@@ -1,0 +1,1 @@
+		// If a binding has already been persisted for this instance then return it now.

@@ -1,0 +1,5 @@
+/**
+ * Tests for {@link IncidenceSetDirectedGraph} with default graph configuration.
+ *
+ * @see GraphConfig
+ */

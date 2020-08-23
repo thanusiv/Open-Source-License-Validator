@@ -1,0 +1,2 @@
+// table body height is now 77px, which together
+                    // with header makes 100px

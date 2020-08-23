@@ -1,0 +1,2 @@
+The identifier before the one where the cursor is pointing.  This is needed to figure out what
+	 *  values are valid for an attribute like READ, WRITE, etc. */

@@ -1,0 +1,1 @@
+//    conf.set("mapred.queue.names", "default,q1,q2");

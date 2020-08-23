@@ -1,0 +1,2 @@
+Creates a cleaner task based on the configuration. This is provided for
+   * convenience.

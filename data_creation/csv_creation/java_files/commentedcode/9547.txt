@@ -1,0 +1,1 @@
+//		String delim= new Document().getLegalLineDelimiters()[0];

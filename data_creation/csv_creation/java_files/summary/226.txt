@@ -1,0 +1,7 @@
+ Extracts required information from FunctionCallExpressions that call
+ * QObject::connect.  This implementation handles all overloads of QObject::connect
+ * except the QMetaMethod related ones.  QMetaMethods cannot be statically analyzed
+ * so they are ignored.
+ * <p>
+ * The binding is found by identifying the overload and then looking at the appropriate
+ * parameters.

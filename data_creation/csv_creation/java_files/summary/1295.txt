@@ -1,0 +1,12 @@
+/*
+ * This is the Memory Service test suite.
+ * 
+ * It is meant to be a regression suite to be executed automatically against
+ * the DSF nightly builds.
+ * 
+ * It is also meant to be augmented with a proper test case(s) every time a
+ * feature is added or in the event (unlikely :-) that a bug is found in the
+ * Memory Service.
+ * 
+ * Refer to the JUnit4 documentation for an explanation of the annotations.
+ */

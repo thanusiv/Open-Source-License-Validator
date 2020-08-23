@@ -1,0 +1,2 @@
+Returns the property names that need to be retrieved in order
+     * to generate the label for this column.

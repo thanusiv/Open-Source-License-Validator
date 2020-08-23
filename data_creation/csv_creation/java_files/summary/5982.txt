@@ -1,0 +1,4 @@
+-environment-directory [-r] PATHDIR
+ *
+ *   Add directory PATHDIR to beginning of search path for source files.
+ *   -r will first reset the path to its default

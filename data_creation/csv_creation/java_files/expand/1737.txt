@@ -1,0 +1,10 @@
+ The client uses a checksum to identify the
+   * resource and an {@link ApplicationId} to identify which application will be
+   * using the resource.
+   * </p>
+   *
+   * <p>
+   * The <code>SharedCacheManager</code> responds with whether or not the
+   * resource exists in the cache. If the resource exists, a <code>Path</code>
+   * to the resource in the shared cache is returned. If the resource does not
+   * exist, the response is empty.

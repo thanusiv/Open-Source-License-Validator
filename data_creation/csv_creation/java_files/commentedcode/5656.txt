@@ -1,0 +1,1 @@
+//			return lineOffset + firstLine.getLength() < offset + length;

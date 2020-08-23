@@ -1,0 +1,3 @@
+The dynamic debugger tab for Docker Container launches using gdb server. The
+ * gdbserver settings are used to start a gdbserver session in the Docker
+ * Container and then to connect to it from the host.

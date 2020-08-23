@@ -1,0 +1,1 @@
+	/** Whether this thread is part of a currently selected process. */

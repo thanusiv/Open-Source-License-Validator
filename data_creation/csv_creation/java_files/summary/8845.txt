@@ -1,0 +1,4 @@
+/**
+	 * Creates a StandardCElementLabelProvider with DEFAULT_TEXTFLAGS, DEFAULT_IMAGEFLAGS
+	 * and the ErrorTickAdornmentProvider.
+	 */

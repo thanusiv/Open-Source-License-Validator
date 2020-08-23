@@ -1,0 +1,2 @@
+ // if there were no expected audiences configured then just
+      // consider any audience acceptable

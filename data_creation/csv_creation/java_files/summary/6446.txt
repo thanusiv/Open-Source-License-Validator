@@ -1,0 +1,2 @@
+The offset of the first character in the attributes section.  This is usually the
+	 *  start of READ. */

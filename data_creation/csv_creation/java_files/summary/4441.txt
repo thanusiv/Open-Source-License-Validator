@@ -1,0 +1,1 @@
+   * Setup the KDC for testing a secure HDFS cluster

@@ -1,0 +1,1 @@
+Add support for gdb's "set substitute-path" (Bug 472765)

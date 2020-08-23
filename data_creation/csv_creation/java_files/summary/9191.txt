@@ -1,0 +1,1 @@
+     * Returns the cache for data generator count.

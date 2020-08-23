@@ -1,0 +1,2 @@
+// Kill running opportunistic containers to make space for
+        // guaranteed container.

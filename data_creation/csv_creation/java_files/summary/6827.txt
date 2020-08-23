@@ -1,0 +1,2 @@
+Used to registry custom methods to refresh at runtime.
+ * Each identifier maps to one or more RefreshHandlers.

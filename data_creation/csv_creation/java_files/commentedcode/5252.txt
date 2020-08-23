@@ -1,0 +1,11 @@
+/*-{
+        if (typeof $wnd.__gwtStatsEvent != 'function') {
+            if (typeof $wnd.vaadin.gwtStatsEvents != 'object') {
+                $wnd.vaadin.gwtStatsEvents = [];
+            }
+            $wnd.__gwtStatsEvent = function(event) {
+                $wnd.vaadin.gwtStatsEvents.push(event);
+                return true;
+            }
+        }
+    }-*/;

@@ -1,0 +1,1 @@
+		// Verify asynchronously that all bytes are '0'

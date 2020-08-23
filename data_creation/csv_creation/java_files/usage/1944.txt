@@ -1,0 +1,2 @@
+@param usage {@link Resource} the resource usage
+   * @param fairShare {@link Resource} the fair share

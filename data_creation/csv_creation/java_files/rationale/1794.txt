@@ -1,0 +1,2 @@
+This dependency calculator uses the class DefaultGCCDependencyCalculator2Commands
+ * which implements the per-source command information

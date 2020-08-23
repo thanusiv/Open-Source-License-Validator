@@ -1,0 +1,2 @@
+@param name
+     *            an identifying name for the StreamVariable

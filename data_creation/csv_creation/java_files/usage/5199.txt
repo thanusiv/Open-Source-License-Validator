@@ -1,0 +1,1 @@
+@return true if the container was found in one of the queues.

@@ -1,0 +1,1 @@
+        // Update the manifest in the Jar

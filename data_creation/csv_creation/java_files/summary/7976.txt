@@ -1,0 +1,6 @@
+ /**
+   * Set whether the task is a cleanup attempt or not.
+   * 
+   * @param isCleanup
+   *          true if the task is cleanup attempt, false otherwise.
+   */

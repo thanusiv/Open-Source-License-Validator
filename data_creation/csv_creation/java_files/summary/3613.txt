@@ -1,0 +1,2 @@
+// TableElement scroll not working properly, so we need to do this.
+        // http://dev.vaadin.com/ticket/13826

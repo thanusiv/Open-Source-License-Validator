@@ -1,0 +1,2 @@
+ @param node a non-null node
+   * @return the path of a node

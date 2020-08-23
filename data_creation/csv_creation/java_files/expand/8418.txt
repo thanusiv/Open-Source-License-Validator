@@ -1,0 +1,3 @@
+// Subtract one from the width and height
+				// in the case of drawOval because that method
+				// adds a pixel to each value for some reason

@@ -1,0 +1,1 @@
+	 * @param newOffset the selection offset

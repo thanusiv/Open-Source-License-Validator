@@ -1,0 +1,3 @@
+@return Snapshottable directories that are owned by the current user,
+   *         represented as an array of {@link SnapshottableDirectoryStatus}. If
+   *         {@code userName} is null, return all the snapshottable dirs.

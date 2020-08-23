@@ -1,0 +1,1 @@
+			// Prefer normal functions over template functions

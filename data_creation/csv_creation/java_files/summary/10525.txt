@@ -1,0 +1,2 @@
+Create and initialize a registry operations instance.
+   * Access writes will be determined from the configuration

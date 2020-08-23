@@ -1,0 +1,5 @@
+ Set container tokens to be used during container resource increase.
+   * The token is acquired from
+   * <code>AllocateResponse.getIncreasedContainers</code>.
+   * The token contains the container id and resource capability required for
+   * container resource increase.

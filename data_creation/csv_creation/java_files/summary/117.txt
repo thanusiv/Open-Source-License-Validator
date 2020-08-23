@@ -1,0 +1,4 @@
+/**
+		 * Handle terminated sub-launch
+		 * @param launch
+		 */

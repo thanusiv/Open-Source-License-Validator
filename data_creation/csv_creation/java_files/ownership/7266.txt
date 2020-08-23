@@ -1,0 +1,3 @@
+Contributors:
+ *     Andrew Niefer (IBM Corporation) - initial API and implementation
+ *     Markus Schorn (Wind River Systems)

@@ -1,0 +1,9 @@
+ /**
+     * This needs to be implemented iff criterion does some lazy server side
+     * initialization. The UIDL painted in this method will be passed to client
+     * side drop handler implementation. Implementation can assume that
+     * {@link #accept(DragAndDropEvent)} is called before this method.
+     * 
+     * @param target
+     * @throws PaintException
+     */

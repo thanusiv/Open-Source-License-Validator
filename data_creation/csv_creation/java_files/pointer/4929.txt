@@ -1,0 +1,1 @@
+	 * @see org.eclipse.debug.ui.ISourcePresentation#getEditorInput(java.lang.Object)

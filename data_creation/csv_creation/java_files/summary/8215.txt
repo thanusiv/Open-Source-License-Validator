@@ -1,0 +1,1 @@
+	 * Configure the project which have this project nature.

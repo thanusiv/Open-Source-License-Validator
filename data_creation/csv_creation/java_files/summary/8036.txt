@@ -1,0 +1,4 @@
+ /*
+   * Finalize the block pool storage by deleting <BP>/previous directory
+   * that holds the snapshot.
+   */

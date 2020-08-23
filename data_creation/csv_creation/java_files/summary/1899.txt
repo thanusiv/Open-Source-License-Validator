@@ -1,0 +1,3 @@
+This implementation of getCount() actually fetches all records from the
+     * database, which might be a performance issue. Override this method with a
+     * SELECT COUNT(*) ... query if this is too slow for your needs.

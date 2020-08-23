@@ -1,0 +1,2 @@
+ A simplified version of {@link ForwardingCheckedFuture} where subclasses can pass in an already
+   * constructed {@link CheckedFuture} as the delegate.

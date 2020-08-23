@@ -1,0 +1,6 @@
+
+/**
+ * Utility functions some collectors may need
+ * 
+ * @author vhirsl
+ */

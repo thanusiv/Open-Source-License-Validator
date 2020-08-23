@@ -1,0 +1,1 @@
+Get the desired maximum length of task's logs.

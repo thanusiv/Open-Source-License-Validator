@@ -1,0 +1,4 @@
+The default focus manager. This widget knows all widgets which can have the focus
+	 * and listens for focusGained events, on which it stores the index of the current
+	 * focus holder. When the dialog is restarted, <code>restoreFocus()</code> sets the 
+	 * focus to the last control which had it.

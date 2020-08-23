@@ -1,0 +1,4 @@
+/**
+ * The hotornot.com of unit tests: makes sure that the standby not only
+ * has namespace information, but also has the correct block reports, etc.
+ */

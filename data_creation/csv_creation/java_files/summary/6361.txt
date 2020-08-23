@@ -1,0 +1,2 @@
+// This method is particularly lame - we really need an API that can test
+    // for any binding, implicit or explicit

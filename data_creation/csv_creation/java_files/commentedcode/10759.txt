@@ -1,0 +1,1 @@
+//	create(ti, "isLocal(ZERO)", c.isLocal(0));

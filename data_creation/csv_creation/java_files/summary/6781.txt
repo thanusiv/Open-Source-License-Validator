@@ -1,0 +1,5 @@
+Prints single XML section.
+     * <p>
+     * Prints full XML section. The section data must be XML and it is
+     * surrounded by XML start and end-tags.
+     * </p>

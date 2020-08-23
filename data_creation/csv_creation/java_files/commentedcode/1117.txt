@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.EXTERNALIZE_STRINGS, fExternalizeStrings);

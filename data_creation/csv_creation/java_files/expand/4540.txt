@@ -1,0 +1,4 @@
+// Protect against HTTP response splitting vulnerability
+    // since value is written as part of the response header
+    // Ensure this header only has one header by removing
+    // CRs and LFs

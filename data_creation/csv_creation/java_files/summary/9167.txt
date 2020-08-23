@@ -1,0 +1,2 @@
+A generic JUnit test which tests {@code remove} operations on a map. Can't be
+ * invoked directly; please see

@@ -1,0 +1,1 @@
+ * This interface represents an instantiation or an explicit specialization of a function template.

@@ -1,0 +1,1 @@
+	 * Returns <code>true</code> if line comments at column 0 should be indented inside, <code>false</code> otherwise.

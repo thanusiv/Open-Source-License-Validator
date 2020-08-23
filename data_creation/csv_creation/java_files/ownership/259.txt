@@ -1,0 +1,4 @@
+Contributors:
+ *     Bryan Wilkinson (QNX) - Initial API and implementation
+ *     Markus Schorn (Wind River Systems)
+ *     Sergey Prigogin (Google)

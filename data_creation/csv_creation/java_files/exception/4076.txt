@@ -1,0 +1,1 @@
+   * @throws IllegalArgumentException if the string is not a valid identifier.

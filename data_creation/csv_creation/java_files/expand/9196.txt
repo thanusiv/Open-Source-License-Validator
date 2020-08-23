@@ -1,0 +1,4 @@
+
+     * Executor used to synchronize data access in this cache manager.  
+     * It has to be the same executor that is used by the data generators in 
+     * order to guarantee data consistency.

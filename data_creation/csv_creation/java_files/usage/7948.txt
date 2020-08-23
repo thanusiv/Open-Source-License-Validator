@@ -1,0 +1,2 @@
+@return {@code true} iff the custom field-editor can be successfully displayed. Returning {@code false}
+     * 			would cause the built-in field-editor to be displayed based on the option's {@link IOption#getValueType() valueType}.

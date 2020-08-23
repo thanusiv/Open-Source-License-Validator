@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.GENERATE_CONSTRUCTOR_USING_FIELDS, fGenerateConstructorUsingFields);

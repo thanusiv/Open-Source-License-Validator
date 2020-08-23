@@ -1,0 +1,2 @@
+//use a build desacription model to calculate the resources to be cleaned
+				//only in case there are some changes to the project sources or build information

@@ -1,0 +1,1 @@
+  /** Remove the given snapshottable directory from {@link #snapshottables}. */

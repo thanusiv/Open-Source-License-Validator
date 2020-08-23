@@ -1,0 +1,3 @@
+// inline bool connect( const QObject *sender, const char *signal,
+		//                      const char *member,
+		//                      Qt::ConnectionType type = Qt::AutoConnection ) const;

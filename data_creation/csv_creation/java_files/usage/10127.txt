@@ -1,0 +1,1 @@
+   * @param selectedCandidates already selected candidates from previous policies

@@ -1,0 +1,2 @@
+The {@link ResourceCalculator} returned by this method should be used
+   * for any calculations involving resources.

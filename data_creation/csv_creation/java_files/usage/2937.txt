@@ -1,0 +1,1 @@
+   * @param message message to use in the text

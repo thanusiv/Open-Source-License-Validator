@@ -1,0 +1,2 @@
+@param request request to release a resource in the shared cache
+   * @return (empty) response on releasing the resource

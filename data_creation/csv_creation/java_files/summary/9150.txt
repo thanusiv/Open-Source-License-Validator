@@ -1,0 +1,1 @@
+	 * can hold the array of text string values

@@ -1,0 +1,2 @@
+<p>The {@code close} and {@code flush} methods of the returned {@code OutputStream} do nothing,
+   * and no method throws {@code IOException}.

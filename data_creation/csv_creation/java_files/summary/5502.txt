@@ -1,0 +1,2 @@
+ A special extension of {@link TestImpl} RPC server with
+   * {@link TestImpl#ping()} testing the audit logs.

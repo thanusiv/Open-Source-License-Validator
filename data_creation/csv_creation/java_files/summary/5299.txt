@@ -1,0 +1,2 @@
+Add logger if it's not already there, also initializing the event array
+     * if needed.

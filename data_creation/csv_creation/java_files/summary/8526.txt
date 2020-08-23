@@ -1,0 +1,3 @@
+ /**
+   * Method for compressor availability check
+   */

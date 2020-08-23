@@ -1,0 +1,3 @@
+ Remove logger function and event array if it seems like the function has
+     * been added by us.
+     */

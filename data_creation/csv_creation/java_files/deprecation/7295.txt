@@ -1,0 +1,1 @@
+	 * @deprecated,  use the type-safe version getKind(), instead.

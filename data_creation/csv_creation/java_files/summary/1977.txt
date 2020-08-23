@@ -1,0 +1,2 @@
+This interface has methods which returns a UIElement, given an Element.
+ * Method to return a List of Elements, given an Element.

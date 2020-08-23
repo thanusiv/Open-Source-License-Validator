@@ -1,0 +1,2 @@
+ // This constructor might be called after the launch, so we must refresh here too.
+               // This can happen if we activate the action set after the launch.

@@ -1,0 +1,1 @@
+	 * Creates make targets received by {@link MakeTargetTransfer} in Make Target View.

@@ -1,0 +1,7 @@
+		/* if (property.equals(AppearancePreferencePage.PREF_METHOD_RETURNTYPE)
+				|| property.equals(AppearancePreferencePage.PREF_OVERRIDE_INDICATOR)
+				|| property.equals(AppearancePreferencePage.PREF_PKG_NAME_PATTERN_FOR_PKG_VIEW)) {
+			initMasks();
+			LabelProviderChangedEvent lpEvent= new LabelProviderChangedEvent(this, null); // refresh all
+			fireLabelProviderChanged(lpEvent);
+		}	*/

@@ -1,0 +1,1 @@
+   * @return the suffix which will be appended to the user log dir.

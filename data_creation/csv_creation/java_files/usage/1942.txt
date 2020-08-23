@@ -1,0 +1,3 @@
+@param usage {@link Resource} the resource used by application masters
+   * @param maxAMResource {@link Resource} the maximum allowed resource for
+   *                                      application masters

@@ -1,0 +1,1 @@
+    // this constructor signature is required by CombineFileRecordReader

@@ -1,0 +1,7 @@
+/**
+     * Create a new instance of a connector based on its type.
+     * 
+     * @param classType
+     *            {@link ComponentConnector} class to instantiate
+     * @return new instance of the connector
+     */

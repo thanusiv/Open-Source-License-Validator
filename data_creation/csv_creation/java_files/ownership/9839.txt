@@ -1,0 +1,6 @@
+Contributors:
+ *     IBM - Initial API and implementation
+ *     Tianchao Li (tianchao.li@gmail.com) - arbitrary build directory (bug #136136)
+ *     Gerhard Schaber (Wind River Systems) - bug 187910
+ *     Markus Schorn (Wind River Systems)
+ *     Anton Leherbauer (Wind River Systems)

@@ -1,0 +1,1 @@
+    // start thread that will handle communication with parent

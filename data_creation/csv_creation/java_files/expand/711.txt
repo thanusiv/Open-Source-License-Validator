@@ -1,0 +1,1 @@
+// localFS is set in (and used by) writeToIndexFile()

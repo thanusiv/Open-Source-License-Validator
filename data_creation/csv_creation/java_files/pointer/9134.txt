@@ -1,0 +1,1 @@
+	 * @see org.eclipse.cdt.ui.text.doctools.IDocCommentOwnershipListener#ownershipChanged(org.eclipse.core.resources.IResource, boolean, org.eclipse.cdt.ui.text.doctools.IDocCommentOwner, org.eclipse.cdt.ui.text.doctools.IDocCommentOwner)

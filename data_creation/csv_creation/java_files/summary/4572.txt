@@ -1,0 +1,2 @@
+Utility classes to compute file checksum for both replicated and striped
+ * files.

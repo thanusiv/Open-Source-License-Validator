@@ -1,0 +1,2 @@
+@param timestamp
+         *            the timestamp for when the node is entered

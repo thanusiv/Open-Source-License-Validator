@@ -1,0 +1,9 @@
+/**
+ * Unit test class to compare
+ * {@link org.apache.hadoop.yarn.conf.YarnConfiguration} and
+ * yarn-default.xml for missing properties.  Currently only throws an error
+ * if the class is missing a property.
+ * <p></p>
+ * Refer to {@link org.apache.hadoop.conf.TestConfigurationFieldsBase}
+ * for how this class works.
+ */

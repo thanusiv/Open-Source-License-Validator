@@ -1,0 +1,2 @@
+Extension of CDT console adaptor interface to UI plugin console. This extension
+ * provides control over context id, name and icon in the Console view.

@@ -1,0 +1,3 @@
+ Create and initialize an anonymous read/write registry operations instance.
+   * In a secure cluster, this instance will only have read access to the
+   * registry.

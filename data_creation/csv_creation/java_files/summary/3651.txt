@@ -1,0 +1,1 @@
+	 *  Get an array of all the object file headers for this archive.

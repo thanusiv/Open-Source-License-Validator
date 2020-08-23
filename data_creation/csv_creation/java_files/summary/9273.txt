@@ -1,0 +1,2 @@
+ Equivalent to calling {@code flush(flushable, true)}, but with no {@code IOException} in the
+   * signature.

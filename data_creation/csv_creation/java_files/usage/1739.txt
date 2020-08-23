@@ -1,0 +1,2 @@
+ Note: This method is an optimization and the client is not required to call
+   * it for correctness.

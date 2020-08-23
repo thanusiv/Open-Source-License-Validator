@@ -1,0 +1,2 @@
+Gets the total time spent in this node, including time spent in sub
+         * nodes

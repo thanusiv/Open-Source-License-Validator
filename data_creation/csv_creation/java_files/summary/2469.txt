@@ -1,0 +1,2 @@
+Test that decoding invalid UTF8 due to truncation yields the correct
+   * exception type.

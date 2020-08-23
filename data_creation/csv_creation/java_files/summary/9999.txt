@@ -1,0 +1,1 @@
+    // add authentication filter for webhdfs

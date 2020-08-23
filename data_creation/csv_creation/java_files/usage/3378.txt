@@ -1,0 +1,1 @@
+   * @param nbHash The number of hash function to consider.

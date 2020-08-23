@@ -1,0 +1,2 @@
+// Reset the resized flag after a mouseup has occured so the next
+            // mousedown/mouseup can be interpreted as a click.

@@ -1,0 +1,1 @@
+		// Test changing settings on one of the ScannerConfigBuilderInfos

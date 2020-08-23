@@ -1,0 +1,3 @@
+@throws IOException
+  *           Throw IOException when the given path does not lead to an
+  *           existing snapshottable directory.

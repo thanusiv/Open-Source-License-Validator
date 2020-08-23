@@ -1,0 +1,1 @@
+ * Encapsulates the HTTP server started by the NameNode.

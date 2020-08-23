@@ -1,0 +1,9 @@
+//	private static OptionStringValue stripQuotes(OptionStringValue ov) {
+//		String value = ov.getValue();
+//		value = stripQuotes(value, true);
+//		if (value != null) {
+//			value = value.substring(1, value.length() - 1);
+//			ov = substituteValue(ov, value);
+//		}
+//		return ov;
+//	}

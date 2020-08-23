@@ -1,0 +1,1 @@
+Represents a frame on the declaration stack used by the resolver actions.

@@ -1,0 +1,2 @@
+@throws IOException If capacity was not specified during construction
+   *                     or if capacity has been reached.

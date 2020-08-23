@@ -1,0 +1,5 @@
+Resolves the file that is included by the given include directive. May return {@code null}
+	 * in case the file cannot be found. This is usually more efficient than using:
+	 * <pre>
+	 * getFiles(include.getIncludesLocation())
+	 * </pre>

@@ -1,0 +1,2 @@
+ Test to ensure that if the checksum file is truncated, a
+   * ChecksumException is thrown

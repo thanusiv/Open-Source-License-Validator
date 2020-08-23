@@ -1,0 +1,1 @@
+ * Provides a shared AST of a single translation unit at a time.

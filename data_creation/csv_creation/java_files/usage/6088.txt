@@ -1,0 +1,1 @@
+     * @return The quick open timeout (in ms)

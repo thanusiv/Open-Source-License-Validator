@@ -1,0 +1,4 @@
+ /**
+   * The Task Runner passes in the options as system properties. Set
+   * the options if the setters haven't already been called.
+   */

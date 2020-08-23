@@ -1,0 +1,2 @@
+// launch config added will get called below to add it to the
+				// configs map

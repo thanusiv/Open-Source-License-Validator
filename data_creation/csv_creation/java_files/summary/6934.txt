@@ -1,0 +1,1 @@
+	 * Create an Options page for language settings provider with given ID.

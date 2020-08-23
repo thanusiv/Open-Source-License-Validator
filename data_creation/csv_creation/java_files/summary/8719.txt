@@ -1,0 +1,2 @@
+// Trigger immediate heartbeats and block reports so
+      // that the active "trusts" all of the DNs

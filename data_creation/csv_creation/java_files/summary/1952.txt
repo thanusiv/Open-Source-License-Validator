@@ -1,0 +1,5 @@
+Computes and updates the steady shares of {@link FSQueue}s as per the
+   * {@link SchedulingPolicy}. The steady share does not differentiate
+   * between queues with and without running applications under them. The
+   * steady share is not used for scheduling, it is displayed on the Web UI
+   * for better visibility.

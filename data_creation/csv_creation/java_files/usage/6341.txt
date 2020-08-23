@@ -1,0 +1,1 @@
+   * @param totalDatanodes number of live datanodes

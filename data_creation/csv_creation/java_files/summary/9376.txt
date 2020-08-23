@@ -1,0 +1,1 @@
+   * Read the next key/value pair outputted by the client.

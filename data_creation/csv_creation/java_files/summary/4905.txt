@@ -1,0 +1,2 @@
+// Make sure that the Autotools builder precedes the Managed builder
+				// or the Remote Synchronized builder.

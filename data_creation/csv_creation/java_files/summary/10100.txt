@@ -1,0 +1,4 @@
+// Remove ourselves as listener for DM events events. In practice, we
+		// get called after the session has shut down, so we'll end up with a
+		// RejectedExecutionException. We put this here all the same for
+		// completeness sake.

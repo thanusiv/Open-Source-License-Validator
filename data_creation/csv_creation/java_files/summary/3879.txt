@@ -1,0 +1,2 @@
+Returns a {@link CacheLoader} that implements a naive {@link CacheLoader#loadAll}, delegating
+   * {@link CacheLoader#load} calls to {@code loader}.

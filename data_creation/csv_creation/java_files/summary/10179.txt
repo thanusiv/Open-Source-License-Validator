@@ -1,0 +1,1 @@
+ * Describes a category extension to the "completionProposalComputer" extension point.

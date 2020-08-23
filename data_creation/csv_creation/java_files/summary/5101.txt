@@ -1,0 +1,1 @@
+//		 Add a label and a text widget for Configuration's description

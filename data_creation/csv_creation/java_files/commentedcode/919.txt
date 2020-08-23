@@ -1,0 +1,6 @@
+//		CLanguageData data = doCreateLanguageDataForContentTypes(languageId, typesIds);
+//		if(data != null){
+//			fLanguageDatas.add(data);
+//			setModified(true);
+//		}
+//		return data;

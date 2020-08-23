@@ -1,0 +1,2 @@
+Create the URL to be used for authentication of the user in the absence of
+   * a JWT token within the incoming request.

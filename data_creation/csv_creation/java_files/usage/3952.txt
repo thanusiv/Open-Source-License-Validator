@@ -1,0 +1,1 @@
+	 * @return					the AST or <code>null</code> if the AST is not available

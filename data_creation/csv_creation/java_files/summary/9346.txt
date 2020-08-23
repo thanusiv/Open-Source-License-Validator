@@ -1,0 +1,4 @@
+/**
+ * BuildEntryStorage has a handle back to the BuildLanguageData
+ * to allow checking on which language entries are actually defined.
+ */

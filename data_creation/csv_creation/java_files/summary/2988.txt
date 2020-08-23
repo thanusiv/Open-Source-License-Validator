@@ -1,0 +1,2 @@
+This constructor has the signature needed by
+   * {@link AbstractFileSystem#createFileSystem(URI, Configuration)}.

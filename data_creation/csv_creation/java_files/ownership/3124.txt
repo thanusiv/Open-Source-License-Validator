@@ -1,0 +1,5 @@
+Contributors:
+ * QNX Software Systems - Initial API and implementation
+ * Freescale Semiconductor - Address watchpoints, https://bugs.eclipse.org/bugs/show_bug.cgi?id=118299
+ * Warren Paul (Nokia) - Bug 217485, Bug 218342
+ * Oyvind Harboe (oyvind.harboe@zylin.com) - Bug 225099

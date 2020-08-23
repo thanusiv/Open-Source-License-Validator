@@ -1,0 +1,1 @@
+    // Providers#of() does not redefine equals/hashCode, so use the same one both times.

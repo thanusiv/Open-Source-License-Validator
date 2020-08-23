@@ -1,0 +1,1 @@
+ * Specifies the scope or intended usage of an ACL entry.

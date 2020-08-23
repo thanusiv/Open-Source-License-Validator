@@ -1,0 +1,3 @@
+IBinding#getAdapter cannot create an instance of PDOMBinding because the Linkage is required.  This
+	// utility method uses #getAdapter to see if an instance has already been created.  If not then a new
+	// is created and stored in the AST binding.

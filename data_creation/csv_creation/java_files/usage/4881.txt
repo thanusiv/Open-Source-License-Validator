@@ -1,0 +1,1 @@
+	 * @param proj the project to add the nature to.

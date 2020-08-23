@@ -1,0 +1,2 @@
+Replace annotation instances with annotation types, this is only
+   * appropriate for testing if a key is bound and not for injecting.

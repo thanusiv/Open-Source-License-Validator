@@ -1,0 +1,1 @@
+   * The type field. This must be the string {@link #RECORD_TYPE}

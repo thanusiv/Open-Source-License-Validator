@@ -1,0 +1,2 @@
+ // trigger deleteOnExit and ensure the registered
+    // paths are cleaned up

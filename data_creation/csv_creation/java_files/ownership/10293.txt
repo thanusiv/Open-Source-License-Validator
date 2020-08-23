@@ -1,0 +1,6 @@
+Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     Anton Leherbauer (Wind River Systems)
+ *     IBM Corporation
+ *     Patrick Hofer - Bug 326265
+ *     Andrew Gvozdev

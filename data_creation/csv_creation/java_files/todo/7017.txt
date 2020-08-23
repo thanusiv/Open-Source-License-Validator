@@ -1,0 +1,1 @@
+Bug 469007 - Add MIExpressionsNonStopTest_7_2 to suite

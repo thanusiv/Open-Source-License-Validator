@@ -1,0 +1,3 @@
+Contributors:
+ * IBM Rational Software - Initial API and implementation
+ * Red Hat Inc. - Copy from CDT 3.1.2 to here

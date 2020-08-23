@@ -1,0 +1,13 @@
+/**
+ * <p>
+ * <code>TaskId</code> represents the unique identifier for a Map or Reduce
+ * Task.
+ * </p>
+ * 
+ * <p>
+ * TaskId consists of 3 parts. First part is <code>JobId</code>, that this Task
+ * belongs to. Second part of the TaskId is either 'm' or 'r' representing
+ * whether the task is a map task or a reduce task. And the third part is the
+ * task number.
+ * </p>
+ */

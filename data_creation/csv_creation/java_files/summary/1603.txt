@@ -1,0 +1,4 @@
+An alternate form of {@code put} that silently removes any existing entry
+   * with the value {@code value} before proceeding with the {@link #put}
+   * operation. If the bimap previously contained the provided key-value
+   * mapping, this method has no effect.

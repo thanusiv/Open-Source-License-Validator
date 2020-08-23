@@ -1,0 +1,5 @@
+* Returns the file object for the given location and linkage or {@code null} if the file
+	 * was not indexed in this linkage.
+	 * <p>
+	 * When a header file is stored in the index in multiple variants for different sets of macro
+	 * definitions, this method will return an arbitrary one of these variants.

@@ -1,0 +1,1 @@
+   * @param identifier the resource to unregister

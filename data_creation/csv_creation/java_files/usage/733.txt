@@ -1,0 +1,1 @@
+@param kind the kind of log to read

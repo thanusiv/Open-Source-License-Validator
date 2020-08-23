@@ -1,0 +1,1 @@
+      // IteratorTester doesn't expect exceptions for hasNext().

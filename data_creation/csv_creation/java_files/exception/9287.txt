@@ -1,0 +1,2 @@
+@throws IndexOutOfBoundsException
+     *             if <code>beforeIndex</code> is out of range

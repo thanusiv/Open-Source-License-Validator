@@ -1,0 +1,3 @@
+Contributors:
+ *     Sergey Prigogin (Google) - initial API and implementation
+ *     Marc-Andre Laperle (Ericsson)

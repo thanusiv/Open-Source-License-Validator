@@ -1,0 +1,1 @@
+// Iff we don't run as a JUnit Plugin Test.

@@ -1,0 +1,2 @@
+Returns this action's view part, or <code>null</code>
+	 * if not installed in a view.

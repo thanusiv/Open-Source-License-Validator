@@ -1,0 +1,5 @@
+ * This class is used on the server side. Calls come across the wire for the
+ * for protocol {@link ClientNamenodeProtocolPB}.
+ * This class translates the PB data types
+ * to the native data types used inside the NN as specified in the generic
+ * ClientProtocol.

@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.ADD_CPP_DOC_COMMENT, fAddCppDocStub);

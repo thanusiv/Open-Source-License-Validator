@@ -1,0 +1,1 @@
+ * Test that we can start several and run with namenodes on the same minicluster

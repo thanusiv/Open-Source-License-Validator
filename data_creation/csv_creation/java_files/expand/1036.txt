@@ -1,0 +1,4 @@
+// Set a really long value for dfs.blockreport.intervalMsec and
+    // dfs.heartbeat.interval, so that incremental block reports and heartbeats
+    // won't be sent during this test unless they're triggered
+    // manually.

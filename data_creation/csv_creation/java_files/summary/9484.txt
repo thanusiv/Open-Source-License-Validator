@@ -1,0 +1,1 @@
+	 * Sets up the project's content.

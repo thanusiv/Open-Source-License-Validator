@@ -1,0 +1,4 @@
+ /**
+   * Download a few fsimages using `hdfs dfsadmin -fetchImage ...' and verify
+   * the results.
+   */

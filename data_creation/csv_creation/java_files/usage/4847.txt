@@ -1,0 +1,2 @@
+@return Specific resources that may be killed by the
+   * <code>ResourceManager</code>

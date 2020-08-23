@@ -1,0 +1,2 @@
+A debug context event listen that provides filter support 
+	 * for the pinned debug context.

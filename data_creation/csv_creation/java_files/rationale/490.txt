@@ -1,0 +1,1 @@
+// the declSpec may be null, so use getDeclSpec()

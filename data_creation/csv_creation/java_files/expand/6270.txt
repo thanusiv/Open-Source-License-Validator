@@ -1,0 +1,9 @@
+The Qt implementation ensures uniqueness by creating only a single instance of
+		// the IASTName for each thing that should create a single instance in the PDOM.
+		// This will work as long as all Qt elements are updated at once, which is currently
+		// the case.
+		//
+		// I don't think this needs to be thread-safe, because things are only added from
+		// the single indexer task.
+		//
+		// Doug: The cache is causing out of memory conditions. Commenting out for now.

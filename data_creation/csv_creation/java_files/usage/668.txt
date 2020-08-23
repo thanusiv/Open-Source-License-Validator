@@ -1,0 +1,1 @@
+@param bitsetSizeInWords the size of the bitset, measured in 8-byte words

@@ -1,0 +1,2 @@
+ // check that its impossible to reset the working directory
+    // (#setWorkingDirectory should have no effect):

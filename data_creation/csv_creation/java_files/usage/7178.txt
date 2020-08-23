@@ -1,0 +1,1 @@
+	 * @return the kind of element; one of the constants declared in {@link ICElement}

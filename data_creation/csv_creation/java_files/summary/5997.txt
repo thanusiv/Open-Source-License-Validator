@@ -1,0 +1,2 @@
+// the directory can be removed safely now
+      // log the original path

@@ -1,0 +1,5 @@
+Block report statistics.
+   * 
+   * Each thread here represents its own data-node.
+   * Data-nodes send the same block report each time.
+   * The block report may contain missing or non-existing blocks.

@@ -1,0 +1,3 @@
+Returns the IASTTypeId for the ICPPASTConversionName.
+	 * 
+	 * i.e. getTypeId() on operator int(); would return the IASTTypeId for "int"

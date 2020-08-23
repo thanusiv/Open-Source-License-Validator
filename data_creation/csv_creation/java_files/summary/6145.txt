@@ -1,0 +1,4 @@
+ Returns the time (in ms) during which {@link #getQuickOpenDelay()} should
+     * be used instead of {@link #getOpenDelay()}. The quick open delay is used
+     * when the tooltip has very recently been shown, is currently hidden but
+     * about to be shown again.

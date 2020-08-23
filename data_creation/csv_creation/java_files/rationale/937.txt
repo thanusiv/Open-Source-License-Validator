@@ -1,0 +1,3 @@
+// If there were problems writing out the date, ignore and
+			// continue since that shouldn't stop us from losing the rest
+			// of the information

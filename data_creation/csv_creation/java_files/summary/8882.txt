@@ -1,0 +1,3 @@
+  /**
+   * Returns {@code Field.class}, {@code Method.class} or {@code Constructor.class}.
+   */

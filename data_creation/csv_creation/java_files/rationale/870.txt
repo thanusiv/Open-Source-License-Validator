@@ -1,0 +1,3 @@
+// If this is a LocalJobRunner-based job, this will
+  // be a mapping from map task attempts to their output files.
+  // This will be null in other cases.

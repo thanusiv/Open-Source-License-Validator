@@ -1,0 +1,2 @@
+ It makes all properties defined in the <code>superClassName</code>
+     * available for <code>baseClassName</code> as well.

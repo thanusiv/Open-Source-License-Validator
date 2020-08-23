@@ -1,0 +1,1 @@
+    // If container was indeed running, update allocated resource utilization.

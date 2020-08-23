@@ -1,0 +1,2 @@
+Configure the atomic rename directories key so every folder will have
+    // atomic rename applied.

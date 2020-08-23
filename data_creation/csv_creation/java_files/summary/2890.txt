@@ -1,0 +1,3 @@
+
+   * Create a dataset for use in the tests; all data is in the range
+   * base to (base+modulo-1) inclusive

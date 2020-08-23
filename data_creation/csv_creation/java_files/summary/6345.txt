@@ -1,0 +1,3 @@
+True if the user specified the -delete option.
+   *
+   * Whe this option is in effect, we will delete corrupted files.

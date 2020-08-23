@@ -1,0 +1,6 @@
+Checks requested access against an Access Control List.  This method relies
+   * on finding the ACL data in the relevant portions of {@link FsPermission} and
+   * {@link AclFeature} as implemented in the logic of {@link AclStorage}.  This
+   * method also relies on receiving the ACL entries in sorted order.  This is
+   * assumed to be true, because the ACL modification methods in
+   * {@link AclTransformation} sort the resulting entries.

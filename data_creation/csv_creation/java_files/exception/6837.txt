@@ -1,0 +1,1 @@
+   * @throws IllegalArgumentException on invalid identifier

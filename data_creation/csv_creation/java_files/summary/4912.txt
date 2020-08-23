@@ -1,0 +1,1 @@
+	 * Utility method for removing a project nature from a project.

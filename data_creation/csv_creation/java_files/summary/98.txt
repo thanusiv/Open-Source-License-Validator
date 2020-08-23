@@ -1,0 +1,4 @@
+/**
+	 * A specialization of launch to track sublaunches lifecycle, also terminates itself when all sublaunches are terminated
+	 *
+	 */

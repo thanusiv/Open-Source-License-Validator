@@ -1,0 +1,1 @@
+			// Windows has case insensitive env var names

@@ -1,0 +1,2 @@
+If the annotation is the class {@code javax.inject.Named}, canonicalizes to
+   * com.google.guice.name.Named. Returns the given annotation class otherwise.

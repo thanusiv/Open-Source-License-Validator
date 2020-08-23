@@ -1,0 +1,7 @@
+ @param composite The composite on which the SWT widgets are added.
+		 * @param numColumns The number of columns in the composite's GridLayout.
+		 * @param preferences The map to store the values.
+		 * @param key The key to store the values.
+		 * @param values An array of two elements indicating the values to store on unchecked/checked.
+		 * @param text The label text for this Preference.
+		 * @param style SWT style flag for the button

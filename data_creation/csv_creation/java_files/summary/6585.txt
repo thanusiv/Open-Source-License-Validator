@@ -1,0 +1,1 @@
+        // Attach onload listeners to all images

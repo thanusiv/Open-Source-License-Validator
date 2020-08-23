@@ -1,0 +1,1 @@
+// verify that setting, adding, subtracting capacity works

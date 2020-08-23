@@ -1,0 +1,6 @@
+/**
+ * Any object which can accept registrations of {@link TearDown} instances.
+ *
+ * @author Kevin Bourrillion
+ * @since 10.0
+ */

@@ -1,0 +1,4 @@
+/**
+	 * Constructor for StandardCElementLabelProvider.
+	 * @see CElementLabelProvider#CElementLabelProvider()
+	 */

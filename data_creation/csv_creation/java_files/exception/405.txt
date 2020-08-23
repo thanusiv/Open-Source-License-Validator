@@ -1,0 +1,2 @@
+@throws CoreException
+	 *             if decoding and string is not in the expected format

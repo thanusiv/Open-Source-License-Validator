@@ -1,0 +1,3 @@
+Returns the possibly project-specific core preference defined under <code>key</code>, or
+	 * <code>def</code> if the value is not a integer.
+	 *

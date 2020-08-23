@@ -1,0 +1,4 @@
+The checkbox selection will normally be propagated to the label and text controls in the
+    	// checkbox selection listener.  However, the callback is only invoked when the selection changes,
+    	// which means that an initial value of false will not be properly propagated.  The state is
+    	// directly updated here.

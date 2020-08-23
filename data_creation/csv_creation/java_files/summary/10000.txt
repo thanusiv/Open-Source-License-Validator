@@ -1,0 +1,1 @@
+    // add REST CSRF prevention filter

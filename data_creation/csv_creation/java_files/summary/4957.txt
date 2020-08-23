@@ -1,0 +1,3 @@
+// create an ExternalEditorInput with an external tu so when you
+								// open the file from the breakpoints view it opens in the
+								// proper editor.

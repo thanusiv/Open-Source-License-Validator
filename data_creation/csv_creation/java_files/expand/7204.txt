@@ -1,0 +1,4 @@
+/**
+	 * Constant representing a C Root workspace (IWorkspaceRoot object).
+	 * A C element with this type can be safely cast to <code>ICModel</code>.
+	 */

@@ -1,0 +1,1 @@
+@param ignoreEmptyDir Ignore permission checking for empty directory?

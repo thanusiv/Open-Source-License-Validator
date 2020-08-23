@@ -1,0 +1,5 @@
+/**
+	 * Method isValidLocation.
+	 * @param projectFieldContents
+	 * @return IStatus
+	 */

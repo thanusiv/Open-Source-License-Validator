@@ -1,0 +1,2 @@
+@param service
+     *            the portlet service to which the new session belongs

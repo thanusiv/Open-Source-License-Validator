@@ -1,0 +1,1 @@
+ * <p>Most subclasses can simply extend {@link SimpleForwardingCheckedFuture}.

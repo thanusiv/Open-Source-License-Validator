@@ -1,0 +1,1 @@
+  /** Gets a key for the given type, member and annotations. */

@@ -1,0 +1,5 @@
+ /**
+   * Check if the replica is stale.
+   *
+   * Must be called with the cache lock held.
+   */

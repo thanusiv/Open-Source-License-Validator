@@ -1,0 +1,3 @@
+Since the bimap is immutable, ImmutableBiMap doesn't require special logic
+   * for keeping the bimap and its inverse in sync during serialization, the way
+   * AbstractBiMap does.

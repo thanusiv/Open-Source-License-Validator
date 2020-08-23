@@ -1,0 +1,1 @@
+   * If the path is already a snapshottable directory, update the quota.

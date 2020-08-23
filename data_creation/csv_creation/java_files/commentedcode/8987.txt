@@ -1,0 +1,1 @@
+//		final Category constructorDeclarations= new Category(null, null, FormatterMessages.LineWrappingTabPage_constructor_decls);

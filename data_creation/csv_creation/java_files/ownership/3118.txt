@@ -1,0 +1,2 @@
+Contributors:
+ *    Jonah Graham (Kichwa Coders) - initial API and implementation to Add support for gdb's "set substitute-path" (Bug 472765)

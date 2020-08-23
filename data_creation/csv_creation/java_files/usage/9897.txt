@@ -1,0 +1,1 @@
+	 * @return {@link ICProjectDescription} or null if the project does not contain the

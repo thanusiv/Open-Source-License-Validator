@@ -1,0 +1,1 @@
+// We only match String.compareToIgnoreCase behavior within this limited range.

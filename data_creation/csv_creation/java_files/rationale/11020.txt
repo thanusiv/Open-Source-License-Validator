@@ -1,0 +1,2 @@
+otherwise. If onFinish is false, the project is temporary and can be removed
+	 * if cancel is pressed.

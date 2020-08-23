@@ -1,0 +1,1 @@
+   * Run the job the default way (the input format key is not emitted).

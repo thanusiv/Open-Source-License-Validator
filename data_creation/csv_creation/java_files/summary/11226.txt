@@ -1,0 +1,1 @@
+    // Run directory scanner to update the DN's volume map

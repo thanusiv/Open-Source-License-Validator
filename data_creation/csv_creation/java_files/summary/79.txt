@@ -1,0 +1,3 @@
+/**
+ * Group Launch delegate. Launches each configuration in the user selected mode
+ */

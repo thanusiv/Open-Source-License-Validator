@@ -1,0 +1,1 @@
+     * Returns the list of configured label attributes for this column.

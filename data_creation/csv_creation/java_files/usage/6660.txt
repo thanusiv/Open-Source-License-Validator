@@ -1,0 +1,1 @@
+	 * @return whether this element can currently be restarted

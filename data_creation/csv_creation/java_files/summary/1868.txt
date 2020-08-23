@@ -1,0 +1,1 @@
+Prevent no-parameters instantiation of FreeformQuery

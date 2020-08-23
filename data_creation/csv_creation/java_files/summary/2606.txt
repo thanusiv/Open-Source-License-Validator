@@ -1,0 +1,3 @@
+
+        // We know the line is fine to parse without error checking like this
+        // since it matched the regex above.

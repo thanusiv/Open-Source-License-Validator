@@ -1,0 +1,2 @@
+Contributors:
+ * Andrew Ferguson (Symbian) - Initial implementation

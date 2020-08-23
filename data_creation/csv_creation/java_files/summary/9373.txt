@@ -1,0 +1,1 @@
+ * Abstract base for classes that read the client's output.

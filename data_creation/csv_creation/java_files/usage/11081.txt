@@ -1,0 +1,1 @@
+     * @param properties Map of properties to use to generate the label.

@@ -1,0 +1,3 @@
+// Don't reindex the project if it already has a Qt linkage. The index
+		// will be updated
+		// by the normal triggers.

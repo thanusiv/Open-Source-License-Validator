@@ -1,0 +1,1 @@
+	 * Get the languages supported by each content type

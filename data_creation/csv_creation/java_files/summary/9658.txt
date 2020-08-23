@@ -1,0 +1,2 @@
+  // Doesn't matter if the same calculation is done multiple times from
+        // different threads, so there's no need to do e.g. putIfAbsent

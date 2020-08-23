@@ -1,0 +1,3 @@
+ This data structure is a list of lists.  The inner lists are names that should that
+	 * should be created in the same linkage.  The outer list collects the heads of the
+	 * inner lists.

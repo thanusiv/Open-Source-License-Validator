@@ -1,0 +1,2 @@
+ True if we encountered an internal error during FSCK, such as not being
+   * able to delete a corrupt file.

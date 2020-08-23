@@ -1,0 +1,1 @@
+   * Checks for the presence of annotations. Caches results because Android doesn't.

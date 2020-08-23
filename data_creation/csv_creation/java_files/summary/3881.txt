@@ -1,0 +1,1 @@
+Returns a {@link CacheLoader} that returns the given {@code constant} for every request.

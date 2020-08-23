@@ -1,0 +1,7 @@
+//	private final Category fEnumConstArgumentsCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_ARGUMENTS_IN_ENUM_CONSTANT,
+//	    	"enum Example {" + //$NON-NLS-1$
+//	    	"GREEN(0, 255, 0), RED(255, 0, 0)  }", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_enum_constant_arguments,
+//    		FormatterMessages.LineWrappingTabPage_enum_constant_arguments_lowercase
+//		);

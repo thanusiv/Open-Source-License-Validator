@@ -1,0 +1,1 @@
+   * @return true if the new properties has been written.

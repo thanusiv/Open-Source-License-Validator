@@ -1,0 +1,2 @@
+// static bool disconnect( const QObject *sender, const char *signal,
+			//                         const QObject *receiver, const char *member );

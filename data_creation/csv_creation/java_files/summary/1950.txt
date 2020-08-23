@@ -1,0 +1,4 @@
+Get headroom by calculating the min of <code>clusterAvailable</code> and
+   * (<code>queueFairShare</code> - <code>queueUsage</code>) resources that are
+   * applicable to this policy. For eg if only memory then leave other
+   * resources such as CPU to same as clusterAvailable.

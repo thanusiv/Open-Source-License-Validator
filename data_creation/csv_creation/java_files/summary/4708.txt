@@ -1,0 +1,2 @@
+Updates the display to reflect potential changes in project activation and the resulting changes in
+	 * working-set config activation, if any.

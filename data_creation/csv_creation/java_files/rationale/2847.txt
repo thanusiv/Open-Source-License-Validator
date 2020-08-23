@@ -1,0 +1,2 @@
+//	project reference updated - may throw an exception if unable to write .cdtproject file
+		updateProjectReferencesIfNecessary();

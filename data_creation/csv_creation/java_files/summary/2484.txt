@@ -1,0 +1,1 @@
+Opens a new inner scope for identifiers.

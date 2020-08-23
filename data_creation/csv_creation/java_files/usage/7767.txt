@@ -1,0 +1,1 @@
+   * @param conn the {@link HttpURLConnection} instance to configure.

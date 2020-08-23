@@ -1,0 +1,3 @@
+Class for de-duplication of instances. <br>
+ * Hold the references count to a single instance. If there are no references
+ * then the entry will be removed.<br>

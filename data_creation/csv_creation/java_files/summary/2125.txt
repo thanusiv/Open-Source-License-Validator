@@ -1,0 +1,5 @@
+Returns a list of all the target-independent MI features
+	 * supported by the GDB that is being used. Consult the GDB MI documentation
+	 * for the MI -list-features command for the possible names of features.
+	 * 
+	 * The return value is never null but may be an empty list.

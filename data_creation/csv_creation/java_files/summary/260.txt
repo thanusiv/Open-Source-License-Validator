@@ -1,0 +1,3 @@
+/**
+ * Binding for template type parameters in the index.
+ */

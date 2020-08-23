@@ -1,0 +1,5 @@
+ Contributors:
+ *     Andrew Ferguson (Symbian) - Initial implementation
+ *     Bryan Wilkinson (QNX)
+ *     Markus Schorn (Wind River Systems)
+ *     Sergey Prigogin (Google)

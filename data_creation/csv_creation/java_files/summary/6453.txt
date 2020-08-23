@@ -1,0 +1,2 @@
+A small utility to store the important parts of an identifier.  This is just the starting
+	 * offset and the text of the identifier.

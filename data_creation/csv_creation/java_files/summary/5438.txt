@@ -1,0 +1,1 @@
+// Each node looks like { int linkageID; recPtr nextNode; recPtr headOfList; }

@@ -1,0 +1,2 @@
+// check if (parentAccess != null) && file exists, then check sb
+    // If resolveLink, the check is performed on the link target.

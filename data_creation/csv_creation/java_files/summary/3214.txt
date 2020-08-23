@@ -1,0 +1,2 @@
+Compute the difference between two snapshots of a directory, or between a
+   * snapshot of the directory and its current tree.

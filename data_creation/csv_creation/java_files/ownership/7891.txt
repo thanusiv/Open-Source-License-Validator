@@ -1,0 +1,3 @@
+Contributors:
+ * Intel Corporation - Initial API and implementation
+ * Miwako Tokugawa (Intel Corporation) - bug 222817 (OptionCategoryApplicability)

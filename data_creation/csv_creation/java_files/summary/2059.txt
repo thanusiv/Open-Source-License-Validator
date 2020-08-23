@@ -1,0 +1,2 @@
+Returns an {@link ImmutableSortedSet} containing the same values in the given domain
+   * {@linkplain RangeSet#contains contained} by this range set.

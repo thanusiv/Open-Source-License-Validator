@@ -1,0 +1,1 @@
+        // HDFS can't differentiate duplicate names with simple authentication

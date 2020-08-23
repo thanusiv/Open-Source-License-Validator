@@ -1,0 +1,15 @@
+/*******************************************************************************
+ * Copyright (c) 2004, 2015 QNX Software Systems and others.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ * QNX Software Systems - Initial API and implementation
+ * Ken Ryall (Nokia) - Added support for CSourceNotFoundElement ( 167305 )
+ * ARM Limited - https://bugs.eclipse.org/bugs/show_bug.cgi?id=186981
+ * Ken Ryall (Nokia) - Bug 201165 don't toss images on dispose.
+ * Ericsson          - Bug 284286 support for tracepoints
+ * Marc Khouzam (Ericsson) - Added dynamic printf support (400628)
+ *******************************************************************************/

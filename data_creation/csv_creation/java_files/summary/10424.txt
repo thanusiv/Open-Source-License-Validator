@@ -1,0 +1,2 @@
+Returns the active C project associated with the specified resource,
+	 * or {@code null} if no C project yet exists for the resource.

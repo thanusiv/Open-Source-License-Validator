@@ -1,0 +1,2 @@
+// Propose nothing but READ as the first attribute.  If the previous identifier is before
+		// the end of the typeName region, then we're currently at the first attribute.

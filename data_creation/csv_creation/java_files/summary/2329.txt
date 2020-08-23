@@ -1,0 +1,2 @@
+ Live links the launched process with the configured in/out streams using
+	 * reader threads.

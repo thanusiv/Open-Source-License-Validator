@@ -1,0 +1,5 @@
+/**
+ * Skeletal implementation of {@link ImmutableSortedSet#descendingSet()}.
+ *
+ * @author Louis Wasserman
+ */

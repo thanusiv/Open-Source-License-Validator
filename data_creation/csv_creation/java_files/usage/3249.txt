@@ -1,0 +1,1 @@
+@param iip the INodes resolved from the snapshottable directory's path

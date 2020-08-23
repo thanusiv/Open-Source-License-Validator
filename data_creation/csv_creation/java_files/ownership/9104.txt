@@ -1,0 +1,6 @@
+ Contributors:
+ *     IBM Corporation - initial implementation
+ *     Markus Schorn (Wind River Systems)
+ *     Bryan Wilkinson (QNX) - https://bugs.eclipse.org/bugs/show_bug.cgi?id=151207
+ *     Anton Leherbauer (Wind River Systems)
+ *     Richard Eames

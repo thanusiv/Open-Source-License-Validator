@@ -1,0 +1,4 @@
+/**
+	 * Returns a timestamp of when the index was last written to. This can
+	 * be used to figure out whether information read from the index is
+	 * still reliable or not.

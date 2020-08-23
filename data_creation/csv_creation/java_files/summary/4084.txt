@@ -1,0 +1,1 @@
+Verifies a string is not NULL and not emtpy

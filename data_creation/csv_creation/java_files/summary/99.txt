@@ -1,0 +1,3 @@
+/**
+		 * Whether this process has been terminated
+		 */

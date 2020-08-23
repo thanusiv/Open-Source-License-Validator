@@ -1,0 +1,2 @@
+/ Make sure 'executable' is still null in case we are dealing with a remote
+						// session that is also an attach, as the -r flag could have been set first

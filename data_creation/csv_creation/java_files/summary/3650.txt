@@ -1,0 +1,2 @@
+ Creates a new <code>AR</code> object from the contents of 
+	 *  the given file.

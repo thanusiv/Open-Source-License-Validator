@@ -1,0 +1,15 @@
+ Usage: JavaRecoverableNetworkWordCount <hostname> <port> <checkpoint-directory> <output-file>
+ *   <hostname> and <port> describe the TCP server that Spark Streaming would connect to receive
+ *   data. <checkpoint-directory> directory to HDFS-compatible file system which checkpoint data
+ *   <output-file> file to which the word counts will be appended
+ *
+ * <checkpoint-directory> and <output-file> must be absolute paths
+ *
+ * To run this on your local machine, you need to first run a Netcat server
+ *
+ *      `$ nc -lk 9999`
+ *
+ * and run the example as
+ *
+ *      `$ ./bin/run-example org.apache.spark.examples.streaming.JavaRecoverableNetworkWordCount \
+ *              localhost 9999 ~/checkpoint/ ~/out`

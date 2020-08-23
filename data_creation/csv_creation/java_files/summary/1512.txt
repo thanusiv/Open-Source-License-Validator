@@ -1,0 +1,2 @@
+Create a GridLayout with the default margin and spacing settings, as
+	 * well as the specified number of columns.

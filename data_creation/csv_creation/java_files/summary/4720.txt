@@ -1,0 +1,2 @@
+Connects me to the controller for the project configurations pane, into which I inject the currently
+	 * selected working set configuration.

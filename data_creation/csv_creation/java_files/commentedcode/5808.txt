@@ -1,0 +1,1 @@
+        // memoryStatus.setValue("Not available in Java 1.4");

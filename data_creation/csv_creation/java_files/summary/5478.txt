@@ -1,0 +1,1 @@
+ * Common code for allowing MapOutput classes to handle streams.

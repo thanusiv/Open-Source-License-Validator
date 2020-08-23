@@ -1,0 +1,1 @@
+   * @return the string representation of the agregator

@@ -1,0 +1,2 @@
+ This class is used to summarize useful shared cache manager metrics for the
+ * webUI display.

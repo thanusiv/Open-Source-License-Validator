@@ -1,0 +1,1 @@
+@param parentAccess The access required by the parent of the path.

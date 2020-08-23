@@ -1,0 +1,3 @@
+This is the default listener for any of the Preference
+	 * classes. It is added by the respective factory methods and
+	 * updates the page's preview on each change.

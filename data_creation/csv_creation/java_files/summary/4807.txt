@@ -1,0 +1,2 @@
+Clicking the button will trigger sending the window coordinates, but
+        // the window is already removed at that point.

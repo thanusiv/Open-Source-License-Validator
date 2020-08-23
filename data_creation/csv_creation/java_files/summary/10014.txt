@@ -1,0 +1,1 @@
+   * Sets address of namenode for use by servlets.

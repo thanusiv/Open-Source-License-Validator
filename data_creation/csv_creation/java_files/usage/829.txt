@@ -1,0 +1,1 @@
+@return the {@link Path} to the output directory for the map-reduce job.

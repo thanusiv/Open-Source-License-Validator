@@ -1,0 +1,1 @@
+// Use owner entry from permission bits if user is owner.

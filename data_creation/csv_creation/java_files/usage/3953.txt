@@ -1,0 +1,1 @@
+	 * @param ast   the AST to release.

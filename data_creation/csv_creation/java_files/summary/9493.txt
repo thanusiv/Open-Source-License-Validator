@@ -1,0 +1,1 @@
+            // verify we are in main view and url is correct

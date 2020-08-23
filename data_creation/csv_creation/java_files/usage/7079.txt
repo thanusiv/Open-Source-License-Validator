@@ -1,0 +1,1 @@
+	 * @param imageFlags Flags defined in <code>CElementImageProvider</code>.

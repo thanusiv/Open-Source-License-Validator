@@ -1,0 +1,1 @@
+						    // this allow set attributes contributed by other plugins

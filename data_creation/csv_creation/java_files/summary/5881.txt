@@ -1,0 +1,2 @@
+ // Increase committed heap usage, if needed
+        // Using a linear weighing function for computing the expected usage

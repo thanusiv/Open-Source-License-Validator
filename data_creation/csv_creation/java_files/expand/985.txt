@@ -1,0 +1,8 @@
+The map output field list spec is under attribute 
+ * "mapreduce.fieldsel.map.output.key.value.fields.spec".
+ * The value is expected to be like "keyFieldsSpec:valueFieldsSpec"
+ * key/valueFieldsSpec are comma (,) separated field spec: fieldSpec,fieldSpec,fieldSpec ...
+ * Each field spec can be a simple number (e.g. 5) specifying a specific field, or a range
+ * (like 2-5) to specify a range of fields, or an open range (like 3-) specifying all 
+ * the fields starting from field 3. The open range field spec applies value fields only.
+ * They have no effect on the key fields.

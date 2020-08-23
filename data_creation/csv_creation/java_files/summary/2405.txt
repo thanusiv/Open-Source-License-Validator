@@ -1,0 +1,1 @@
+ * This represents a declaration specifier for a built-in type.

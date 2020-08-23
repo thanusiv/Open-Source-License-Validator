@@ -1,0 +1,1 @@
+ * This context menu action is used to change active build configuration for the project

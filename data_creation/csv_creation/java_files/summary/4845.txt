@@ -1,0 +1,8 @@
+A {@link PreemptionMessage} is part of the RM-AM protocol, and it is used by
+ * the RM to specify resources that the RM wants to reclaim from this
+ * {@code ApplicationMaster} (AM). The AM receives a {@link
+ * StrictPreemptionContract} message encoding which containers the platform may
+ * forcibly kill, granting it an opportunity to checkpoint state or adjust its
+ * execution plan. The message may also include a {@link PreemptionContract}
+ * granting the AM more latitude in selecting which resources to return to the
+ * cluster.

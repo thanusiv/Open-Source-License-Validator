@@ -1,0 +1,1 @@
+Encoding a Long integer into a variable-length encoding format.

@@ -1,0 +1,1 @@
+The field separator is under attribute "mapreduce.fieldsel.data.field.separator"

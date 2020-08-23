@@ -1,0 +1,1 @@
+   * @throws IllegalArgumentException if the integer is zero or less.

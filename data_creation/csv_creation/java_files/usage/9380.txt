@@ -1,0 +1,1 @@
+@return true iff a key/value pair was read

@@ -1,0 +1,3 @@
+// During initialization, we don't want to use the default
+		// values of the connection, but we want to use the ones
+		// that are part of the configuration

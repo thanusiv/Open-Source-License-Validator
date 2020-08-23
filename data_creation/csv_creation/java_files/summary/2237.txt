@@ -1,0 +1,2 @@
+Test that the exit code of the script determines
+   * whether the fencer succeeded or failed

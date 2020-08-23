@@ -1,0 +1,1 @@
+  /** Returns the scope annotation on {@code type}, or null if none is specified. */

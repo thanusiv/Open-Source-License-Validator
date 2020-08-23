@@ -1,0 +1,1 @@
+  /** Information about the current HA-related state of the NN */

@@ -1,0 +1,1 @@
+Set the enabled state of all SWT widgets of this preference.

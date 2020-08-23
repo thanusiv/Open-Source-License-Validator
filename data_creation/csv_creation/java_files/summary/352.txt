@@ -1,0 +1,4 @@
+/*
+	 * setLocalPathForRemotePath This function sets the remote path text field
+	 * with the value of the local executable path.
+	 */

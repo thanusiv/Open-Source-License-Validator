@@ -1,0 +1,2 @@
+Returns a new builder. The generated builder is equivalent to the builder
+   * created by the {@link Builder} constructor.

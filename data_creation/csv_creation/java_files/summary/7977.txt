@@ -1,0 +1,5 @@
+ /**
+   * Get whether task is cleanup attempt or not.
+   * 
+   * @return true if the task is cleanup attempt, false otherwise.
+   */

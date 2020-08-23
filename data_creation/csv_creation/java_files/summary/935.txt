@@ -1,0 +1,1 @@
+			// there was a problem opening the log file so log to the console

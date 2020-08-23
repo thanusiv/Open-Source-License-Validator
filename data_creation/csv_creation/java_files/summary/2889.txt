@@ -1,0 +1,2 @@
+Assert that a file exists and whose {@link FileStatus} entry
+   * declares that this is a file and not a symlink or directory.

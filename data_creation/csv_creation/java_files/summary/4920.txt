@@ -1,0 +1,1 @@
+		// Setup bracket matching with default color being gray

@@ -1,0 +1,2 @@
+Returns the maximum allowable snapshot ID based on the bit width of the
+   * snapshot ID.

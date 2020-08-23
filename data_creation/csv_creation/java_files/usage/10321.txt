@@ -1,0 +1,1 @@
+	 * @return the folding action group, or <code>null</code> if there is none

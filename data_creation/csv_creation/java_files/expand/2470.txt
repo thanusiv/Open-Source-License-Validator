@@ -1,0 +1,2 @@
+// Truncated CAT FACE character -- this is a 4-byte sequence, but we
+    // only have the first three bytes.

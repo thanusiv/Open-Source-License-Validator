@@ -1,0 +1,3 @@
+/**
+	 * Writes the given string to the log, followed by the line terminator string.
+	 */

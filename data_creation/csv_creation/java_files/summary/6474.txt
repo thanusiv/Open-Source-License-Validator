@@ -1,0 +1,1 @@
+ * Tests if long event which began before the view period is shown (#15242)

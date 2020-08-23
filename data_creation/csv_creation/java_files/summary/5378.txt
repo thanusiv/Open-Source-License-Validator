@@ -1,0 +1,1 @@
+Tries to make an annotation hover focusable (or "sticky").

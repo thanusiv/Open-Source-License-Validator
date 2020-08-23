@@ -1,0 +1,2 @@
+@param contextId - context menu id in the Console view. A caller needs to define
+	 *    a distinct one for own use.

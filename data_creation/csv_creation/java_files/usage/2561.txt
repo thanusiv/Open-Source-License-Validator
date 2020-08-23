@@ -1,0 +1,1 @@
+ * Note: This class is NOT thread-safe.

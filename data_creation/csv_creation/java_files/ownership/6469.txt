@@ -1,0 +1,4 @@
+ Contributors:
+ *     IBM - Initial API and implementation
+ *     Yuan Zhang / Beth Tibbitts (IBM Research)
+ *     Markus Schorn (Wind River Systems)

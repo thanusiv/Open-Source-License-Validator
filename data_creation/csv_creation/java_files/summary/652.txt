@@ -1,0 +1,1 @@
+Returns the file objects for the given location in any linkage.

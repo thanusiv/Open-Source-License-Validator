@@ -1,0 +1,1 @@
+/** Log the debug script's stdout  */

@@ -1,0 +1,3 @@
+Provides the string encoding of a memory space qualified address. This
+	 * method is called when having to represent a memory-space qualified
+	 * address as a single string.

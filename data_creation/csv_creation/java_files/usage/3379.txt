@@ -1,0 +1,1 @@
+   * @param vectorSize The number of bits in the vector.

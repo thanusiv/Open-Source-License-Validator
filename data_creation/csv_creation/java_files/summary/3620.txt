@@ -1,0 +1,2 @@
+Loads the basic job level data upfront.
+ * Data from job history file is loaded lazily.

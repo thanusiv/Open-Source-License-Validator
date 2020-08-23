@@ -1,0 +1,1 @@
+      // define a configuration object and load it with original job properties

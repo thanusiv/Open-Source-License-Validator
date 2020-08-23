@@ -1,0 +1,7 @@
+ /**
+   * Test for the object matching a path, ignoring the container
+   * value.
+   *
+   * @param path path string
+   * @return true iff the object's name matches the path
+   */

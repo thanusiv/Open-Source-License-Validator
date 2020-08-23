@@ -1,0 +1,1 @@
+   * @param separatorLength the length of the separator between key and value

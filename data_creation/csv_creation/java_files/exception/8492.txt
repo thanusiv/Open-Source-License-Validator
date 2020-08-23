@@ -1,0 +1,1 @@
+   * @throws ServiceStateException if the transition is not permitted

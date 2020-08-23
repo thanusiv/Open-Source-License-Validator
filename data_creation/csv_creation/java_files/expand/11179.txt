@@ -1,0 +1,15 @@
+  * Listener interface for the various types of JSR-286 portlet requests. The
+     * listener methods are called by the request handler
+     * {@link PortletListenerNotifier} after the session is locked and the
+     * corresponding UI has been found (if already created) but before other
+     * request processing takes place.
+     * 
+     * Direct rendering of output is not possible in a portlet listener and the
+     * JSR-286 limitations on allowed operations in each phase or portlet
+     * request processing must be respected by the listeners.
+     * 
+     * Note that internal action requests used by the framework to trigger
+     * events or set shared parameters do not call the action request listener
+     * but will result in a later event or render request that will trigger the
+     * corresponding listener.
+     */

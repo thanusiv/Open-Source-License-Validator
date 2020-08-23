@@ -1,0 +1,4 @@
+/**
+ * This class tests hadoopStreaming in MapReduce local mode.
+ * This testcase looks at different cases of tab position in input. 
+ */

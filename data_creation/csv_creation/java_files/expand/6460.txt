@@ -1,0 +1,7 @@
+// There are two significant regions in a Q_PROPERTY declaration.  The first is everything
+		// between the opening paren and the first parameter.  This region specifies the type and the
+		// name.  The other is the region that declares all the parameters.  There is an arbitrary
+		// amount of whitespace between these regions.
+		//
+		// This function finds and returns the offset of the end of the region containing the type and
+		// name.  Returns 0 if the type/name region cannot be found.

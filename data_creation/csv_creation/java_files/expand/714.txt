@@ -1,0 +1,4 @@
+// special cases are the debugout and profile.out files. They are
+      // guaranteed
+      // to be associated with each task attempt since jvm reuse is disabled
+      // when profiling/debugging is enabled

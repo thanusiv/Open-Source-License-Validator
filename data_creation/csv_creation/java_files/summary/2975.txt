@@ -1,0 +1,6 @@
+/**
+ * Shared state for Grid headers and footers.
+ * 
+ * @since 7.4
+ * @author Vaadin Ltd
+ */

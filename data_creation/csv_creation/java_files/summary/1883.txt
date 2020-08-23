@@ -1,0 +1,6 @@
+This implementation of the containsRowWithKey method rewrites existing
+     * WHERE clauses in the query string. The logic is, however, not very
+     * complex and some times can do the Wrong Thing<sup>TM</sup>. For the
+     * situations where this logic is not enough, you can implement the
+     * getContainsRowQueryString method in FreeformQueryDelegate and this will
+     * be used instead of the logic.

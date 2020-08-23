@@ -1,0 +1,1 @@
+   * Gets the next {@link RequestInterceptor} in the chain.

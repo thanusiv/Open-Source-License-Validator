@@ -1,0 +1,1 @@
+		// Allow up to 512 characters from the opening paren.

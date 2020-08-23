@@ -1,0 +1,3 @@
+/* for the instruction, we do not want the C string but the
+                translated string since the only thing we are doing is
+                displaying it. */

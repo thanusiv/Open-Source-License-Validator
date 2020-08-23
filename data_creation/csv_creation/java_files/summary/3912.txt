@@ -1,0 +1,2 @@
+Returns the list of initializers. Depending on how the ast was created, this may omit
+	 * trivial initializers in order to save memory.

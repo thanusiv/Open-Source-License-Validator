@@ -1,0 +1,1 @@
+      // assume same ssl port for all datanodes

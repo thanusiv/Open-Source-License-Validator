@@ -1,0 +1,1 @@
+//only build projects with project resource changes

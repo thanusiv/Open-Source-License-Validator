@@ -1,0 +1,3 @@
+/**
+   * Sets the bit at the specified index to {@code true}.
+   */

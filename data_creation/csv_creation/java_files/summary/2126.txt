@@ -1,0 +1,2 @@
+Enable the pretty printers also for MI variable objects. This basically
+	 * sends -enable-pretty-printing.

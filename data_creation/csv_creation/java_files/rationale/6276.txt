@@ -1,0 +1,1 @@
+		// If the new name was created for a QmlRegistration, then put it into the index.

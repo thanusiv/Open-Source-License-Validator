@@ -1,0 +1,2 @@
+Helper function to create the task's temporary output directory and 
+   * return the path to the task's output file.

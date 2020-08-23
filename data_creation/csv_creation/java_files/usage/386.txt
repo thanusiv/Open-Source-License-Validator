@@ -1,0 +1,4 @@
+@param expression
+	 *            the expression representing a location within a memory space.
+	 *            This can be a simple numeric expression like "0x10000" or
+	 *            something more complex "$EAX+(gCustomerCount*100)".

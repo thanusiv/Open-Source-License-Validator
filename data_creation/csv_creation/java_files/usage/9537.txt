@@ -1,0 +1,1 @@
+	 * @param name the string to test

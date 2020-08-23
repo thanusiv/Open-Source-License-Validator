@@ -1,0 +1,3 @@
+ /**
+   * Identifies this ShortCircuitReplica object.
+   */

@@ -1,0 +1,2 @@
+* @param valueAndType
+     *            The encoded value and type array

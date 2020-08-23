@@ -1,0 +1,1 @@
+		// The following preferences should be kept in the store

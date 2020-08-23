@@ -1,0 +1,2 @@
+ <p><b>Warning:</b> If an existing entry with this value is removed, the key
+   * for that entry is discarded and not returned.

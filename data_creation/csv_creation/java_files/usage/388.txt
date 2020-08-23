@@ -1,0 +1,2 @@
+@return the encoded string representation of the address, or null to
+	 *         indicate no custom encoding is required

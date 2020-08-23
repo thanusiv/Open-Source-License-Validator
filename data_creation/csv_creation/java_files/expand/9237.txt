@@ -1,0 +1,5 @@
+/**
+	 * Returns the name of the enumerator as referenced in parameter in the Q_ENUMS
+	 * macro expansion.  In the sample code in the class declaration, this would return
+	 * "B::E", "E0", or "E1".
+	 */

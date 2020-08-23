@@ -1,0 +1,2 @@
+Constructor for a filter that compares the value of an item property with
+     * null.

@@ -1,0 +1,2 @@
+@param addedNode
+   *          New replica reported

@@ -1,0 +1,8 @@
+/*-{
+        if (typeof $wnd.vaadin.gwtStatsEvents == 'object') {
+            delete $wnd.vaadin.gwtStatsEvents;
+            if (typeof $wnd.__gwtStatsEvent == 'function') {
+                $wnd.__gwtStatsEvent = function() { return true; };
+            }
+        }
+    }-*/;

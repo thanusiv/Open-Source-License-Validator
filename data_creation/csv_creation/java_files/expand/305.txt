@@ -1,0 +1,4 @@
+// Since the required directory failed setReadyToFlush, and that
+    // directory was listed prior to the non-required directory,
+    // we should not call setReadyToFlush on the non-required
+    // directory. Regression test for HDFS-2874.

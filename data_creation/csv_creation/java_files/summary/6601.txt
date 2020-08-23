@@ -1,0 +1,1 @@
+     * Hides context menu if it is currently shown by given action owner.

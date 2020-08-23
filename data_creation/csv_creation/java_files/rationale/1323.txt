@@ -1,0 +1,5 @@
+/**
+     * The current position of the split handle in either percentages or pixels
+     * <p>
+     * For internal use only. May be removed or replaced in the future.
+     */

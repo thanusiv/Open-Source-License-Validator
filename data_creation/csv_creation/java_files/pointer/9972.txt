@@ -1,0 +1,1 @@
+		* @see IProjectNature#getProject

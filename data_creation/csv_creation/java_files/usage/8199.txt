@@ -1,0 +1,1 @@
+@param status the status object to be associated with this exception.

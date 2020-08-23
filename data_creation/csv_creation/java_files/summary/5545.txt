@@ -1,0 +1,2 @@
+Initial drag operation. Only {@link DND#DROP_COPY} is supported for
+	 * dropping files to Make Target View, same as for {@code dragOverOperation}.

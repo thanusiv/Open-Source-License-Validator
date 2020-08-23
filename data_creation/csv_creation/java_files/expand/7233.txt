@@ -1,0 +1,8 @@
+/**
+	 * Returns whether the structure of this element is known. For example, for a
+	 * translation unit that could not be parsed, {@code false} is returned.
+	 * If the structure of an element is unknown, navigations will return reasonable
+	 * defaults. For example, {@code getChildren} will return an empty collection.
+	 * <p>
+	 * Note: This does not imply anything about consistency with the
+	 * underlying resource/buffer contents.

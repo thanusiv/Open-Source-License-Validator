@@ -1,0 +1,4 @@
+Returns a shared AST for the given translation unit and locks it for
+	 * exclusive access. An AST obtained from this method has to be released
+	 * by calling {@link #releaseSharedAST(IASTTranslationUnit)}.
+	 * Subsequent call to this method will block until the AST is released.

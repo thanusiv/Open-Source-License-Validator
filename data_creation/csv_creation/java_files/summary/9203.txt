@@ -1,0 +1,2 @@
+rovides mechanisms to get various resource handlers - cpu, memory, network,
+ * disk etc., - based on configuration.

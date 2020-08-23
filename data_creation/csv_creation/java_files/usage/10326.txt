@@ -1,0 +1,1 @@
+	 * @return the find/replace document adapter.

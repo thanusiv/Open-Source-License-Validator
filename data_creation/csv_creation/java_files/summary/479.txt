@@ -1,0 +1,3 @@
+A converter that converts from {@link String} to {@link BigDecimal} and back.
+ * Uses the given locale and a {@link NumberFormat} instance for formatting and
+ * parsing.

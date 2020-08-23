@@ -1,0 +1,1 @@
+ * Validator for validating that an {@link Long} is inside a given range.

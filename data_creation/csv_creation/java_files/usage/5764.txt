@@ -1,0 +1,1 @@
+   * @param jwtToken the token that contains the expiration date to validate

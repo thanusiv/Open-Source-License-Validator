@@ -1,0 +1,6 @@
+@param prefix the prefix with which all returned macros must start
+	 * @param filter a filter that allows for skipping parts of the index
+	 * @param monitor a monitor for progress reporting and cancellation, may be {@code null}
+	 * @return an array of bindings with the prefix
+	 * @throws CoreException
+	 * @since 4.0.2

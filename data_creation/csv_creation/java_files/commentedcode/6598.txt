@@ -1,0 +1,2 @@
+ // ApplicationConnection.getConsole().log("Item: " + item);
+        // Item refers to the td, which is the parent of the clickable element

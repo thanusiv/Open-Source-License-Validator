@@ -1,0 +1,2 @@
+Adds UIDL directly. The UIDL must be valid in accordance with the
+     * UIDL.dtd

@@ -1,0 +1,1 @@
+    // Let HTTP user to get the delegation for itself

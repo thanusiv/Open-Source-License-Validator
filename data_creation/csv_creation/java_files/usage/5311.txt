@@ -1,0 +1,3 @@
+All of the public methods are simply accessors for the instance variables we
+ * want to write out in the JSON files.
+ *

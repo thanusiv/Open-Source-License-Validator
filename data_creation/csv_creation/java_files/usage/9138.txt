@@ -1,0 +1,1 @@
+	 * @param resource may be null to indicate all CDT editors should be reopened

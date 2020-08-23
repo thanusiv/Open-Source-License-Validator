@@ -1,0 +1,1 @@
+      // Make sure both NNs register it as dead.

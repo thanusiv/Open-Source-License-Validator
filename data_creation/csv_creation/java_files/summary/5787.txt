@@ -1,0 +1,4 @@
+This method provides a single method for validating the JWT for use in
+   * request processing. It provides for the override of specific aspects of
+   * this implementation through submethods used within but also allows for the
+   * override of the entire token validation algorithm.

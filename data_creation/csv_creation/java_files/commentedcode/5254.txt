@@ -1,0 +1,7 @@
+/*-{
+        if ($wnd.performance && $wnd.performance.timing && $wnd.performance.timing[name]) {
+            return $wnd.performance.timing[name];
+        } else {
+            return 0;
+        }
+    }-*/;

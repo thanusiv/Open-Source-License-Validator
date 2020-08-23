@@ -1,0 +1,6 @@
+ Returns the "dirty" state for this set of macros.
+	 * If the dirty state is <code>true</code>, that means that the macros
+	 * is out of synch with the repository and the macros need to be serialized.
+	 * <br><br>
+	 * The dirty state is automatically set to <code>false</code> when the macros are serialized
+	 * by calling the serialize() method

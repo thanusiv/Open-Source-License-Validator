@@ -1,0 +1,1 @@
+Compute and aggregate block checksums block by block.

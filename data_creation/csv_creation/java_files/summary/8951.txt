@@ -1,0 +1,2 @@
+Select the excess replica storages for deletion based on either
+   * delNodehint/Excess storage types.

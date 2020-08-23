@@ -1,0 +1,2 @@
+ @param jwtToken
+   *          the JWT token where the allowed audiences will be found

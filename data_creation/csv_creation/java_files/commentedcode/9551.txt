@@ -1,0 +1,1 @@
+//				fAutoInsertCheckbox= createCheckbox(composite, PreferencesMessages.EditTemplateDialog_autoinsert);

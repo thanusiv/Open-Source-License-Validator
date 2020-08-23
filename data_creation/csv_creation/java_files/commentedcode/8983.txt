@@ -1,0 +1,6 @@
+//	private final Category fAllocationExpressionArgumentsCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_ARGUMENTS_IN_ALLOCATION_EXPRESSION,
+//	    	"class Example {SomeClass foo() {return new SomeClass(100, 200, 300, 400, 500, 600, 700, 800, 900 );}}", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_object_allocation
+//   		FormatterMessages.LineWrappingTabPage_object_allocation_lowercase
+//		);

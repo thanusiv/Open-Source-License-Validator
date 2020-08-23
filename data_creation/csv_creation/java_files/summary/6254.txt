@@ -1,0 +1,4 @@
+Parse the entire history file and populate the JobInfo object
+   * The first invocation will populate the object, subsequent calls
+   * will return the already parsed object. 
+   * The input stream is closed on return

@@ -1,0 +1,4 @@
+This class tests if hadoopStreaming returns Exception 
+ * on failure when submitted an invalid/failed job
+ * The test case provides an invalid input file for map/reduce job as
+ * a unit test case

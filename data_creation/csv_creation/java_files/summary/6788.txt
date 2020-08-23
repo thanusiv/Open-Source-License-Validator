@@ -1,0 +1,1 @@
+     * Adds a long type variable.

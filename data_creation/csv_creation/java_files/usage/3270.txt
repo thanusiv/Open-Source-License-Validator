@@ -1,0 +1,1 @@
+@return The object context that the subscriber was called on.

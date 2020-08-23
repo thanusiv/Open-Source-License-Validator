@@ -1,0 +1,2 @@
+//Other pieces of wizard might have contributed new builder commands;
+							//need to make sure we are using the most recent ones

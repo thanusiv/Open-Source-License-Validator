@@ -1,0 +1,2 @@
+// TODO this really should be done from the core and only when
+				// our projects are being built

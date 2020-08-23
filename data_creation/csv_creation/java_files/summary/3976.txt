@@ -1,0 +1,2 @@
+Informs that reconciling (computation of the AST) for the given element
+	 * is about to be started.

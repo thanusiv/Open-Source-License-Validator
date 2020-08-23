@@ -1,0 +1,3 @@
+/**
+ * Configures the parser for c-source code as accepted by gcc.
+ */

@@ -1,0 +1,8 @@
+For example, suppose the path is "/foo/bar/baz".
+   * No matter baz is a file or a directory,
+   * the parent path is "/foo/bar".
+   * If bar exists, then the ancestor path is also "/foo/bar".
+   * If bar does not exist and foo exists,
+   * then the ancestor path is "/foo".
+   * Further, if both foo and bar do not exist,
+   * then the ancestor path is "/".

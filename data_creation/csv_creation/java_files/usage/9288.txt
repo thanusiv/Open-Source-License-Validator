@@ -1,0 +1,1 @@
+@return the visible widget's index

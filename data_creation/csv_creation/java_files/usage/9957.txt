@@ -1,0 +1,1 @@
+	 * @param loadIfExists if true the method first tries to load and return the project description

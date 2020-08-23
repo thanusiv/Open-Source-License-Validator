@@ -1,0 +1,1 @@
+   * @throws IOException if the directory is not empty or it can not be removed

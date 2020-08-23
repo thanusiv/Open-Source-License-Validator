@@ -1,0 +1,1 @@
+		// Write all documents to their respective files

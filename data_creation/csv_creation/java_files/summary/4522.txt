@@ -1,0 +1,2 @@
+Return a new storage instance to be for persisting / loading cproject descriptions
+	 * from the passed in IProject

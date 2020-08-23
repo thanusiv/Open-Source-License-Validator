@@ -1,0 +1,1 @@
+	 * @return the parent element, or {@code null} if this element has no parent

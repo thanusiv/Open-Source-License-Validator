@@ -1,0 +1,2 @@
+If this editor is for a project file, remove this editor as a property
+    	// change listener.

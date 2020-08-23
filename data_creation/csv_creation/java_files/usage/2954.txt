@@ -1,0 +1,1 @@
+   * @return the bytes read and converted to a string

@@ -1,0 +1,2 @@
+Returns the <code>ICProject</code> of the current editor input, or
+	 * <code>null</code> if it cannot be found.

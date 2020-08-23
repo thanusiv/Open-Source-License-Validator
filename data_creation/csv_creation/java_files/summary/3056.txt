@@ -1,0 +1,2 @@
+ Adds the given {@code entry} to the bimap.  Duplicate keys or values
+     * are not allowed, and will cause {@link #build} to fail.

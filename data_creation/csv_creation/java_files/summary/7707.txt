@@ -1,0 +1,1 @@
+	 * Configures the declarator with an empty exception specification (as opposed to having none).

@@ -1,0 +1,3 @@
+/*-{
+        return typeData[beanName][propertyName].getter(beanInstance);
+    }-*/;

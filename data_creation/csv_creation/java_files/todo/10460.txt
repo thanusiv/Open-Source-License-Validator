@@ -1,0 +1,1 @@
+    // We must hard-code the command id so as to know it from the very start (bug 290699)

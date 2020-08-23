@@ -1,0 +1,1 @@
+	 * @param provider - language settings provider.

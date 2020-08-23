@@ -1,0 +1,3 @@
+ Safely computes completion proposals of all computers of this category through their
+	 * extension. If an extension is disabled, throws an exception or otherwise does not adhere to
+	 * the contract described in {@link ICompletionProposalComputer}, it is disabled.

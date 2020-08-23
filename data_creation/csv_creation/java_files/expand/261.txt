@@ -1,0 +1,1 @@
+// No need for volatile, PDOMCPPUnknownScope protects its fields.

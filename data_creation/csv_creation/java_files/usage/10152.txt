@@ -1,0 +1,1 @@
+	 * @return {@code true} if the category contains any computers, {@code false} otherwise

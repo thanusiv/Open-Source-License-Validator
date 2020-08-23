@@ -1,0 +1,1 @@
+   * @param isSecure is the cookie secure?

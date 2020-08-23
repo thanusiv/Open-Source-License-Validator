@@ -1,0 +1,1 @@
+ * Test UI for TOP_CENTER and TOP_RIGHT alignments in VerticalLayout.

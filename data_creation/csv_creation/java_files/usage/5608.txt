@@ -1,0 +1,1 @@
+	 * @return the tab size as defined in the current formatter preferences

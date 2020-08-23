@@ -1,0 +1,1 @@
+Drag source adapter for text selections in ITextViewers.

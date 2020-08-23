@@ -1,0 +1,5 @@
+/**
+   * The block metadata input stream.
+   *
+   * TODO: make this nullable if the file has no checksums on disk.
+   */

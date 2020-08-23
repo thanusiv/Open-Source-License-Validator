@@ -1,0 +1,2 @@
+@return the {@link Path} to the task's temporary output directory 
+   * for the map-reduce job.

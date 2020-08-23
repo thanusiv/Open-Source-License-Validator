@@ -1,0 +1,1 @@
+Method to return the location of user log directory.

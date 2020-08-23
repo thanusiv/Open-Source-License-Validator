@@ -1,0 +1,2 @@
+@param quickOpenDelay
+     *            The quick open delay (in ms)

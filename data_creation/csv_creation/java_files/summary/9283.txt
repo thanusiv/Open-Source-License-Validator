@@ -1,0 +1,2 @@
+Shows the widget at the specified index. This causes the currently-
+     * visible widget to be hidden.

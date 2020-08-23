@@ -1,0 +1,1 @@
+   * @param lineReader LineReader to read the line from.

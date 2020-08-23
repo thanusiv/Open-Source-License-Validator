@@ -1,0 +1,1 @@
+	/** The amount of characters already read on first call to nextToken(). */

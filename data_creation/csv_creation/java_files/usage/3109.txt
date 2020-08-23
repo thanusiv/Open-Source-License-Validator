@@ -1,0 +1,1 @@
+@return workbench part, a text editor or a DisassemblyView

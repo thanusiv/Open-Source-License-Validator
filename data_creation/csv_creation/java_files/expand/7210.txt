@@ -1,0 +1,2 @@
+* Declaration of a structure without the definition.
+	 * struct C;

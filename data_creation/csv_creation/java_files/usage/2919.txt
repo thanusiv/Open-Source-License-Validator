@@ -1,0 +1,3 @@
+@param delete should the file be deleted afterwards? -with a verification
+   * that it worked. Deletion is not attempted if an assertion has failed
+   * earlier -it is not in a <code>finally{}</code> block.

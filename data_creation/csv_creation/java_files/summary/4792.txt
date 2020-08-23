@@ -1,0 +1,2 @@
+Return the preferred storage types associated with this policy. These
+   * storage types are used sequentially for successive block replicas.

@@ -1,0 +1,10 @@
+Helper class to build {@link MetricsSource} object from annotations.
+ * <p>
+ * For a given source object:
+ * <ul>
+ * <li>Sets the {@link Field}s annotated with {@link Metric} to
+ * {@link MutableMetric} and adds it to the {@link MetricsRegistry}.</li>
+ * <li>
+ * For {@link Method}s annotated with {@link Metric} creates
+ * {@link MutableMetric} and adds it to the {@link MetricsRegistry}.</li>
+ * </ul>

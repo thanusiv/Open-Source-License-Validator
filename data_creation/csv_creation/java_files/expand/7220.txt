@@ -1,0 +1,1 @@
+	 * C++ template class declaration without a definition.

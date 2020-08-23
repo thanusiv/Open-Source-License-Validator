@@ -1,0 +1,2 @@
+Returns the field editor's tool tip text, or null if it has
+	 * not been set.

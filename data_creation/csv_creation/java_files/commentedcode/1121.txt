@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.GENERATE_DELEGATE_METHODS, fAddDelegateMethods);

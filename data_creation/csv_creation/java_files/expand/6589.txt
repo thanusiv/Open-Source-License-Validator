@@ -1,0 +1,3 @@
+Move keyboard focus to menu, deferring the focus setting so
+                 * the focus is certainly moved to the menu in all browser after
+                 * the positioning has been done.

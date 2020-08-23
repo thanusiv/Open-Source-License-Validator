@@ -1,0 +1,1 @@
+@deprecated as of CDT 4.0. This option block was used to set preferences/properties

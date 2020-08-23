@@ -1,0 +1,3 @@
+@param action
+     *            the action parameter (javax.portlet.action parameter value in
+     *            JSR-286)

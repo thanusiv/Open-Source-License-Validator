@@ -1,0 +1,1 @@
+     * Shows context menu at given location IF it contain at least one item.

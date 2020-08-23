@@ -1,0 +1,3 @@
+@param enforceGenericsInCollections
+     *            true if generics should be enforce, false to only allow
+     *            internal types in collections

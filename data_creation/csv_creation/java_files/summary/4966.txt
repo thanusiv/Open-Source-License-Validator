@@ -1,0 +1,2 @@
+Encoding an integer into a variable-length encoding format. Synonymous to
+   * <code>Utils#writeVLong(out, n)</code>.

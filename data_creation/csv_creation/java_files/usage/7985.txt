@@ -1,0 +1,1 @@
+   * @return root directory for block pool storage

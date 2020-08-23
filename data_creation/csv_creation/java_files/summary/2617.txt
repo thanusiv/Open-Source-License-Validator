@@ -1,0 +1,1 @@
+             *  We need to read the register in order to get the attributes.

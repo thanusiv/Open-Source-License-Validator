@@ -1,0 +1,2 @@
+Adds data about a method annotated with {@link OnStateChange} for the
+     * given connector type.

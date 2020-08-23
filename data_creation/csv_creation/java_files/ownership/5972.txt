@@ -1,0 +1,3 @@
+ Contributors:
+ *     IBM Corp. - Rational Software - initial implementation
+ *     Sergey Prigogin (Google)

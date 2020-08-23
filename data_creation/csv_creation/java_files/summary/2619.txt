@@ -1,0 +1,1 @@
+             *  Make sure we are working on the editable areas.

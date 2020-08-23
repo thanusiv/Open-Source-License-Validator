@@ -1,0 +1,1 @@
+	 * @see org.eclipse.ui.texteditor.AbstractDocumentProvider#getModificationStamp(java.lang.Object)

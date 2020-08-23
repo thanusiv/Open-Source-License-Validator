@@ -1,0 +1,4 @@
+Contributors:
+ *     QNX Software Systems - initial API and implementation
+ *     Andrew Ferguson (Symbian)
+ *     Markus Schorn (Wind River Systems)

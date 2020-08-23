@@ -1,0 +1,1 @@
+   * Sets startup progress of namenode for use by servlets.

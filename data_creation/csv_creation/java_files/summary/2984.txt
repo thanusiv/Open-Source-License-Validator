@@ -1,0 +1,2 @@
+Tests declarative support for implementations of {@link AbstractEmbedded} and
+ * {@link Embedded}.

@@ -1,0 +1,2 @@
+@param maxWidth
+     *            The maximum width the tooltip popup (in pixels)

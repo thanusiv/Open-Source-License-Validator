@@ -1,0 +1,3 @@
+<li>When adding a layout version with an ancestor that is not same as
+   * its immediate predecessor, use the constructor where a specific ancestor
+   * can be passed.

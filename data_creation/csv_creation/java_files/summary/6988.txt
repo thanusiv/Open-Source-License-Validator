@@ -1,0 +1,2 @@
+// Short polling like 100ms jams up the TestBench
+                              // waitForVaadin -functionality.

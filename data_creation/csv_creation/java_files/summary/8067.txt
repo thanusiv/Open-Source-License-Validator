@@ -1,0 +1,2 @@
+// layoutVersion == LAYOUT_VERSION && this.cTime > nsInfo.cTime
+    // must shutdown

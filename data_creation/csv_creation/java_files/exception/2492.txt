@@ -1,0 +1,1 @@
+ @throws SymbolTableException If the global scope has already been closed or if bindingScope is null.

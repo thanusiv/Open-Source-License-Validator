@@ -1,0 +1,3 @@
+<p>The sort order is stable, that is, if two entries have values that compare
+     * as equivalent, the entry that was inserted first will be first in the built map's
+     * iteration order.

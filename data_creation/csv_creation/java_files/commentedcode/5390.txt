@@ -1,0 +1,1 @@
+//  	fFoldingGroup= new FoldingActionGroup(this, getSourceViewer());

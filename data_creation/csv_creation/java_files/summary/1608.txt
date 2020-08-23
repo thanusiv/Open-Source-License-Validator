@@ -1,0 +1,3 @@
+Returns the inverse view of this bimap, which maps each of this bimap's
+   * values to its associated key. The two bimaps are backed by the same data;
+   * any changes to one will appear in the other.

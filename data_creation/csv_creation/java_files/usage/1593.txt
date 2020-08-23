@@ -1,0 +1,1 @@
+@return the inverse view of this bimap

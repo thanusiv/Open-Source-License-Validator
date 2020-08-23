@@ -1,0 +1,2 @@
+// Initialize the list with the base class' steps
+			// We need to create a list that we can modify, which is why we create our own ArrayList.

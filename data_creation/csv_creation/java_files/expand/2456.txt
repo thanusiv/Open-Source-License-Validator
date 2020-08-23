@@ -1,0 +1,3 @@
+// Check that the bytes are stored correctly in Modified-UTF8 format.
+      // Note that the DataInput and DataOutput interfaces convert between
+      // bytes and Strings using the Modified-UTF8 format.

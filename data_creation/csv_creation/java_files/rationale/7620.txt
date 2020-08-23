@@ -1,0 +1,1 @@
+// If a meaningful resource was removed, then force a full build

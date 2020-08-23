@@ -1,0 +1,1 @@
+ * GCC per file build output parser

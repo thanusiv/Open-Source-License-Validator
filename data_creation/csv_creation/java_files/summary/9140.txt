@@ -1,0 +1,1 @@
+	 * This could be smarter in determining smaller sets of editors to re-open

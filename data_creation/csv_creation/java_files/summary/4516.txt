@@ -1,0 +1,1 @@
+	public static final String STORAGE_TYPE_ATTRIBUTE = "storage_type_id"; //$NON-NLS-1$

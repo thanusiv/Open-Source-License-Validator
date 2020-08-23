@@ -1,0 +1,2 @@
+/ either the selection has to be empty and the caret in the WS at the line start
+			// or the selection has to extend over multiple lines

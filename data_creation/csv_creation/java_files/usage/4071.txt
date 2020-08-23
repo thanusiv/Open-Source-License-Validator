@@ -1,0 +1,1 @@
+   * @param obj the variable to check.

@@ -1,0 +1,2 @@
+Returns a collection of all Qt method references within the given function call.  Returns
+	 * null if there are no Qt method references.

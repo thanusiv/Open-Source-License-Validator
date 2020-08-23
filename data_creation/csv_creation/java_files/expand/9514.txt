@@ -1,0 +1,5 @@
+/**
+	 * Entry kind constant describing a path entry representing
+	 * a file that will be process file as if "#include "file"" appeared as
+	 * the first line of the source file.
+	 */

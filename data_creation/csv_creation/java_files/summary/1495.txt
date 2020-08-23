@@ -1,0 +1,2 @@
+Collects all nodes that match the given type.  This could be used, for example, to get
+	 * all QtPDOMQObject's from the index.

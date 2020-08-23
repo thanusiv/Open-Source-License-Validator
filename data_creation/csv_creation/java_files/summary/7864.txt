@@ -1,0 +1,6 @@
+/**
+   * Build an instance from a (host, object) pair
+   *
+   * @param container container name
+   * @param object    object ref underneath the container
+   */

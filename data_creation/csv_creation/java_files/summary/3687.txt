@@ -1,0 +1,1 @@
+    // Define the attribute for the name of the second group

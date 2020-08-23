@@ -1,0 +1,1 @@
+   * Return the aggregate length of all child InputSplits currently added.

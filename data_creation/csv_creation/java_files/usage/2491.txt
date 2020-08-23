@@ -1,0 +1,1 @@
+@param scope An IScope object that will be used to represent this scope.

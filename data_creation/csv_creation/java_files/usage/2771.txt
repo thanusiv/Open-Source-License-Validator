@@ -1,0 +1,1 @@
+   * @param delta the change of the namespace/space/type usage

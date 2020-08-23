@@ -1,0 +1,4 @@
+@param queueFairShare fairshare in the queue
+   * @param queueUsage resources used in the queue
+   * @param maxAvailable available resource in cluster for this queue
+   * @return calculated headroom

@@ -1,0 +1,1 @@
+ Remove the given container from the container queues.

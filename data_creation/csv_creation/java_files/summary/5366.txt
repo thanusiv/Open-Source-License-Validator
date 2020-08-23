@@ -1,0 +1,1 @@
+	 * Returns the preference color, identified by the given preference.

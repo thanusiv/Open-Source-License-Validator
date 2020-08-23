@@ -1,0 +1,2 @@
+ * Returns this element's kind encoded as an integer.
+	 * This is a handle-only method.

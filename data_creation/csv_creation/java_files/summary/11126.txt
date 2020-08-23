@@ -1,0 +1,1 @@
+ * Dummy component to cause {@link LabelState} to be used to test #8683

@@ -1,0 +1,2 @@
+ @return the list of container tokens to be used for authorization during
+   * container resource increase.

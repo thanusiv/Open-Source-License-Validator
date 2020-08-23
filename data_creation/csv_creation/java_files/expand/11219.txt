@@ -1,0 +1,17 @@
+/**
+   * The corrupt block has to be removed when the number of valid replicas
+   * matches replication factor for the file. In this test, the above 
+   * condition is achieved by increasing the number of good replicas by 
+   * replicating on a new Datanode. 
+   * The test strategy : 
+   *   Bring up Cluster with 3 DataNodes
+   *   Create a file  of replication factor 3
+   *   Corrupt one replica of a block of the file 
+   *   Verify that there are still 2 good replicas and 1 corrupt replica 
+   *     (corrupt replica should not be removed since number of good replicas
+   *      (2) is less  than replication factor (3)) 
+   *   Start a new data node 
+   *   Verify that the a new replica is created and corrupt replica is
+   *   removed.
+   * 
+   */

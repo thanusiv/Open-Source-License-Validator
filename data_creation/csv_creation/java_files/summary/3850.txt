@@ -1,0 +1,10 @@
+
+  /**
+   * Creates and closes a file of certain length.
+   * Calls append to allow next write() operation to add to the end of it
+   * After write() invocation, calls hflush() to make sure that data sunk through
+   * the pipeline and check the state of the last block's replica.
+   * It supposes to be in RBW state
+   *
+   * @throws IOException in case of an error
+   */

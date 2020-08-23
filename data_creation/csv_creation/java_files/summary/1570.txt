@@ -1,0 +1,3 @@
+Create the contents of this tab page. Subclasses cannot override this, 
+	 * instead they must implement <code>doCreatePreferences</code>. <code>doCreatePreview</code> may also
+	 * be overridden as necessary.

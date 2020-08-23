@@ -1,0 +1,2 @@
+The window will enqueue a non-immediate message reporting its current
+        // position.

@@ -1,0 +1,2 @@
+@param memorySpaceID
+	 *            a string which represents the memory space

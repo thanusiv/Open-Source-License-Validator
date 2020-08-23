@@ -1,0 +1,2 @@
+The protocol between clients and the <code>SharedCacheManager</code> to claim
+ * and release resources in the shared cache.

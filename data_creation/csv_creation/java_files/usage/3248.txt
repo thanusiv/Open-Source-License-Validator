@@ -1,0 +1,2 @@
+@param snapshotName
+   *          The name of the snapshot.

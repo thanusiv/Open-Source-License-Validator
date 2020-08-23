@@ -1,0 +1,6 @@
+ /**
+   * Get a block pool storage root based on data node storage root
+   * @param bpID block pool ID
+   * @param dnCurDir data node storage root directory
+   * @return root directory for block pool storage
+   */

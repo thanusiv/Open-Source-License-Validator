@@ -1,0 +1,3 @@
+Why not just use obj.toString()? That method is often overridden, and so
+	 * cannot be relied on for a representation that uniquely identifies the
+	 * object in the VM space.

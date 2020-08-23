@@ -1,0 +1,2 @@
+  * Create and initialize an operations instance authenticated with write
+   * access via an <code>id:password</code> pair.

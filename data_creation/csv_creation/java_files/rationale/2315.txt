@@ -1,0 +1,6 @@
+This can be different from the designated replication factor of the file
+   * because the namenode does not maintain replication for the blocks which are
+   * currently being written to. Depending on the configuration, the client may
+   * continue to write to a block even if a few datanodes in the write pipeline
+   * have failed, or the client may add a new datanodes once a datanode has
+   * failed.

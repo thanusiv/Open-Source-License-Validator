@@ -1,0 +1,2 @@
+ // static bool disconnect( const QObject *sender, const QMetaMethod &signal,
+    	//						   const QObject *receiver, const QMetaMethod &member );

@@ -1,0 +1,1 @@
+	 * @return the document opened in the editor

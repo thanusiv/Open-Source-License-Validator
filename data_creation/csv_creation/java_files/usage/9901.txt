@@ -1,0 +1,1 @@
+	 * @param updateProjects - if <code>true</code> all project descriptions within the workspace will be updated

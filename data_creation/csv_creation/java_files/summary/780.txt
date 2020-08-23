@@ -1,0 +1,4 @@
+ Read a log file from start to end positions. The offsets may be negative,
+     * in which case they are relative to the end of the file. For example,
+     * Reader(taskid, kind, 0, -1) is the entire file and 
+     * Reader(taskid, kind, -4197, -1) is the last 4196 bytes.

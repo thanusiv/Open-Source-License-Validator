@@ -1,0 +1,2 @@
+Contributors:
+ *     Randy Rohrbach (Wind River Systems, Inc.) - Copied and modified to create the floating point plugin

@@ -1,0 +1,4 @@
+/**
+	 * Entry kind constant describing a path entry identifying a
+	 * folder containing source code to be compiled.
+	 */

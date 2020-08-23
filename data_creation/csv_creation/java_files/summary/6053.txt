@@ -1,0 +1,2 @@
+ #addListener() will run the listener immediately because the Future is
+    // already finished (we explicitly set the result of it above).

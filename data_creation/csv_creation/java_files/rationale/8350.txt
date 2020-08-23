@@ -1,0 +1,2 @@
+ // Now figure out what rounding mode we should behave like (it depends if FLOOR was
+      // odd/even).

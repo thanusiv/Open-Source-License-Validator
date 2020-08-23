@@ -1,0 +1,3 @@
+Contributors:
+ *     Patrick Chuong (Texas Instruments) - Pin and Clone Supports (331781)
+ *     Patrick Chuong (Texas Instruments) - Bug 358135

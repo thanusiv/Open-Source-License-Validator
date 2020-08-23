@@ -1,0 +1,4 @@
+This policy enforce a simple physical cluster capacity constraints, by
+ * validating that the allocation proposed fits in the current plan. This
+ * validation is compatible with "updates" and in verifying the capacity
+ * constraints it conceptually remove the prior version of the reservation.

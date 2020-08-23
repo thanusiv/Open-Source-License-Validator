@@ -1,0 +1,1 @@
+	 * @param linkage a linkage to be tested

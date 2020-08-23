@@ -1,0 +1,1 @@
+@return the number of bytes to cap the log files at

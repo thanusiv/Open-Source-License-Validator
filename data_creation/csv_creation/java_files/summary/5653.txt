@@ -1,0 +1,2 @@
+Returns the document currently displayed in the editor, or <code>null</code> if none can be
+	 * obtained.

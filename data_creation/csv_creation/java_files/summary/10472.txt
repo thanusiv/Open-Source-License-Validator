@@ -1,0 +1,2 @@
+ // Refresh reverse toggle commands with the new state of reverse enabled. 
+                // This is in order to keep multiple toggle actions in UI in sync.

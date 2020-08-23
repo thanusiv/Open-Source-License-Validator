@@ -1,0 +1,1 @@
+	/** Gets downcast reference to canvas control. */

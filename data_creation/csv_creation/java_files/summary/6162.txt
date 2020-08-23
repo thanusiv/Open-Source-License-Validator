@@ -1,0 +1,6 @@
+-exec-step [count]
+ *
+ *   Asynchronous command.  Resumes execution of the inferior program,
+ * stopping when the beginning of the next source line is reached, if the
+ * next source line is not a function call.  If it is, stop at the first
+ * instruction of the called function.

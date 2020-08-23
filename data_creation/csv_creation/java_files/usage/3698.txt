@@ -1,0 +1,1 @@
+   * @param out Text to read into

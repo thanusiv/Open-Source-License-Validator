@@ -1,0 +1,3 @@
+/**
+ * InputWriter that writes the client's input as raw bytes.
+ */

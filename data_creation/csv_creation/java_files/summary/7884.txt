@@ -1,0 +1,1 @@
+ * Required when creating a CMergeViewer from the plugin.xml file.

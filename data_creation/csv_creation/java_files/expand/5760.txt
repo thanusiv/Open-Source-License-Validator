@@ -1,0 +1,18 @@
+<p>
+ * The supported configuration properties are:
+ * </p>
+ * <ul>
+ * <li>authentication.provider.url: the full URL to the authentication server.
+ * This is the URL that the handler will redirect the browser to in order to
+ * authenticate the user. It does not have a default value.</li>
+ * <li>public.key.pem: This is the PEM formatted public key of the issuer of the
+ * JWT token. It is required for verifying that the issuer is a trusted party.
+ * DO NOT include the PEM header and footer portions of the PEM encoded
+ * certificate. It does not have a default value.</li>
+ * <li>expected.jwt.audiences: This is a list of strings that identify
+ * acceptable audiences for the JWT token. The audience is a way for the issuer
+ * to indicate what entity/s that the token is intended for. Default value is
+ * null which indicates that all audiences will be accepted.</li>
+ * <li>jwt.cookie.name: the name of the cookie that contains the JWT token.
+ * Default value is "hadoop-jwt".</li>
+ * </ul>

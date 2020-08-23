@@ -1,0 +1,1 @@
+   * @param writer the writer's machine, null if not in the cluster.

@@ -1,0 +1,2 @@
+<code>PROBLEM</code> represents the relationship between a
+	 * <code>IASTProblemHolder</code> and its <code>IASTProblem</code>.

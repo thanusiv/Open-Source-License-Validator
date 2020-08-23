@@ -1,0 +1,7 @@
+//	private final Category fConstructorDeclarationsParametersCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_PARAMETERS_IN_CONSTRUCTOR_DECLARATION,
+//	    	"class Example {Example(int arg1, int arg2, int arg3, int arg4, int arg5, int arg6) { this();}" + //$NON-NLS-1$
+//	    	"Example() {}}", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_parameters,
+//			FormatterMessages.LineWrappingTabPage_parameters_lowercase
+//		);

@@ -1,0 +1,1 @@
+@return an IIndexBinding for this index that is equivalent to the specified binding

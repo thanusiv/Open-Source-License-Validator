@@ -1,0 +1,1 @@
+     * Returns the unique id of the tooltip element.

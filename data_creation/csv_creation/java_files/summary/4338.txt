@@ -1,0 +1,4 @@
+Open file statistics.
+   * 
+   * Measure how many open calls (getBlockLocations()) 
+   * the name-node can handle per second.

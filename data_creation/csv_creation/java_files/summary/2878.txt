@@ -1,0 +1,2 @@
+ the range either side of the first error to print
+      // this is a purely arbitrary number, to aid user debugging

@@ -1,0 +1,1 @@
+	 * @return <code>true</code> if only spaces should be used

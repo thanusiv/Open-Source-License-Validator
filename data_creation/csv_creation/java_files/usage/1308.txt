@@ -1,0 +1,11 @@
+ A single element would be
+   * <pre>
+   *   ["zk1","2181","/registry"]
+   * </pre>
+   *  An endpoint with multiple elements would list them as
+   * <pre>
+   *   [
+   *    ["zk1","2181","/registry"]
+   *    ["zk2","1600","/registry"]
+   *   ]
+   * </pre>

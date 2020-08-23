@@ -1,0 +1,3 @@
+/* (non-Javadoc)
+	 * @see org.eclipse.debug.core.model.LaunchConfigurationDelegate#buildProjects(org.eclipse.core.resources.IProject[], org.eclipse.core.runtime.IProgressMonitor)
+	 */

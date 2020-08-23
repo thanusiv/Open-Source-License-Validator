@@ -1,0 +1,2 @@
+ Unscoped bindings should not conflict, whether they were bound with no explicit scope, or
+   * explicitly bound in {@link Scopes#NO_SCOPE}.

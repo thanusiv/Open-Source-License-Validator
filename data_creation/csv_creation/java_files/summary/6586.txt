@@ -1,0 +1,2 @@
+Store the currently focused element, which will be re-focused when
+        // context menu is closed

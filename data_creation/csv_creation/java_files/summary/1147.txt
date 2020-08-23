@@ -1,0 +1,4 @@
+The state of the editor owning this action group has changed.
+	 * This method does nothing if the group's owner isn't an
+	 * editor.
+	 */

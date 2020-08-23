@@ -1,0 +1,3 @@
+ Search through the nodes to find the one for the new name's linkage.  Keep track of
+		// the record that held the last examined node so that a new node can be appended if
+		// needed.

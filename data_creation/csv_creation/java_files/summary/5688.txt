@@ -1,0 +1,1 @@
+ // enable both trash emptier and dropping response

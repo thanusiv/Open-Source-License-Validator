@@ -1,0 +1,2 @@
+ Get preemption candidates from computed resource sharing and already
+   * selected candidates.

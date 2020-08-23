@@ -1,0 +1,1 @@
+   * @param addTrailingSlash should a trailing slash be added if there isn't one.

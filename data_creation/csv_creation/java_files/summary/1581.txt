@@ -1,0 +1,4 @@
+A bimap (or "bidirectional map") is a map that preserves the uniqueness of
+ * its values as well as that of its keys. This constraint enables bimaps to
+ * support an "inverse view", which is another bimap containing the same entries
+ * as this bimap but with reversed keys and values.

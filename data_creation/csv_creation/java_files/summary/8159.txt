@@ -1,0 +1,7 @@
+/**
+   * Prepare the compressor to be used in a new stream with settings defined in
+   * the given Configuration. It will reset the compressor's compression level
+   * and compression strategy.
+   * 
+   * @param conf Configuration storing new settings
+   */

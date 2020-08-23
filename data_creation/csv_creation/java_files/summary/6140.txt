@@ -1,0 +1,1 @@
+     * Connects DOM handlers to widget that are needed for tooltip presentation.

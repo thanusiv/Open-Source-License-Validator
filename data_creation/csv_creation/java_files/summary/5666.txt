@@ -1,0 +1,2 @@
+Returns whether mixed tabs/spaces should be used for indentation, depending on the editor and
+	 * formatter preferences.

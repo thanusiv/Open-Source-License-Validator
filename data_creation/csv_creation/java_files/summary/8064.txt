@@ -1,0 +1,3 @@
+// Restore all the files in the trash. The restored files are retained
+      // during rolling upgrade rollback. They are deleted during rolling
+      // upgrade downgrade.

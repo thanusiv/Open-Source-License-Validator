@@ -1,0 +1,1 @@
+     * @param path The viewer tree path for the given cache entry.

@@ -1,0 +1,3 @@
+When a tooltip is shown, the content of the tooltip changes. With a
+        // tooltip being a live-area, this change is notified to a assistive
+        // device.

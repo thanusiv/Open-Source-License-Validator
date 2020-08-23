@@ -1,0 +1,2 @@
+@param project
+	 *            the project configuration whose active configuration selections have changed

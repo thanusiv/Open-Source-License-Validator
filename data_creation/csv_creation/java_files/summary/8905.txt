@@ -1,0 +1,4 @@
+/** 
+ * This interface is used for choosing the desired number of targets
+ * for placing block replicas.
+ */

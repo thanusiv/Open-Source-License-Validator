@@ -1,0 +1,3 @@
+Returns the noexcept expression, {@link #NOEXCEPT_DEFAULT} if the noexcept specification
+	 * does not contain an expression, or {@code null} the noexcept specification is not present.
+	 * See C++11 5.4.1.

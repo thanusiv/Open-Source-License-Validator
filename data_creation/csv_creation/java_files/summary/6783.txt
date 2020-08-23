@@ -1,0 +1,5 @@
+Adds a Component type variable. On client side the variable value will be
+     * a terminal specific reference to corresponding component on client side
+     * implementation. When updated from client side, terminal will map the
+     * client side component reference back to a corresponding server side
+     * reference.

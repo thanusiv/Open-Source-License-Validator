@@ -1,0 +1,1 @@
+   * Constructs the full filename for an application's log file per node.

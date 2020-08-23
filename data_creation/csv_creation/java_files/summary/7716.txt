@@ -1,0 +1,1 @@
+	 * Sets whether this function is declared final.

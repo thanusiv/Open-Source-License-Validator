@@ -1,0 +1,6 @@
+@param name a name, which has to be matched by the qualified name of the bindings.
+	 * @param fileScopeOnly if true, only bindings at file scope are returned
+	 * @param filter a filter that allows for skipping parts of the index
+	 * @param monitor a monitor to report progress, may be {@code null}.
+	 * @return an array of bindings matching the pattern
+	 * @throws CoreException

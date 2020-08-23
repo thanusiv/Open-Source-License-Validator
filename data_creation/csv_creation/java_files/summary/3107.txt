@@ -1,0 +1,1 @@
+Returns the vertical ruler information this action was created for.

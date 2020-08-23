@@ -1,0 +1,2 @@
+downgrade a failure to a message and a warning, then an
+   * exception for the Junit test runner to mark as failed

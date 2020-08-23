@@ -1,0 +1,1 @@
+	 * Returns the selection provided by the site owning this action.

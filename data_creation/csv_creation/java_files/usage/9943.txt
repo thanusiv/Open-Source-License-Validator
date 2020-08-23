@@ -1,0 +1,1 @@
+	 * @param write if true, the writable preferences copy is returned.

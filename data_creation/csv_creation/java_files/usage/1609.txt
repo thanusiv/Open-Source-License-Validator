@@ -1,0 +1,2 @@
+<p><b>Note:</b>There is no guaranteed correspondence between the iteration
+   * order of a bimap and that of its inverse.

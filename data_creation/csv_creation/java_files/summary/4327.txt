@@ -1,0 +1,5 @@
+File creation statistics.
+   * 
+   * Each thread creates the same (+ or -1) number of files.
+   * File names are pre-generated during initialization.
+   * The created files do not have blocks.

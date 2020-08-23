@@ -1,0 +1,2 @@
+Check that the value change listener for a text field is triggered exactly
+ * once when setting the value, at the correct time.

@@ -1,0 +1,3 @@
+// parclass Table {
+    //    void sort([in, out, size=n] int *data, int n);
+    // };

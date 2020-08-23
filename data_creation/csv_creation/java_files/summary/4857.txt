@@ -1,0 +1,2 @@
+* Tests calendar via prepared screenshots 'Calendar event not shown correctly
+ * when partially out of view' (#7261)

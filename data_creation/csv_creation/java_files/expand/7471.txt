@@ -1,0 +1,5 @@
+// This is required because an incremental build will trigger make to
+								// do nothing for a missing source, since the state after the file
+								// removal is uptodate, as far as make is concerned
+								// A full build will clean, and ultimately trigger a relink without
+								// the object generated from the deleted source, which is what we want

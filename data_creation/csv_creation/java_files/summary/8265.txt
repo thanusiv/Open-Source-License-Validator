@@ -1,0 +1,1 @@
+     * Returns true if the given type has one of the desired annotations.

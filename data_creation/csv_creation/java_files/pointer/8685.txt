@@ -1,0 +1,1 @@
+	 * @see SelectionStatusDialog#computeResult()

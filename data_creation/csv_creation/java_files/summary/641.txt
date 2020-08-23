@@ -1,0 +1,3 @@
+Searches for all macro containers (one for macros with the same name) with names that
+	 * match the given pattern. In case a binding exists in multiple projects, no duplicate
+	 * bindings are returned.

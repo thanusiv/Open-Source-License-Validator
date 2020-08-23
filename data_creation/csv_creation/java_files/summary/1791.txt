@@ -1,0 +1,2 @@
+This dependency calculator uses the GCC -MMD -MF -MP -MT options in order to
+ * generate .d files as a side effect of compilation.

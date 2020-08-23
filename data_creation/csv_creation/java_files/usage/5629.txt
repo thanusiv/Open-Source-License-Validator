@@ -1,0 +1,1 @@
+	 * @param editor the text editor

@@ -1,0 +1,2 @@
+ Get function scope this node represents. Returns <code>null</code>, if this declarator
+	 * does not declare a function-prototype or function-definition.

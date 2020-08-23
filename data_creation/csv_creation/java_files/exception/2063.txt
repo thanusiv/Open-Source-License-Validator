@@ -1,0 +1,2 @@
+@throws IllegalArgumentException if neither this range nor the domain has a lower bound, or if
+   *         neither has an upper bound

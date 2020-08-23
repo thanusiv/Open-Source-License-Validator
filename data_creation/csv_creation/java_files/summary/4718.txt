@@ -1,0 +1,1 @@
+	 * Handles button presses in the working set configurations pane.

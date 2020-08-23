@@ -1,0 +1,1 @@
+	 * Deconfigure those projects which have this project nature.

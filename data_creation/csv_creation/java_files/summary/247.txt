@@ -1,0 +1,4 @@
+/****************************************************
+ * A BlockIdCommand is an instruction to a datanode 
+ * regarding some blocks under its control.
+ ****************************************************/

@@ -1,0 +1,2 @@
+@return <code>true</code> if the profiling is enabled, else
+     *         <code>false</code>

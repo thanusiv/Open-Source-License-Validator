@@ -1,0 +1,3 @@
+// lastRecs might have been set to an object already by another thread.
+        // Track the fact that lastRecs has been reset once to make sure refresh
+        // is correctly triggered.

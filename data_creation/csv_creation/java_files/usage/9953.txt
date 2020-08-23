@@ -1,0 +1,2 @@
+ @return {@link ICProjectDescription} or {@code null} if the project does not contain
+	 *     the CDT data associated with it.

@@ -1,0 +1,2 @@
+Generates an Annotation for the annotation class. Requires that the annotation is all
+   * optionals.

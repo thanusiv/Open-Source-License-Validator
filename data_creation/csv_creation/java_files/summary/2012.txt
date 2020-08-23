@@ -1,0 +1,2 @@
+A field editor that combines an integer value preference with a boolean enablement
+ * preference.

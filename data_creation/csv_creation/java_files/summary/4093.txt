@@ -1,0 +1,2 @@
+Date / time etc. localisation service for all widgets. Caches all loaded
+ * locales as JSONObjects.

@@ -1,0 +1,2 @@
+// we don't have enough logs to roll forward using only logs. Need
+      // to download and load the image.

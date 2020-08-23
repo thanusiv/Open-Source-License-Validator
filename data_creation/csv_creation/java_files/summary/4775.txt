@@ -1,0 +1,2 @@
+modify property value, should not fire value change in field as the
+        // read buffering is on (read through == false)

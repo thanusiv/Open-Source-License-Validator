@@ -1,0 +1,2 @@
+@return The {@link EventBus} that handled the event and the subscriber. Useful for broadcasting
+   *     a a new event based on the error.

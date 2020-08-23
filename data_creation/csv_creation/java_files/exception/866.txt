@@ -1,0 +1,1 @@
+@throws IllegalArgumentException if the class was specified, but not found

@@ -1,0 +1,4 @@
+A Qt-specific specialization of the generic PDOMVisitor.  This class provides
+ * an empty implementation of {@link #leave(IPDOMNode)}, but required implementations to
+ * provide {@link #visit(IPDOMNode)}.  The class also provides a few commonly required
+ * implementations.

@@ -1,0 +1,2 @@
+Display info of each replica for replication block.
+   * For striped block group, display info of each internal block.

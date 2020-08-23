@@ -1,0 +1,4 @@
+<p>
+ * A stub implementation of {@link NativeFileSystemStore} for testing
+ * {@link NativeS3FileSystem} without actually connecting to S3.
+ * </p>

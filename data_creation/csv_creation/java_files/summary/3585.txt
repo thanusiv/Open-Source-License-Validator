@@ -1,0 +1,4 @@
+The preference store used to interface between the dynamic printf and the 
+	 * dynamic printf preference page.  This preference store is initialized only
+	 * when the preference store cannot be retrieved from the preference 
+	 * dialog's element.

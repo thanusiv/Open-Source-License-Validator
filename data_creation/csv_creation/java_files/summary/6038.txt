@@ -1,0 +1,4 @@
+
+/**
+ * serializes key-value pair
+ */

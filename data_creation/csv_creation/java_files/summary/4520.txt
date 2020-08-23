@@ -1,0 +1,1 @@
+		/** Indicates if this type is compatible with the provided version */

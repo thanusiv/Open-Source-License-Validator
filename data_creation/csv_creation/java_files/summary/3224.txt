@@ -1,0 +1,2 @@
+Find the source root directory where the snapshot will be taken
+  * for a given path.

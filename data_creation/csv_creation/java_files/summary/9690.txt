@@ -1,0 +1,1 @@
+	/** Invoked when visualizer control should be disposed. */

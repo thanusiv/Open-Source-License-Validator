@@ -1,0 +1,2 @@
+// throw the original exception even if closing the statement
+                // fails

@@ -1,0 +1,1 @@
+    // Delays for the tooltip, configurable on the server side

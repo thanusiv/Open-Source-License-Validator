@@ -1,0 +1,2 @@
+@param cleanerTaskLock lock that ensures a serial execution of cleaner
+   *                        task

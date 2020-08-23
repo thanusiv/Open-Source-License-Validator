@@ -1,0 +1,1 @@
+    // List contents of dir, and ensure we find all expected files

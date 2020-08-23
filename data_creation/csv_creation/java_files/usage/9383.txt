@@ -1,0 +1,2 @@
+@param numAppsSubmitted
+   *          the number of apps submitted

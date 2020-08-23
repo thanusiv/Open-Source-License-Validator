@@ -1,0 +1,1 @@
+//		fHashCodeEquals.setActionDefinitionId(ICEditorActionDefinitionIds.GENERATE_HASHCODE_EQUALS);

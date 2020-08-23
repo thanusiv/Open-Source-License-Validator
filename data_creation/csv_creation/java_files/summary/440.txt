@@ -1,0 +1,1 @@
+ // Only objects of the same class can be equal

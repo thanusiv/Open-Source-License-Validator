@@ -1,0 +1,3 @@
+/**
+     * Returns the GDB/MI thread group identifier of this context.
+     */

@@ -1,0 +1,1 @@
+@return {@code true} if there are threads waiting for read locks.

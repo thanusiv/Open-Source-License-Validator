@@ -1,0 +1,3 @@
+Returns the time (in ms) the tooltip should be displayed after an event
+     * that will cause it to be closed (e.g. mouse click outside the component,
+     * key down).

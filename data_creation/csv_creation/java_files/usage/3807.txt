@@ -1,0 +1,2 @@
+ @return the value as a string,
+   * or <code>defval</code> if the value was not present

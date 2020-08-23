@@ -1,0 +1,2 @@
+ A {@link LoggedSingleRelativeRanking} represents an X-Y coordinate of a
+ * single point in a discrete CDF.

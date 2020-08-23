@@ -1,0 +1,3 @@
+   // On initial creation of BP, make sure that requested values of breakpoint
+            // match the current values (i.e. make sure it starts as a not-relocated breakpoint)
+            // See CDIDebugModel.setLineBreakpointAttributes

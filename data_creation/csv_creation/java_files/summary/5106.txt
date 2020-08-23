@@ -1,0 +1,3 @@
+Method declared on Dialog. Cache the name and base config selections.
+	 * We don't have to worry that the index or name is wrong because we
+	 * enable the OK button IFF those conditions are met.

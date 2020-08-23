@@ -1,0 +1,1 @@
+   * @return fallback storage types for new block replicas..

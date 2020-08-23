@@ -1,0 +1,2 @@
+@param config
+   *          configuration properties to initialize the handler.

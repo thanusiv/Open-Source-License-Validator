@@ -1,0 +1,1 @@
+		// This expansion is not applicable if the assistant was invoked after the closing paren.

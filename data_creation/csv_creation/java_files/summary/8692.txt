@@ -1,0 +1,6 @@
+/**
+	 * Adds a filter to the tree viewer.
+	 * 
+	 * @param filter
+	 *        a filter.
+	 */

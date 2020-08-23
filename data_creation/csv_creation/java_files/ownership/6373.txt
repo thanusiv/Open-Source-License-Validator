@@ -1,0 +1,3 @@
+Contributors:
+ *    Red Hat Inc. - initial API and implementation
+ *    Marc Khouzam (Ericsson) - Update for remote debugging support (bug 450080)

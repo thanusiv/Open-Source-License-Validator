@@ -1,0 +1,2 @@
+// Init HarFS with no constructor arg, so that the underlying FS object
+    // is created on demand or got from cache in #initialize() method.

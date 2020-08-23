@@ -1,0 +1,2 @@
+// Remove finished container from the allocated containers, and
+        // attempt to start new containers.

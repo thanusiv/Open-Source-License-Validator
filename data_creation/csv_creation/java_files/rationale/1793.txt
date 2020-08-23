@@ -1,0 +1,3 @@
+See bugzilla 108715 for the discussion of dependency management that led to
+ * the creation of this dependency calculator.  Note also that this technique
+ * exhibits the failure modes discussed in comment #5.

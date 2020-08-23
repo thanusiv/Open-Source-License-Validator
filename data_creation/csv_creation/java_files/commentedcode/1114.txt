@@ -1,0 +1,1 @@
+//			actionBar.setGlobalActionHandler(CopyQualifiedNameAction.ACTION_HANDLER_ID, fCopyQualifiedNameAction);

@@ -1,0 +1,1 @@
+   * Test that a java interruption can stop the watcher thread

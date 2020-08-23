@@ -1,0 +1,4 @@
+/**
+   * These maps are used as an optimization to avoid one filesystem operation
+   * per storage on each heartbeat response.
+   */

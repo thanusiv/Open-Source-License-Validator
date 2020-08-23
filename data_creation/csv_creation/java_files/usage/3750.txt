@@ -1,0 +1,2 @@
+@return <code>true</code> iff the selection state was changed by this
+     *         call

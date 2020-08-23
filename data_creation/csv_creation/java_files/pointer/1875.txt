@@ -1,0 +1,3 @@
+@see
+     * com.vaadin.data.util.sqlcontainer.query.QueryDelegate#storeRow(com.vaadin
+     * .data.util.sqlcontainer.RowItem)

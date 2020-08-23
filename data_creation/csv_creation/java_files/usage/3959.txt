@@ -1,0 +1,1 @@
+	 * @return an AST for the translation unit, or <code>null</code> if the operation was cancelled

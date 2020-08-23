@@ -1,0 +1,8 @@
+/**
+	 * Decode given string representation of a space separated hex encoded byte
+	 * array
+	 * 
+	 * @param string
+	 *            space separated hexadecimal byte array
+	 * @return opcode bytes as <code>BigInteger</code>
+	 */

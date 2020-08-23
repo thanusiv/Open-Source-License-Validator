@@ -1,0 +1,3 @@
+Element update tester extension which allows an update policy to selectively
+ * flush properties of elements.  This can be useful if the update tester's event
+ * only affects a certain aspect of the element's presentation.

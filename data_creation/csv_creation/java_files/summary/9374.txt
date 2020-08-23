@@ -1,0 +1,2 @@
+Initializes the OutputReader. This method has to be called before
+   * calling any of the other methods.

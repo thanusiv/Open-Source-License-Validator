@@ -1,0 +1,10 @@
+/**
+   * A marker file that is created on each root directory if a rolling upgrade
+   * is in progress. The NN does not inform the DN when a rolling upgrade is
+   * finalized. All the DN can infer is whether or not a rolling upgrade is
+   * currently in progress. When the rolling upgrade is not in progress:
+   *   1. If the marker file is present, then a rolling upgrade just completed.
+   *      If a 'previous' directory exists, it can be deleted now.
+   *   2. If the marker file is absent, then a regular upgrade may be in
+   *      progress. Do not delete the 'previous' directory.
+   */

@@ -1,0 +1,2 @@
+<p>The inverse of an {@code ImmutableBiMap} is another
+   * {@code ImmutableBiMap}.

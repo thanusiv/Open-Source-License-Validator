@@ -1,0 +1,3 @@
+/**
+	 * This class should hold elements for source location tree
+	 */

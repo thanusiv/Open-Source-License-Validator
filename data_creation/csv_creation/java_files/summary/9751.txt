@@ -1,0 +1,2 @@
+Set whether or not the controls in the field editor
+     * are enabled.

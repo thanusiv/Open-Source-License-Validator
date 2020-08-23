@@ -1,0 +1,1 @@
+@param ancestorAccess The access required by the ancestor of the path.

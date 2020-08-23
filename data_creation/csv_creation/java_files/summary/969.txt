@@ -1,0 +1,1 @@
+        // Get or register the droppedWordsCounter Accumulator

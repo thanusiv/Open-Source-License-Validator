@@ -1,0 +1,3 @@
+The timestamp of the last index write access at the time
+	 * the AST got cached. A cached AST becomes invalid on any index
+	 * write access afterwards.

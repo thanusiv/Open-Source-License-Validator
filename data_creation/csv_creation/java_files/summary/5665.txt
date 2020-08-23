@@ -1,0 +1,2 @@
+Returns the tab size used by the editor, which is deduced from the
+	 * formatter preferences.

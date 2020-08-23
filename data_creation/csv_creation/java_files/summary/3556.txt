@@ -1,0 +1,2 @@
+This interface represents a base interface to represent a problem owner or
+ * holder.

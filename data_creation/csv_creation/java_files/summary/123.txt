@@ -1,0 +1,3 @@
+/* (non-Javadoc)
+		 * @see org.eclipse.debug.core.ILaunchesListener2#launchesTerminated(org.eclipse.debug.core.ILaunch[])
+		 */

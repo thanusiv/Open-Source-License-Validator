@@ -1,0 +1,4 @@
+/**
+	 * Executes this actions with the given text selection. This default implementation
+	 * calls <code>run(ISelection selection)</code>.
+	 */

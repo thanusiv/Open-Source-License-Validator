@@ -1,0 +1,2 @@
+@return <code>true</code> if the property has a NoLayout annotation;
+     *         otherwise <code>false</code>

@@ -1,0 +1,2 @@
+Add the specified range to this builder.  Adjacent/abutting ranges are permitted, but
+     * empty ranges, or ranges with nonempty overlap, are forbidden.

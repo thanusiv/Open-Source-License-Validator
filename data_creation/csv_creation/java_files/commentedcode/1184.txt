@@ -1,0 +1,1 @@
+//		fGenerateConstructorUsingFields.setActionDefinitionId(ICEditorActionDefinitionIds.GENERATE_CONSTRUCTOR_USING_FIELDS);

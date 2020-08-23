@@ -1,0 +1,1 @@
+   * The number of keys recorded in the current standard active Bloom filter.

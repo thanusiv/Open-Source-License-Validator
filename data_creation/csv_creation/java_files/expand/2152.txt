@@ -1,0 +1,4 @@
+/ add the drag selection position
+				// the position is used to delete the selection on a DROP_MOVE
+				// and it can be used by the drop target to determine if it should
+				// allow the drop (e.g. if drop location overlaps selection)

@@ -1,0 +1,2 @@
+ The authentication of this instance will expire when any kerberos
+   * tokens needed to authenticate with the registry infrastructure expire.

@@ -1,0 +1,2 @@
+@param rm The requestMonitor indicating that the final steps if 
+	 *           initialization are completed.

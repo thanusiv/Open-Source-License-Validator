@@ -1,0 +1,2 @@
+// Note: this method is synchronized because IElementEditor.getCellModifier can be called
+    // on any thread, even though in practice it should be only called on the UI thread.

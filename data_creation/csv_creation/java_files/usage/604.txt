@@ -1,0 +1,4 @@
+ @param location an IIndexFileLocation representing the location of the file
+	 * @return the file in the index or {@code null}
+	 * @throws CoreException
+	 * @deprecated Use

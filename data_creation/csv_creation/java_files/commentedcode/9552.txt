@@ -1,0 +1,1 @@
+//				fAutoInsertCheckbox.setSelection(fTemplate.isAutoInsertable());

@@ -1,0 +1,1 @@
+          // Skip 'readonly znode' which is used for keeping R-O bookie details

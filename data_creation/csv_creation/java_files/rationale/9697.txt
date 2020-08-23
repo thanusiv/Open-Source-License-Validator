@@ -1,0 +1,3 @@
+Note: painting is done in order objects were added,
+ * so objects added last are drawn "on top" of others.
+ * Use raise/lower methods to change the object z-ordering, if needed.

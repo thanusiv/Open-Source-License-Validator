@@ -1,0 +1,1 @@
+	 * Utility method for adding an autotools nature to a project.

@@ -1,0 +1,3 @@
+now traverse individual directories and process them
+      // the directory structure is specified by the nested level parameter
+      // (e.g. 9/c/d/<checksum>)

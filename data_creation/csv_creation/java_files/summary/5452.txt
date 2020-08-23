@@ -1,0 +1,2 @@
+// Generate a log message about the linkageID that is no longer valid, but continue
+				// to the next node.

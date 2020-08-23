@@ -1,0 +1,2 @@
+External references are stored in a linked list of linkages.  Each node in that list
+		// is a list that uses the PDOMName binding list.

@@ -1,0 +1,3 @@
+Test readLine for various kinds of line termination sequneces.
+   * Varies buffer size to stress test.  Also check that returned
+   * value matches the string length.

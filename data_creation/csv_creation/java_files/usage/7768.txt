@@ -1,0 +1,1 @@
+   * @return the configured {@link HttpURLConnection} instance.

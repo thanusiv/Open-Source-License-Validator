@@ -1,0 +1,2 @@
+// Find the source root directory path where the snapshots were taken.
+    // All the check for path has been included in the valueOf method.

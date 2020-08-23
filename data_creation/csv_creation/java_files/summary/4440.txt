@@ -1,0 +1,2 @@
+Create the /tmp directory as <i>hdfs</i> and /tmp/test as <i>sink</i> and
+   * return the UGI for <i>sink</i>.

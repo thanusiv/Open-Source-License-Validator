@@ -1,0 +1,2 @@
+Called when one or more variables handled by the implementing class are
+     * changed.

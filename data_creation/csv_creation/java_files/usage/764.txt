@@ -1,0 +1,1 @@
+@param cmd The command to be quoted

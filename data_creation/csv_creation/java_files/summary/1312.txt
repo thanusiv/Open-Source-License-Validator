@@ -1,0 +1,2 @@
+Path <code>/a/b/c</code> style: {@value}.
+   * The entire path is encoded in a single entry

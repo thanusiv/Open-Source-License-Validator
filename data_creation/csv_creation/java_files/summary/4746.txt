@@ -1,0 +1,2 @@
+ Event Dispatcher interface. It dispatches events to registered 
+ * event handlers based on event types.

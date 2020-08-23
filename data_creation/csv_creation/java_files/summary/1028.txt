@@ -1,0 +1,1 @@
+	 * Returns the shell provided by the site owning this action.

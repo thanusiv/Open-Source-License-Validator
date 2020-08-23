@@ -1,0 +1,2 @@
+Lower bound binary search. Find the index to the first element in the list
+   * that compares greater than or equal to key.

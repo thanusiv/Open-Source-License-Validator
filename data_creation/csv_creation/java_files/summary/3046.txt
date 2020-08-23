@@ -1,0 +1,3 @@
+
+         * The current implementation will end up using entryArray directly, though it will write
+         * over the (arbitrary, potentially mutable) Entry objects actually stored in entryArray.

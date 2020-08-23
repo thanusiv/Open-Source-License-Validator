@@ -1,0 +1,2 @@
+Read values of {@link #snapshotCounter}, {@link #numSnapshots}, and
+   * all snapshots from the DataInput

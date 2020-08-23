@@ -1,0 +1,4 @@
+Indents a line or range of lines in a C document to its correct position. No complete
+ * AST must be present, the indentation is computed using heuristics. The algorithm used is fast for
+ * single lines, but does not store any information and therefore not so efficient for large line
+ * ranges.

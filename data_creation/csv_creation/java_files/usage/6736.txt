@@ -1,0 +1,3 @@
+ @return the "tag" string used in communication to present given
+     *         {@link ClientConnector} type. Terminal may define how to present
+     *         the connector.

@@ -1,0 +1,1 @@
+    // Ignore all YARN Application Timeline Service (version 1) properties

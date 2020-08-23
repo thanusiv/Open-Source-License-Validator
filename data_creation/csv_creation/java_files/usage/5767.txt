@@ -1,0 +1,1 @@
+   * @return valid true if signature verifies successfully; false otherwise

@@ -1,0 +1,1 @@
+@param part  a text editor or DisassemblyView

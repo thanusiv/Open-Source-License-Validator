@@ -1,0 +1,6 @@
+
+  /**
+   * Current mmap state.
+   *
+   * Protected by the cache lock.
+   */

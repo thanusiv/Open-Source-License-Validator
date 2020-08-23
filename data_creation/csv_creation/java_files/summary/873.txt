@@ -1,0 +1,5 @@
+Register the set of mapper outputs created by a LocalJobRunner-based
+   * job with this ReduceTask so it knows where to fetch from.
+   *
+   * This should not be called in normal (networked) execution.
+   */

@@ -1,0 +1,3 @@
+Write a file.
+   * Optional flags control
+   * whether file overwrite operations should be enabled

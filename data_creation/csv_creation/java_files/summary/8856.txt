@@ -1,0 +1,4 @@
+/**
+ * A preference store that presents the state of the properties of a C/C++ breakpoint,
+ * tracepoint or dynamic-printf. 
+ */

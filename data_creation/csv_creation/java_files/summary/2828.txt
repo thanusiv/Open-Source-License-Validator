@@ -1,0 +1,2 @@
+ Some test steps need synchronizing against a CModel event. This class
+     * is a very basic means of doing that.

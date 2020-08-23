@@ -1,0 +1,10 @@
+/**
+	 * Searches for all references that resolve to the given binding.
+	 * This is fully equivalent to
+	 * <pre>
+	 * findNames(binding, IIndex.FIND_REFERENCES);
+	 * </pre>
+	 * @param binding a binding for which references are searched for
+	 * @return an array of names
+	 * @throws CoreException
+	 */

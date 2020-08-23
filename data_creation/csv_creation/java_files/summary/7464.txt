@@ -1,0 +1,1 @@
+//the default behaviour: 'make' is invoked on all configurations and incremental build is handled by 'make'

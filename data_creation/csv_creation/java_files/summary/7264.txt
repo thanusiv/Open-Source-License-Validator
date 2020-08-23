@@ -1,0 +1,1 @@
+	 * Accept a visitor and walk the ICElement tree with it.

@@ -1,0 +1,1 @@
+      // Block locations should show up on standby.

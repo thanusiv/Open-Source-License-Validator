@@ -1,0 +1,1 @@
+ * Class to detect built-in compiler settings for MinGW toolchain.

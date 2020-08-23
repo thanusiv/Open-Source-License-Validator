@@ -1,0 +1,1 @@
+     * Called when the VWindow was moved by the user.

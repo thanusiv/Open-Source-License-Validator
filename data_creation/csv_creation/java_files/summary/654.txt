@@ -1,0 +1,2 @@
+* Returns the file for the given location, linkage, and significant macros
+	 * May return {@code null}, if no such file exists.

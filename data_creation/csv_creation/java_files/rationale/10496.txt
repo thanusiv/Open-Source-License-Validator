@@ -1,0 +1,3 @@
+Internal class designed to delete the output directory. Meant solely for
+   * use before and after the test is run; this is so next iterations of the
+   * test do not encounter a "file already exists" error.

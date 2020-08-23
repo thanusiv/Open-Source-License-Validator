@@ -1,0 +1,1 @@
+						// Check and see if we failed above and if so, quit

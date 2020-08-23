@@ -1,0 +1,1 @@
+	 * Remove all the symbols defined in the scope that is being closed.

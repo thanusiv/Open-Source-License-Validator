@@ -1,0 +1,1 @@
+// item was properly removed by the updater thread

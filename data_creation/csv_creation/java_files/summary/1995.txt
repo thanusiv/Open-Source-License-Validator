@@ -1,0 +1,2 @@
+Return Property type for this generator. This function is called when
+     * {@link Property#getType()} is called for generated property.

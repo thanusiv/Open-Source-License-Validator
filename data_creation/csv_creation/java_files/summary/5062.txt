@@ -1,0 +1,2 @@
+ Build the specified configurations, and verify that the resource changes that
+	 * result match the expectations of the given verifier.

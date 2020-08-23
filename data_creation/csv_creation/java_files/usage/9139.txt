@@ -1,0 +1,2 @@
+@return an array of {@link IEditorPart} objects that might need to be reinitialized
+	 * based on doc-comment ownership of the specified resource changing

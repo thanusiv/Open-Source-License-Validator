@@ -1,0 +1,3 @@
+Update the Java command in the build spec (replace existing one if present,
+	 * add one first if none).
+	 */

@@ -1,0 +1,1 @@
+    // read attributes out of the VERSION file of previous directory

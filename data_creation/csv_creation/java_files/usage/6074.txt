@@ -1,0 +1,1 @@
+     * @return The maximum width the tooltip popup (in pixels)

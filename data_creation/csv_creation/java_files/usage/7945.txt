@@ -1,0 +1,2 @@
+@param extraArgument an optional {@link IOption#getFieldEditorExtraArgument() extra argument} 
+     * 			for the field-editor. May be {@code null}.

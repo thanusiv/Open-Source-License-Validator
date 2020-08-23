@@ -1,0 +1,2 @@
+// To ensure atomicity of updates to index file, write to temporary index
+    // file first and then rename.

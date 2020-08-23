@@ -1,0 +1,2 @@
+/ re-initialize the har file system with host name
+    // make sure the qualified path name does not append ":" at the end of host name

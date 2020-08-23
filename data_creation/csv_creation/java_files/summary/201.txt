@@ -1,0 +1,4 @@
+/**
+	 * Returns the scope that contains the template parameters of this template-template parameter.
+	 * @since 5.4
+	 */

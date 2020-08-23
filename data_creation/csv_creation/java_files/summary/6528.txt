@@ -1,0 +1,2 @@
+Called whenever the associated {@link RetryPolicy} determines that an error
+   * warrants failing over.

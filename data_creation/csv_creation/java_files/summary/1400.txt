@@ -1,0 +1,4 @@
+/**
+	 * Gets the project handle from the main page.
+	 * Overwrite this method if you do not have a main page
+	 */

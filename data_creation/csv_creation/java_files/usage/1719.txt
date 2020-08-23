@@ -1,0 +1,1 @@
+@param visibility The visibility of the <code>member</code>.

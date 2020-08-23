@@ -1,0 +1,5 @@
+/**
+	 * Returns the global inline c++ namespaces.
+	 * @throws CoreException
+	 * @since 5.3
+	 */

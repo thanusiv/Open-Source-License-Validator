@@ -1,0 +1,1 @@
+		// Bug 327126 Stop the indexer before tearing down so we don't deadlock

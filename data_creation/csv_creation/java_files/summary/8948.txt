@@ -1,0 +1,1 @@
+   * Adjust rackmap, moreThanOne, and exactlyOne after removing replica on cur.

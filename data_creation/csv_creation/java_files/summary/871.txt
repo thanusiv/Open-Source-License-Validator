@@ -1,0 +1,4 @@
+// A custom comparator for map output files. Here the ordering is determined
+  // by the file's size and path. In case of files with same size and different
+  // file paths, the first parameter is considered smaller than the second one.
+  // In case of files with same size and path are considered equal.

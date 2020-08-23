@@ -1,0 +1,5 @@
+@throws IOException
+   *           Throw IOException when 1) the given path does not lead to an
+   *           existing snapshottable directory, and/or 2) there exists a
+   *           snapshot with the given name for the directory, and/or 3)
+   *           snapshot number exceeds quota

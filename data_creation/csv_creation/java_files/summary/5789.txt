@@ -1,0 +1,3 @@
+Validate whether any of the accepted audience claims is present in the
+   * issued token claims list for audience. Override this method in subclasses
+   * in order to customize the audience validation behavior.

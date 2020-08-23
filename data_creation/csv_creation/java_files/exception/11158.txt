@@ -1,0 +1,2 @@
+ @throws IllegalStateException
+     *             if not processing a request of the correct type

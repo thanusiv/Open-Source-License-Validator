@@ -1,0 +1,2 @@
+A generic Version class. We suggest applications built on top of TFile use
+   * this class to maintain version information in their meta blocks.

@@ -1,0 +1,1 @@
+// allow double backslash at beginning for windows UNC paths, bug 233511

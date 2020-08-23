@@ -1,0 +1,3 @@
+ Returns a (possibly null) reference to a cGroupsHandler. This handler is
+   * non-null only if one or more of the known cgroups-based resource
+   * handlers are in use and have been initialized.

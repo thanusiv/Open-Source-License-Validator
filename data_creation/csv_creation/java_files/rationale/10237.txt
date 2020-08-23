@@ -1,0 +1,3 @@
+This method just stops the output of the process from showing up in the local logs.
+   * The child's output will still be read (and, thus, the redirect thread will still be
+   * alive) to avoid the child process hanging because of lack of output buffer.

@@ -1,0 +1,5 @@
+ Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     Wind River Systems   - Modified for new DSF Reference Implementation
+ *     Ericsson AB          - Additional handling of events   
+ *     Mikhail Khodjaiants (Mentor Graphics) - Refactor common code in GDBControl* classes (bug 372795)

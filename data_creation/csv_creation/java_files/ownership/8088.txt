@@ -1,0 +1,5 @@
+Contributors:
+ *     John Camelon(IBM) - Initial API and implementation
+ *     Markus Schorn (Wind River Systems)
+ *     Bryan Wilkinson (QNX)
+ *     Anton Leherbauer (Wind River Systems)

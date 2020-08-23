@@ -1,0 +1,1 @@
+    /** Enumeration of possible layouts for the timers view model */

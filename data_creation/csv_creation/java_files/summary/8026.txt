@@ -1,0 +1,5 @@
+  /**
+   * Determine whether we can use trash for the given blockFile. Trash
+   * is disallowed if a 'previous' directory exists for the
+   * storage directory containing the block.
+   */

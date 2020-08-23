@@ -1,0 +1,10 @@
+/**
+ * File name generator.
+ * 
+ * Each directory contains not more than a fixed number (filesPerDir) 
+ * of files and directories.
+ * When the number of files in one directory reaches the maximum,
+ * the generator creates a new directory and proceeds generating files in it.
+ * The generated namespace tree is balanced that is any path to a leaf
+ * file is not less than the height of the tree minus one.
+ */

@@ -1,0 +1,1 @@
+// QMetaMethod cannot be statically analyzed.

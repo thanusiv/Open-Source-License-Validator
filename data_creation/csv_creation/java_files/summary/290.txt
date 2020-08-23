@@ -1,0 +1,3 @@
+/**
+   * Pull out one of the JournalAndStream objects from the edit log.
+   */

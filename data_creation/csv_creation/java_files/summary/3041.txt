@@ -1,0 +1,3 @@
+Serialized type for all ImmutableBiMap instances. It captures the logical
+   * contents and they are reconstructed using public factory methods. This
+   * ensures that the implementation types remain as implementation details.

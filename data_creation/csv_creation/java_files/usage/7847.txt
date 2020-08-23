@@ -1,0 +1,1 @@
+   * @return true iff the object's name matches the path

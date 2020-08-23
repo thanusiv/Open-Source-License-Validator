@@ -1,0 +1,1 @@
+Returns whether or not to include objects of the given linkage in the query.

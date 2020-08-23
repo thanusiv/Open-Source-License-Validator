@@ -1,0 +1,2 @@
+* A panel that displays all of its child widgets in a 'deck', where only one
+ * can be visible at a time. It is used by

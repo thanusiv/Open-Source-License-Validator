@@ -1,0 +1,2 @@
+@param propertyId
+     *            the identifier (not null) of the property whose value to check

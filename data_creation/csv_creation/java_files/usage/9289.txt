@@ -1,0 +1,2 @@
+@param w
+     *            the widget to be added

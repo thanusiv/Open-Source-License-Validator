@@ -1,0 +1,3 @@
+Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     Navid Mehregani (TI) - Bug 289526 - Migrate the Restart feature to the new one, as supported by the platform

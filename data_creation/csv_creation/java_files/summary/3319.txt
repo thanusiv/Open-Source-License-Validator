@@ -1,0 +1,5 @@
+/**
+   * Remove a no-checksum anchor for our shared memory slot.
+   *
+   * This method does not require any synchronization.
+   */

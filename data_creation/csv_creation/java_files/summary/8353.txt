@@ -1,0 +1,1 @@
+      // Checks for a single bit set.

@@ -1,0 +1,2 @@
+// This option will make the DSF-GDB launch fail, and on Linux we have a problem where it will hang
+	// Since this option was added for multi-process but it has not been completed for Linux yet, just hide it completely for now

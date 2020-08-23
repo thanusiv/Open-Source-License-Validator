@@ -1,0 +1,1 @@
+     * Loops through the fields of value and encodes them.

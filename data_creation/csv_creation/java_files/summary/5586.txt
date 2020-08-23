@@ -1,0 +1,2 @@
+Flatten out an array of strings into one string, in the form
+	 * "{s1, s2, s3, ...}"

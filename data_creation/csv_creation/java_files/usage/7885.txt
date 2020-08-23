@@ -1,0 +1,1 @@
+   * @return the fsimage with highest transaction ID in the cluster.

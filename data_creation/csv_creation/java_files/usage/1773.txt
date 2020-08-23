@@ -1,0 +1,1 @@
+	 * @return whether or not the binding is valid

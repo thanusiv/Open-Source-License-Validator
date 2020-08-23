@@ -1,0 +1,2 @@
+@throws InterruptedException thrown if interrupted while creating a
+   * file system handle

@@ -1,0 +1,2 @@
+// Find the start of the previous identifier.  This scans backward, so it stops one
+		// position before the identifier (unless the identifer is at the start of the content).

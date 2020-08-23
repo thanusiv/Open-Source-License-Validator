@@ -1,0 +1,1 @@
+@return the original <code>EditLogOutputStream</code> of the journal.

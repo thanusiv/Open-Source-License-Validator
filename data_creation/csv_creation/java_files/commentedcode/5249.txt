@@ -1,0 +1,3 @@
+ /*-{
+       return $wnd.performance && (typeof $wnd.performance.now == 'function');
+    }-*/;

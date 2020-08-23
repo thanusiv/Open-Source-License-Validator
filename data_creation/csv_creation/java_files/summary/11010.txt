@@ -1,0 +1,2 @@
+ First stage of creating the project but no progress displayed. Identical to 
+	 * calling createIProject(name, location, new NullProgressMonitor())

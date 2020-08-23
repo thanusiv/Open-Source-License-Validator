@@ -1,0 +1,2 @@
+ @return String containing the unique id of the tooltip, which always has
+     *         a value

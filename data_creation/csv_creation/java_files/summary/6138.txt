@@ -1,0 +1,2 @@
+TooltipInfo contains a reference to the parent component that is
+            // checked in it's equals-method.

@@ -1,0 +1,4 @@
+ Contributors: 
+ *     Markus Schorn - initial API and implementation 
+ *     IBM Corporation - Bug 112366
+ *     Sergey Prigogin (Google)

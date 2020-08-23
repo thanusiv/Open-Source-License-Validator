@@ -1,0 +1,6 @@
+/**
+ * CElementLabelProvider that respects settings from the Appearance preference page.
+ * Triggers a viewer update when a preference changes.
+ * 
+ * @deprecated Use {@link AppearanceAwareLabelProvider} instead.
+ */

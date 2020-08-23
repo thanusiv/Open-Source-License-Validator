@@ -1,0 +1,2 @@
+Create a snapshot of the given path.
+   * It is assumed that the caller will perform synchronization.

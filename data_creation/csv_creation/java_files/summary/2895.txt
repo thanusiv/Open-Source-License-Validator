@@ -1,0 +1,1 @@
+Assert that a FileSystem.listStatus on a dir finds the subdir/child entry

@@ -1,0 +1,1 @@
+  /** Verify if the namespace quota is violated after applying delta. */

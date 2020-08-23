@@ -1,0 +1,2 @@
+Similar to CPElement. Describes discovered paths and symbols available
+ * through DiscoveredPathInfo instead of CPathEntry.

@@ -1,0 +1,1 @@
+// We need specific name for the tests of this suite, because of bug https://bugs.eclipse.org/172256

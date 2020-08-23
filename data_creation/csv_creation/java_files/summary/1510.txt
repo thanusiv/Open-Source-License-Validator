@@ -1,0 +1,1 @@
+Convenience method to create a label.

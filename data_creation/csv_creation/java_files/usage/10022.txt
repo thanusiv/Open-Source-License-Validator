@@ -1,0 +1,2 @@
+ @param caption
+     *            the caption of the panel (HTML).

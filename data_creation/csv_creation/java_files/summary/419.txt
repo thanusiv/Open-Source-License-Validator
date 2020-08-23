@@ -1,0 +1,4 @@
+/**
+	 * Returns the subscript expression, or <code>null</code>. Consider using {@link #getArgument()}.
+	 * @deprecated Replaced by {@link #getArgument()}
+	 */

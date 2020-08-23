@@ -1,0 +1,6 @@
+if (!wait) {
+						// no AST, no wait - we are done
+						if (DEBUG)
+							System.out.println(DEBUG_PREFIX + getThreadName() + "returning null (WAIT_NO) for: " + tUnit.getElementName()); //$NON-NLS-1$
+						return null;
+					}

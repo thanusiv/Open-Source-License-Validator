@@ -1,0 +1,6 @@
+//Note: We add the scanner-config even if the resource doesn't actually
+				//exist below this project (which may happen when reading existing
+				//build logs, because resources can be created as part of the build
+				//and may not exist at the time of analyzing the config but re-built
+				//later on.
+				//if (getProject().exists(relPath)) {

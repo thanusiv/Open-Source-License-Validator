@@ -1,0 +1,1 @@
+Gets an appropriate SASL secret key for the given appId.

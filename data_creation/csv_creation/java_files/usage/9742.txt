@@ -1,0 +1,2 @@
+ @return the text control, or <code>null</code> if no
+	 * text field is created yet

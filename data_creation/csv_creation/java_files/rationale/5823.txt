@@ -1,0 +1,2 @@
+ If the hover offset falls within the selection range return the
+			 * region for the whole selection.

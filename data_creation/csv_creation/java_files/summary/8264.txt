@@ -1,0 +1,1 @@
+     * Constructs a new checker that looks for annotations of the given types.

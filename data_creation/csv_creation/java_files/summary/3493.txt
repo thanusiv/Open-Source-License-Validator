@@ -1,0 +1,2 @@
+  // this should fail with unauthorized because only
+    // auth is kerberos or delegation token

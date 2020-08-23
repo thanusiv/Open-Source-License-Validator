@@ -1,0 +1,2 @@
+// by JAR spec, if there is a manifest, it must be the first entry in the
+    // ZIP.

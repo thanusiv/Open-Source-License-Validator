@@ -1,0 +1,1 @@
+     * Simple gzip headers/trailers.

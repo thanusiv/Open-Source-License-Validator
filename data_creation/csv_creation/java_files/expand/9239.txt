@@ -1,0 +1,4 @@
+/**
+	 * Returns true if this enumeration was introduced to the Qt meta-object system with
+	 * a Q_FLAGS expansion and false if it was introduced with Q_ENUMS.
+	 */

@@ -1,0 +1,2 @@
+This api ignores partial records and stops parsing on encountering one.
+   * {@link #getParseException()} can be used to fetch the exception, if any.

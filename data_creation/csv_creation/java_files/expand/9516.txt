@@ -1,0 +1,15 @@
+/**
+	 * Returns the kind of this path entry.
+	 *
+	 * @return one of:
+	 * <ul>
+	 * <li><code>CDT_SOURCE</code> - this entry describes a source root in its project
+	 * <li><code>CDT_LIBRARY</code> - this entry describes a library
+	 * <li><code>CDT_PROJECT</code> - this entry describes another project
+	 * <li><code>CDT_INCLUDE</code> - this entry describes a include path
+	 * <li><code>CDT_MACRO</code> - this entry describes a macro definition
+	 * <li><code>CDT_CONTAINER</code> - this entry describes a container id
+	 * <li><code>CDT_OUTPUT</code> - this entry describes output location
+	 * <li><code>CDT_INCLUDE_FILE</code> - this entry describes a file to be process as an include
+	 * <li><code>CDT_MACRO_FILE</code> - this entry describes a file containing macro definitions
+	 */

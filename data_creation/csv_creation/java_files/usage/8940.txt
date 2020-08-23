@@ -1,0 +1,2 @@
+@param candidates DatanodeStorageInfo/DatanodeInfo to be split
+   *        into two sets

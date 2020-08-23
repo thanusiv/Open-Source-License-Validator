@@ -1,0 +1,1 @@
+   * Check that a number of bookies are available

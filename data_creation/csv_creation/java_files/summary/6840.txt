@@ -1,0 +1,2 @@
+Lookup the responsible handler and return its result.
+   * This should be called by the RPC server when it gets a refresh request.

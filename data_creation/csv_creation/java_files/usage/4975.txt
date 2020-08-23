@@ -1,0 +1,2 @@
+@return The index to the desired element if it exists; or list.size()
+   *         otherwise.

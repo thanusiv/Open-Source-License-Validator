@@ -1,0 +1,1 @@
+		// Cache the project files so we don't continuously open them

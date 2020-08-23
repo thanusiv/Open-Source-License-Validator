@@ -1,0 +1,6 @@
+
+    // if the static mapping file
+    //   - was modified after last update, load the map again;
+    //   - did not exist but was added since last update, load the map;
+    //   - existed before but deleted since last update, clear the map
+    //

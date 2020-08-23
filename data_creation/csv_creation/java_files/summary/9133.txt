@@ -1,0 +1,2 @@
+Listens to change in doc-comment ownership and reinitializes
+ * the editors (or a safe superset of) that need reopening.

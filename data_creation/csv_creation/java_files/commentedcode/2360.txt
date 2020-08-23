@@ -1,0 +1,7 @@
+ /*-{
+        var names = [];
+        for(var name in typeData[beanName]) {
+            names.push(name);
+        }
+        return names;
+    }-*/;

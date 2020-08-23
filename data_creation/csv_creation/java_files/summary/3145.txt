@@ -1,0 +1,1 @@
+ * This class implements a value aggregator that dedupes a sequence of objects.

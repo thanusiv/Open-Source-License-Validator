@@ -1,0 +1,3 @@
+/**
+	 * Constant to search for definitions. This does not include declarations.
+	 */

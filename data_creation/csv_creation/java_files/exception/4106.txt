@@ -1,0 +1,1 @@
+@throws IllegalArgumentException if the given appId is not associated with a SASL user.

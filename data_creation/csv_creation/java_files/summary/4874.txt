@@ -1,0 +1,1 @@
+   * Writes this module element to the given binder (optional operation).

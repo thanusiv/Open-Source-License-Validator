@@ -1,0 +1,1 @@
+			// Setup the new node for this linkage and initialize the list ptr with an empty list.

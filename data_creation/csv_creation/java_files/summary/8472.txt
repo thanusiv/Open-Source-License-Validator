@@ -1,0 +1,7 @@
+ /**
+   * Is a state transition valid?
+   * There are no checks for current==proposed
+   * as that is considered a non-transition.
+   *
+   * using an array kills off all branch misprediction costs, at the expense
+   * of cache line misses.

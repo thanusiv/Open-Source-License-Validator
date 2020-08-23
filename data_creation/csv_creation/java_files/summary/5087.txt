@@ -1,0 +1,2 @@
+Update the status message and button state based on the input selected
+	 * by the user

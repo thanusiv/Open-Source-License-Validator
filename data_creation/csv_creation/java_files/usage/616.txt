@@ -1,0 +1,3 @@
+ @param name a name to find the binding for
+	 * @return the binding or {@code null}
+	 * @throws CoreException

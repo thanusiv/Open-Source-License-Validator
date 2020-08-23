@@ -1,0 +1,2 @@
+ This class implements a reducer class that can be used to perform field
+ * selections in a manner similar to unix cut.

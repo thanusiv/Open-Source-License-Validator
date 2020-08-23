@@ -1,0 +1,1 @@
+			/* check opening a readonly file for read access does not fail */

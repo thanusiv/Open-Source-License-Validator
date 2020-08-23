@@ -1,0 +1,1 @@
+	 * Returns <code>true</code> if empty lines should be indented, <code>false</code> otherwise.

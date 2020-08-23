@@ -1,0 +1,2 @@
+Writes data to a page blob of the given size, flushing every
+   * x bytes. Measure performance of that and return it.

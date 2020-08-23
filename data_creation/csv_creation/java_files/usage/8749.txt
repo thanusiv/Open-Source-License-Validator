@@ -1,0 +1,2 @@
+@param string
+	 *            space separated hexadecimal byte array

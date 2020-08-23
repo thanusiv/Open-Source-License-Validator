@@ -1,0 +1,2 @@
+ @param pendingMemoryMB
+   *          the pending memory

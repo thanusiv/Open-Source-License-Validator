@@ -1,0 +1,2 @@
+ A wrapper class for the {@link IDataGenerator} interface, which returns 
+ * ACPM cache objects to use for data retrieval instead of calling

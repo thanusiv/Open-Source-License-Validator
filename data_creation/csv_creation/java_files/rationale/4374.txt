@@ -1,0 +1,2 @@
+// IBRs are asynchronously processed by NameNode. The next
+        // ClientProtocol#addBlock() may throw NotReplicatedYetException.

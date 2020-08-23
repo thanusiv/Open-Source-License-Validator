@@ -1,0 +1,4 @@
+/**
+ * Test to verify that the DataNode Uuid is correctly initialized before
+ * FsDataSet initialization.
+ */

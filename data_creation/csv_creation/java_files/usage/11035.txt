@@ -1,0 +1,2 @@
+ @param source
+     *            the component from which the event originates

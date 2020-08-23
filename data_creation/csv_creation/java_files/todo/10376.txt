@@ -1,0 +1,1 @@
+ * Bug#50711 : Wrong completion kind in a new expression

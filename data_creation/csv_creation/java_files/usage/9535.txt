@@ -1,0 +1,1 @@
+	 * @param isContextTypeModifiable whether the context type of the template may be modified

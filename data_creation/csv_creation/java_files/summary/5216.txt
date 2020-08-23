@@ -1,0 +1,2 @@
+// The additional opportunistic containers that need to be killed for the
+    // given container to start.

@@ -1,0 +1,7 @@
+@param composite The composite on which the SWT widgets are added.
+		 * @param numColumns The number of columns in the composite's GridLayout.
+		 * @param preferences The map to store the values.
+		 * @param key The key to store the values.
+		 * @param minValue The minimum value which is valid input.
+		 * @param maxValue The maximum value which is valid input.
+		 * @param text The label text for this Preference.

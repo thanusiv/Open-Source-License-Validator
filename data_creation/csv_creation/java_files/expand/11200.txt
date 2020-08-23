@@ -1,0 +1,6 @@
+ /**
+   * Test the sync returns false in the following scenarios:
+   * 1. the source/target dir are not snapshottable dir
+   * 2. the source/target does not have the given snapshots
+   * 3. changes have been made in target
+   */

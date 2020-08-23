@@ -1,0 +1,1 @@
+	 * give command flag to generate output

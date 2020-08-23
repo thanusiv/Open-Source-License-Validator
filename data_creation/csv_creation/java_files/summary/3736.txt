@@ -1,0 +1,2 @@
+An untargetted binding. This binding indicates that the injector should use its implicit binding
+ * strategies to resolve injections.

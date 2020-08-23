@@ -1,0 +1,2 @@
+check for interruption so it can abort in a timely manner in case
+          // of shutdown

@@ -1,0 +1,14 @@
+/*******************************************************************************
+ * Copyright (c) 2007, 2012 Intel Corporation and others.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ * Intel Corporation - Initial API and implementation
+ * IBM Corporation
+ * Dmitry Kozlov (CodeSourcery) - Build error highlighting and navigation
+ *                                Save build output (bug 294106)
+ * Andrew Gvozdev (Quoin Inc)   - Saving build output implemented in different way (bug 306222)
+ *******************************************************************************/

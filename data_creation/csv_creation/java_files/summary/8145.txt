@@ -1,0 +1,5 @@
+/**
+     * Compression strategy best used for data consisting mostly of small
+     * values with a somewhat random distribution. Forces more Huffman coding
+     * and less string matching.
+     */

@@ -1,0 +1,1 @@
+@return the index of the next set bit, or -1 if there is no such bit

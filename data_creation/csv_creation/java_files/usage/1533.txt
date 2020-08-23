@@ -1,0 +1,1 @@
+@return Gets the currently used key which is used to store the value.

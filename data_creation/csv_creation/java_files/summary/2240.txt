@@ -1,0 +1,2 @@
+Test that lines on stderr get passed as
+   * WARN level log messages

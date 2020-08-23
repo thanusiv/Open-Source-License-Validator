@@ -1,0 +1,1 @@
+					// Selected region begins one index after offset

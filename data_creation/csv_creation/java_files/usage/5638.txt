@@ -1,0 +1,1 @@
+	 * @param scanner the heuristic scanner

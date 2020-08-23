@@ -1,0 +1,1 @@
+  /** All snapshottable directories in the namesystem. */

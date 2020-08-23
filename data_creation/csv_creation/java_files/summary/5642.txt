@@ -1,0 +1,2 @@
+Whether this is the action invoked by TAB. When <code>true</code>, indentation behaves
+	 * differently to accommodate normal TAB operation.

@@ -1,0 +1,4 @@
+Contributors:
+ *     Ericsson - initial API and implementation
+ *     Marc Khouzam (Ericsson) - Don't use translatable strings for the command summary
+ *                               since it will be send directly to GDB

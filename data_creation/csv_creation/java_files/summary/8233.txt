@@ -1,0 +1,5 @@
+/**
+ * Color manager for C/C++ Debug UI.
+ * 
+ * @since Jul 23, 2002
+ */

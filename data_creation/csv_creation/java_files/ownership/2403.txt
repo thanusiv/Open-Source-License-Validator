@@ -1,0 +1,4 @@
+Contributors:
+ *     Doug Schaefer (IBM) - Initial API and implementation
+ *     Markus Schorn (Wind River Systems)
+ *	   Sergey Prigogin (Google)

@@ -1,0 +1,1 @@
+@return a memory block based on the given parameters

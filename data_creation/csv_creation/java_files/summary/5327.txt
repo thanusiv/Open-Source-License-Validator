@@ -1,0 +1,1 @@
+Called by Grid to generate a style name for a column element.

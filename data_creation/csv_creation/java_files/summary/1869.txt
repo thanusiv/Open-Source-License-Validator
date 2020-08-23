@@ -1,0 +1,1 @@
+Creates a new freeform query delegate to be used with the

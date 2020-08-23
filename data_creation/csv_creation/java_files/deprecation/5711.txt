@@ -1,0 +1,2 @@
+@deprecated as of CDT 4.0. This wizard was used in property pages
+ * for 3.X style projects.

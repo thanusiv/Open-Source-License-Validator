@@ -1,0 +1,2 @@
+Value change events from property should not propagate if read through is
+     * false. Execpt when the property is being set.

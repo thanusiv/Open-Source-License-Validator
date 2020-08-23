@@ -1,0 +1,1 @@
+     * Create a portlet service session for the given portlet service

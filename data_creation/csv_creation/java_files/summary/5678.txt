@@ -1,0 +1,1 @@
+				// line comment starting at position 0 -> indent inside

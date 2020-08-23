@@ -1,0 +1,1 @@
+ @see ITextHover#getHoverInfo(ITextViewer, IRegion)

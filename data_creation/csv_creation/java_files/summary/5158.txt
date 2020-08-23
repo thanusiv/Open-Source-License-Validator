@@ -1,0 +1,2 @@
+The Checkpointer is responsible for supporting periodic checkpoints 
+ * of the HDFS metadata.

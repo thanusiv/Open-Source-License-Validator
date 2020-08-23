@@ -1,0 +1,2 @@
+@param numAppsKilled
+   *          the number of killed apps

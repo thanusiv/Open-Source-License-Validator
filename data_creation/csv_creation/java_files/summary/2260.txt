@@ -1,0 +1,2 @@
+Breakpoint service for GDB 7.0.
+ * It also supports tracepoints

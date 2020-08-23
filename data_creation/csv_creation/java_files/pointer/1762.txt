@@ -1,0 +1,1 @@
+@see IIndex#findBindings(java.util.regex.Pattern, boolean, IndexFilter, org.eclipse.core.runtime.IProgressMonitor)

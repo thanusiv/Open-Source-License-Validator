@@ -1,0 +1,1 @@
+  // When can't map group, return group name's string hashcode

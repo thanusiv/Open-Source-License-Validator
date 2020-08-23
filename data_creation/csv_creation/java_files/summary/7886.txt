@@ -1,0 +1,4 @@
+/**
+   * Run `hdfs dfsadmin -fetchImage ...' and verify that the downloaded image is
+   * correct.
+   */

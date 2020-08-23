@@ -1,0 +1,3 @@
+ // Must use the stored context service.  If we try to fetch the service
+        // again with the workbenchWindow, it may fail if the window is
+        // already closed.

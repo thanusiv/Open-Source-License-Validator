@@ -1,0 +1,2 @@
+Indents a single line using the heuristic scanner. Multiline comments are
+	 * indented as specified by the <code>CCommentAutoIndentStrategy</code>.

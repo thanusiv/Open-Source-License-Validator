@@ -1,0 +1,2 @@
+Test the {@link RollingFileSystemSink} class in the context of HDFS with
+ * Kerberos enabled.

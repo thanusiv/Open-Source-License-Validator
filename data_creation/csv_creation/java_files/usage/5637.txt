@@ -1,0 +1,1 @@
+	 * @param multiLine <code>true</code> if more than one line is being indented

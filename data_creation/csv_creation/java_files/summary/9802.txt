@@ -1,0 +1,2 @@
+Helper method to register an application master using specified testAppId
+   * as the application identifier and return the response

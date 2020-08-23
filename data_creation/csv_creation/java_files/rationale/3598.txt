@@ -1,0 +1,2 @@
+     // if width is undefined, use the width of the first cell
+        // otherwise use distributed sizes

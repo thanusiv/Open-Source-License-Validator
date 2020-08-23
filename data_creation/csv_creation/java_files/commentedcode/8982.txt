@@ -1,0 +1,8 @@
+//	private final Category fConstructorThrowsClauseCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_THROWS_CLAUSE_IN_CONSTRUCTOR_DECLARATION, 
+//	    	"class Example {" + //$NON-NLS-1$
+//	    	"Example() throws FirstException, SecondException, ThirdException {" + //$NON-NLS-1$
+//	    	"  return Other.doSomething();}}", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_throws_clause
+//			FormatterMessages.LineWrappingTabPage_throws_clause_lowercase
+//		);

@@ -1,0 +1,14 @@
+/**
+	 * Retrieves and returns a memory block.
+	 * 
+	 * @param expression
+	 *            expression to be evaluated to an address
+	 * @param context
+	 *            a debug context
+	 * @param memorySpaceID
+	 *            the memory space the block is being requested for, or null if
+	 *            n/a
+	 * @return a memory block based on the given parameters
+	 * @throws DebugException
+	 *             if unable to retrieve the specified memory
+	 */

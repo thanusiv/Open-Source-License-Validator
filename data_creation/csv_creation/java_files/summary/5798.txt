@@ -1,0 +1,1 @@
+    // expired[0] would be set to true without resetTimer

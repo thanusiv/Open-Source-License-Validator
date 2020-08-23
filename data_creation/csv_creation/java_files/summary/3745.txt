@@ -1,0 +1,5 @@
+An abstract class that adds a consistent API for common methods that's needed
+ * by Vaadin's server-based selection models to work.
+ * <p>
+ * <em>Note:</em> This should be an interface instead of an abstract class, if
+ * only we could define protected methods in an interface.

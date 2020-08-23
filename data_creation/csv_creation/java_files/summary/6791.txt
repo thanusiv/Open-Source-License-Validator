@@ -1,0 +1,3 @@
+Adds a Component type attribute. On client side the value will be a
+     * terminal specific reference to corresponding component on client side
+     * implementation.

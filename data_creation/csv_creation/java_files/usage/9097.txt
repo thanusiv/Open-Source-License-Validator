@@ -1,0 +1,2 @@
+@param errorMessage
+     *            the message to display in case the value does not validate.

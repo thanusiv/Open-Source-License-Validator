@@ -1,0 +1,1 @@
+	 * @param registry the context type registry to use

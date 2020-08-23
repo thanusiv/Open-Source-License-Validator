@@ -1,0 +1,1 @@
+     * Creates a new empty panel which contains the given content.

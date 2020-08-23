@@ -1,0 +1,1 @@
+   * @return the total (non-negative) number of compressed bytes output so far

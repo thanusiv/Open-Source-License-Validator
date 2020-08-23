@@ -1,0 +1,1 @@
+Utility code to do optimized byte-array comparison.

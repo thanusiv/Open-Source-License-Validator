@@ -1,0 +1,1 @@
+Returns a funnel that encodes the characters of a {@code CharSequence} with the specified

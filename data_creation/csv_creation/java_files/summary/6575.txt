@@ -1,0 +1,2 @@
+This test case verifies that different commands issued from the
+ * GDB console cause proper updating within the CDT views.

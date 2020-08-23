@@ -1,0 +1,1 @@
+	 * @return the underlying resource, or {@code null} if none

@@ -1,0 +1,3 @@
+/*
+	 * @see org.eclipse.debug.ui.ILaunchConfigurationTab#initializeFrom
+	 */

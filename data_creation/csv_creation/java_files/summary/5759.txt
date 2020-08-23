@@ -1,0 +1,8 @@
+The {@link JWTRedirectAuthenticationHandler} extends
+ * AltKerberosAuthenticationHandler to add WebSSO behavior for UIs. The expected
+ * SSO token is a JsonWebToken (JWT). The supported algorithm is RS256 which
+ * uses PKI between the token issuer and consumer. The flow requires a redirect
+ * to a configured authentication server URL and a subsequent request with the
+ * expected JWT token. This token is cryptographically verified and validated.
+ * The user identity is then extracted from the token and used to create an
+ * AuthenticationToken - as expected by the AuthenticationFilter.

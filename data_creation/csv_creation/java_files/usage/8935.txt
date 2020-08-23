@@ -1,0 +1,2 @@
+@param moreThanOne The List of replica nodes on rack which has more than 
+   *        one replica

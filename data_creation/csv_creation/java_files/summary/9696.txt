@@ -1,0 +1,2 @@
+ Viewer canvas -- base class for canvas that displays a collection
+ * of persistent, repositionable graphic objects.

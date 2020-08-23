@@ -1,0 +1,1 @@
+   * Test encoding and decoding of UTF8 outside the basic multilingual plane.

@@ -1,0 +1,2 @@
+<p>Note: A <code>Partitioner</code> is created only when there are multiple
+ * reducers.</p>

@@ -1,0 +1,1 @@
+	 * Whether this delegate has been initialized

@@ -1,0 +1,1 @@
+ * Indicates an exception on the RPC server

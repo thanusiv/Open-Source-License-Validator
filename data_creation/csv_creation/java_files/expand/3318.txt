@@ -1,0 +1,11 @@
+  /**
+   * Try to add a no-checksum anchor to our shared memory slot.
+   *
+   * It is only possible to add this anchor when the block is mlocked on the Datanode.
+   * The DataNode will not munlock the block until the number of no-checksum anchors
+   * for the block reaches zero.
+   *
+   * This method does not require any synchronization.
+   *
+   * @return     True if we successfully added a no-checksum anchor.
+   */

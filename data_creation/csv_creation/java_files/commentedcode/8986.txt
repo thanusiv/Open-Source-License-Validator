@@ -1,0 +1,7 @@
+//	private final Category fEnumDeclInterfacesCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_SUPERINTERFACES_IN_ENUM_DECLARATION,
+//	    	"enum Example implements A, B, C {" + //$NON-NLS-1$
+//	    	"}", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_enum_superinterfaces,
+//    		FormatterMessages.LineWrappingTabPage_enum_superinterfaces_lowercase
+//		);

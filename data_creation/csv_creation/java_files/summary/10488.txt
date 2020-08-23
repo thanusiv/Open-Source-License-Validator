@@ -1,0 +1,4 @@
+ /**
+   * Modified internal test class that is designed to read all the files in the
+   * input directory, and find the median length of all the words.
+   */

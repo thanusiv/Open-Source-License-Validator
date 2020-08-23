@@ -1,0 +1,6 @@
+ <p>The path can be used to create custom files from within the map and
+   * reduce tasks. The path name will be unique for each task. The path parent
+   * will be the job output directory.</p>ls
+   *
+   * <p>This method uses the {@link #getUniqueName} method to make the file name
+   * unique for the task.</p>

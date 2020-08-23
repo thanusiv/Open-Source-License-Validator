@@ -1,0 +1,4 @@
+Test that a data-node does not start if configuration specifies
+   * incorrect URI scheme in data directory.
+   * Test that a data-node starts if data directory is specified as
+   * URI = "file:///path" or as a non URI path.

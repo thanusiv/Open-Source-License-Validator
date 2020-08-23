@@ -1,0 +1,2 @@
+@param value
+     *            the initial value of the variable

@@ -1,0 +1,3 @@
+@param file the file included by the directives to be found
+	 * @return an array of include relations
+	 * @throws CoreException

@@ -1,0 +1,1 @@
+   * @param dnCurDir data node storage root directory

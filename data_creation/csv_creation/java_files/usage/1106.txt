@@ -1,0 +1,1 @@
+	 * @param part the view part that owns this action group

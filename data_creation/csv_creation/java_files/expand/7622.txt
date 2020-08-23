@@ -1,0 +1,2 @@
+// There is no point in checking anything else since we have
+								// decided to do a full build anyway

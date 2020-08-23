@@ -1,0 +1,2 @@
+// We only ever call hasMoreElements once for the user NamingEnum, so
+    // we can just have one return value

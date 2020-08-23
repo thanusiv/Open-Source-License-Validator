@@ -1,0 +1,24 @@
+This example shows this storage structure for three names in two linkages.
+	 *
+	 *             NameA2
+	 *               ^
+	 *               |
+	 *             NameA1       NameB
+	 *               ^            ^
+	 *               |            |
+	 * record --> LinkageA --> LinkageB
+	 *
+	 * NameA1 and NameA2 should both be created in LinkageA, NameB should be created in LinkageB.
+	 *
+	 * The interface to this class flattens this storage structure so it appears as a simple
+	 * list that can be iterated over.
+	 *
+	 * Continuing with the same example, the iterator behaves as though the list were:
+	 *
+	 *     { NameA1, NameA2, NameB }
+	 *
+	 * This class mostly doesn't care about the inner lists.  They are implemented using the
+	 * #getNextInBinding attribute of PDOMName.
+	 *
+	 * This class implements the outer list as a singly linked list of "nodes".  Each node stores
+	 * the linkageId, the record of the first PDOMName in the list, and the record of the next node.

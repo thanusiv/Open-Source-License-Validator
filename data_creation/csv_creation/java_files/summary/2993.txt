@@ -1,0 +1,3 @@
+// Different local file systems have different validation rules. Skip
+    // validation here and just let the OS handle it. This is consistent with
+    // RawLocalFileSystem.

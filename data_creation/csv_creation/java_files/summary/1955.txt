@@ -1,0 +1,2 @@
+Checks if the specified {@link SchedulingPolicy} can be used for a queue at
+   * the specified depth in the hierarchy

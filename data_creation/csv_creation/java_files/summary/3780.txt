@@ -1,0 +1,2 @@
+Exit node of the graph. Usually return from the function, can also be throw
+ * or abort, such at exit(0) call.

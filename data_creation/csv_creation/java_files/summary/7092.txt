@@ -1,0 +1,2 @@
+Gets the image flags.
+	 * Can be overwritten by super classes.

@@ -1,0 +1,2 @@
+Write {@link #snapshotCounter}, {@link #numSnapshots},
+   * and all snapshots to the DataOutput.

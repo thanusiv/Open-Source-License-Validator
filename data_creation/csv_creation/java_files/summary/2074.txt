@@ -1,0 +1,1 @@
+Returns an {@code ImmutableRangeSet} containing the ranges added to this builder.

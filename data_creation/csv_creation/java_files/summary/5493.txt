@@ -1,0 +1,3 @@
+AuditLogger.add(Keys.OPERATION, OPERATION, actLog);
+    expLog.append("\tOPERATION=oper");
+    assertEquals(expLog.toString(), actLog.toString());

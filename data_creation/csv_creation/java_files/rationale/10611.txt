@@ -1,0 +1,1 @@
+   * If this method returns <code>null</code> the filter will invoke the configured {@link AuthenticationHandler}

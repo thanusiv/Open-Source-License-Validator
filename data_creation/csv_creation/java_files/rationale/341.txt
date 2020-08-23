@@ -1,0 +1,3 @@
+// //No more needed according to
+		// https://bugs.eclipse.org/bugs/show_bug.cgi?id=178832
+		// LaunchUIPlugin.setDialogShell(parent.getShell());

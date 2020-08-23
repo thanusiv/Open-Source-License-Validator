@@ -1,0 +1,3 @@
+@param iconUrl - a {@link URL} of the icon for the context menu of the Console
+	 *    view. The url is expected to point to an image in eclipse OSGi bundle.
+	 *    {@code iconUrl} can be <b>null</b>, in that case the default image is supposed to be used.

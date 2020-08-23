@@ -1,0 +1,4 @@
+Directory creation statistics.
+   *
+   * Each thread creates the same (+ or -1) number of directories.
+   * Directory names are pre-generated during initialization.

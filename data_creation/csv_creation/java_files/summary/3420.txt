@@ -1,0 +1,4 @@
+ // Construct a valid har file system path with authority that
+    // contains userinfo and port. The userinfo and port are useless
+    // in local fs uri. They are only used to verify har file system
+    // can correctly preserve the information for the underlying file system.

@@ -1,0 +1,1 @@
+   * @throws SwiftConfigurationException missing parameter or bad URI

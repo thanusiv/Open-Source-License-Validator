@@ -1,0 +1,3 @@
+A utility class for storing a list of external references.  An external reference is
+ * a PDOMName that references a PDOMBinding in a different linkage.  This list can be
+ * examined using {@link #getIterator()}.

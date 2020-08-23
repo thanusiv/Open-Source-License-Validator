@@ -1,0 +1,3 @@
+// Shouldn't happen: there should at least be the
+							// read-only config.
+							// Can only select the initial working set

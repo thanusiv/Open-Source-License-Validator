@@ -1,0 +1,1 @@
+	 * Returns the trailing return type as in <code> auto f() -> int </code>, or <code>null</code>.

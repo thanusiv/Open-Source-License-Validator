@@ -1,0 +1,1 @@
+      /* Choose 4 steps to get sequence [next, next, next, remove] */

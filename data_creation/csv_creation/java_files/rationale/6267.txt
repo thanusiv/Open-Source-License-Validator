@@ -1,0 +1,1 @@
+		// If a PDOMBinding was created, then add it to the linkage before returning it.

@@ -1,0 +1,3 @@
+/*-{
+        typeData[className][propertyName] = propertyData;
+    }-*/;

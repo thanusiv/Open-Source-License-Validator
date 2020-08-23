@@ -1,0 +1,1 @@
+			// If the project has changed, then a build is needed and we can stop

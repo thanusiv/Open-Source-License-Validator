@@ -1,0 +1,2 @@
+Run a build of the specified kind, and verify that the resource changes that
+	 * result match the expectations of the given verifier.

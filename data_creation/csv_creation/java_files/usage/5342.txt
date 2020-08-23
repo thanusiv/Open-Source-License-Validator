@@ -1,0 +1,1 @@
+     * @return the Autoconf code scanner

@@ -1,0 +1,2 @@
+Class extending {@link ContainerManagerImpl} and is used when queuing at the
+ * NM is enabled.

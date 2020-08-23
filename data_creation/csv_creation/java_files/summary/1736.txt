@@ -1,0 +1,2 @@
+The interface used by clients to claim a resource with the
+   * <code>SharedCacheManager.

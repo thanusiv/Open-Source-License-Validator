@@ -1,0 +1,1 @@
+ * Utility methods for working with {@link Flushable} objects.

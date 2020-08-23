@@ -1,0 +1,1 @@
+    // Configure the page blob directories key so every file created is a page blob.

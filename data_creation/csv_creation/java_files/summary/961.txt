@@ -1,0 +1,3 @@
+/**
+ * Use this singleton to get or register an Accumulator.
+ */

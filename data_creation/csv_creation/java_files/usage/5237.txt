@@ -1,0 +1,1 @@
+         * @return a collection of child nodes

@@ -1,0 +1,9 @@
+/**
+	 * Provides the memory spaces available for the given debug context.
+	 * 
+	 * @param context
+	 *            a debug context
+	 * @param request
+	 *            the asynchronous data request object
+	 * @return an array of memory space identifiers
+	 */

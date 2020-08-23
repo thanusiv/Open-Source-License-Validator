@@ -1,0 +1,1 @@
+   * Priority of the SharedCacheManager shutdown hook.

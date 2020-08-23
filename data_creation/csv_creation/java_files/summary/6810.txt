@@ -1,0 +1,4 @@
+Prints single XMLsection.
+     * 
+     * Prints full XML section. The section data is escaped from XML tags and
+     * surrounded by XML start and end-tags.

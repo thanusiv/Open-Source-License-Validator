@@ -1,0 +1,2 @@
+@param numAppsRunning
+   *          the number of running apps

@@ -1,0 +1,2 @@
+Add quotes to each of the command strings and
+   * return as a single string

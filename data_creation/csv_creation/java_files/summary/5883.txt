@@ -1,0 +1,2 @@
+Clear references to all the GridMix-allocated special objects so that 
+     * heap usage is reduced.

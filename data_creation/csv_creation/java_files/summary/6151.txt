@@ -1,0 +1,4 @@
+ Sets the time (in ms) that should elapse after an event triggering
+     * tooltip showing has occurred (e.g. mouse over) before the tooltip is
+     * shown. If a tooltip has recently been shown, then
+     * {@link #getQuickOpenDelay()} is used instead of this.

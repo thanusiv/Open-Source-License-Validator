@@ -1,0 +1,3 @@
+Advance to the next linkage node that has a non-empty list of names.  Return the
+		 * PDOMName at the head of the list.  This is the next name that should be returned
+		 * from #next().  Return null if there are no more linkage nodes.

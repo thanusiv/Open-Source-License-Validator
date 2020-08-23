@@ -1,0 +1,10 @@
+Method indicating whether this project storage type writes a .cproject file.
+	 *
+	 * If this method returns true then you must ensure that the .cproject file is an
+	 * xml file with a {@link #STORAGE_VERSION_NAME} tag and {@link #STORAGE_TYPE_ATTRIBUTE} id
+	 * in the {@link #STORAGE_ROOT_ELEMENT_NAME} e.g.:
+	 * <pre>
+	 * &lt;?xml version="1.0" encoding="UTF-8"?&gt;
+	 * &lt;?fileVersion 4.0.0?&gt;
+	 * &lt;cproject storageType="storage_type_id"&gt; ....
+	 * &lt;/cproject&gt;

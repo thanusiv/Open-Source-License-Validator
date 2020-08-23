@@ -1,0 +1,1 @@
+   * Assert that the array src[0..len] and dest[] are equal

@@ -1,0 +1,1 @@
+    // case 2: truncate to 1 block

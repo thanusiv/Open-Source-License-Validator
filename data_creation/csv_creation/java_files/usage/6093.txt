@@ -1,0 +1,1 @@
+         * @return TooltipInfo if connector and tooltip found, null if not

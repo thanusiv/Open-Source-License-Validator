@@ -1,0 +1,3 @@
+ Contributors:
+ * Johann Draschwandtner (Wind River) - initial API and implementation
+ * Martin Oberhuber (Wind River) - [261486][api][cleanup] Mark @noimplement interfaces as @noextend

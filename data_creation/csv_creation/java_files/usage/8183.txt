@@ -1,0 +1,1 @@
+     * @return A download stream which produces the resource content

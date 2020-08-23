@@ -1,0 +1,1 @@
+    //persisted entity should remain in the same em (which should still be open)

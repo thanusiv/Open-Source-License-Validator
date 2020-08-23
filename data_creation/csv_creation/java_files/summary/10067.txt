@@ -1,0 +1,2 @@
+ <p>The request sent by <code>Application Master</code> to the
+ * <code>Node Manager</code> to change the resource quota of a container.</p>

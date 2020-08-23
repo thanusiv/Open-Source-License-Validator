@@ -1,0 +1,2 @@
+Returns the selection on the editor or an invalid selection if none can be obtained. Returns
+	 * never <code>null</code>.

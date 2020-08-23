@@ -1,0 +1,2 @@
+Write the text to a file, returning the converted byte array
+   * for use in validating the round trip

@@ -1,0 +1,1 @@
+   * Test for a 5-byte UTF8 sequence, which is now considered illegal.

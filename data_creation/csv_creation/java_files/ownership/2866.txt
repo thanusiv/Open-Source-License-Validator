@@ -1,0 +1,4 @@
+Contributors:
+ *     Markus Schorn - Initial API and implementation
+ *     Sergey Prigogin (Google)
+ *     Thomas Corbat (IFS)

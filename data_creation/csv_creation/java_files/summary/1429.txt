@@ -1,0 +1,3 @@
+.POSIX
+ * The application shall ensure that this special target is specified without
+ * prerequisites or commands.

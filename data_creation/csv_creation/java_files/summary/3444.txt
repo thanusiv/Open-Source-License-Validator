@@ -1,0 +1,2 @@
+This test class checks basic operations with {@link HarFileSystem} including
+ * various initialization cases, getters, and modification methods.

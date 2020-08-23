@@ -1,0 +1,2 @@
+To be implemented in subclasses. Update the SWT widgets when the state 
+	     * of this object has changed (enabled, key, ...).

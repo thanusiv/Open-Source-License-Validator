@@ -1,0 +1,2 @@
+@see com.vaadin.server.LegacyComponent#paintContent(com.vaadin.server
+     * .PaintTarget)

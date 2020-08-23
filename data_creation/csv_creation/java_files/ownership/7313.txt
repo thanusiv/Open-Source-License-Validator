@@ -1,0 +1,3 @@
+Contributors:
+ *     Ted R Williams (Wind River Systems, Inc.) - initial implementation
+ *     Randy Rohrbach (Wind River Systems, Inc.) - Copied and modified to create the floating point plugin

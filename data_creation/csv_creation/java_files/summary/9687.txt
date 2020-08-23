@@ -1,0 +1,2 @@
+* Invoked after visualizer control creation,
+	 *  to allow derived classes to do any initialization of canvas.

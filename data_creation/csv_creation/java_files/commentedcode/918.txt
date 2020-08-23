@@ -1,0 +1,6 @@
+//		CLanguageData data = doCreateLanguageDataForExtensions(languageId, extensions);
+//		if(data != null){
+//			fLanguageDatas.add(data);
+//			setModified(true);
+//		}
+//		return data;

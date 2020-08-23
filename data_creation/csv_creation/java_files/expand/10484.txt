@@ -1,0 +1,6 @@
+ // The below logic allows us to keep the checked state of the toggle button
+    // properly set.  This is because in some case, the checked state may change
+    // without the user actually pressing the button.  For instance, if we restart
+    // the inferior, the toggle may automatically turn off.
+    // To figure this out, whenever a debug context changes, we make sure we are
+    // showing the proper checked state.

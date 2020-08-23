@@ -1,0 +1,2 @@
+An {@link AuditLogger} that sends logged data directly to the metrics
+ * systems. It is used when the top service is used directly by the name node

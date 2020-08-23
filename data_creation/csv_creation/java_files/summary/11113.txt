@@ -1,0 +1,2 @@
+ A generic JUnit test which tests {@code poll()} operations on a queue.
+ * Can't be invoked directly; please see

@@ -1,0 +1,1 @@
+//		fAddDelegateMethods= new AddDelegateMethodsAction(editor);

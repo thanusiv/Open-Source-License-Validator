@@ -1,0 +1,1 @@
+ * Abstract class for providing hover information for C elements.

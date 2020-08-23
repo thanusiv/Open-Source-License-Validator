@@ -1,0 +1,2 @@
+//if (resourceName.equals(buildGoalName) ||
+						//	(buildInfo.buildsFileType(ext) || buildInfo.isHeaderFile(ext))) {

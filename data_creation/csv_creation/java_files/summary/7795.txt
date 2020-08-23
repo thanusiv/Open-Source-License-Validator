@@ -1,0 +1,22 @@
+/**
+ * Criterion that can be used create policy to accept/discard dragged content
+ * (presented by {@link Transferable}).
+ * 
+ * The drag and drop mechanism will verify the criteria returned by
+ * {@link DropHandler#getAcceptCriterion()} before calling
+ * {@link DropHandler#drop(DragAndDropEvent)}.
+ * 
+ * The criteria can be evaluated either on the client (browser - see
+ * {@link ClientSideCriterion}) or on the server (see
+ * {@link ServerSideCriterion}). If no constraints are needed, an
+ * {@link AcceptAll} can be used.
+ * 
+ * In addition to accepting or rejecting a possible drop, criteria can provide
+ * additional hints for client side painting.
+ * 
+ * @see DropHandler
+ * @see ClientSideCriterion
+ * @see ServerSideCriterion
+ * 
+ * @since 6.3
+ */

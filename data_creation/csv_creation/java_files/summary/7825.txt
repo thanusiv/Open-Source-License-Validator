@@ -1,0 +1,1 @@
+     * Creates a new UI provider event.

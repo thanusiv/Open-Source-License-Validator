@@ -1,0 +1,2 @@
+Tells whether the given C element is the one
+	 * reported as currently being reconciled.

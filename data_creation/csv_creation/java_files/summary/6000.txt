@@ -1,0 +1,2 @@
+we did not delete the resource because it contained application
+            // ids

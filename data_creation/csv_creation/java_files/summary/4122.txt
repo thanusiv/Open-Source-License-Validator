@@ -1,0 +1,1 @@
+Provides access to the properties of a debug target.

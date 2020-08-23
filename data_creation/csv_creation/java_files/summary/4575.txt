@@ -1,0 +1,2 @@
+Perform the file checksum computing. The intermediate results are stored
+     * in the object and will be used later.

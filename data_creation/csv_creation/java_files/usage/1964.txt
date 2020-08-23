@@ -1,0 +1,3 @@
+@param policy {@link SchedulingPolicy} we are checking the
+   *          depth-applicability for
+   * @param depth queue's depth in the hierarchy

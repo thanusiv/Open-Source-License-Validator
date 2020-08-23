@@ -1,0 +1,5 @@
+ The IdentityProvider creates identities for each schedulable
+ * by extracting fields and returning an identity string.
+ *
+ * Implementers will be able to change how schedulers treat
+ * Schedulables.

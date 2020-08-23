@@ -1,0 +1,2 @@
+If an identifier is added that already exists in an outer scope 
+	 * then it will be shadowed.

@@ -1,0 +1,10 @@
+if (currentName.length() == 0) {
+			s = "";	//$NON-NLS-1$
+		 	// Make sure the name is not a duplicate
+		} else if (isDuplicateName(currentName)) {
+			s = NLS.bind(Messages.RenameConfiguration_error_duplicateName, currentName);
+		} else if (isSimilarName(currentName)) {
+			s = NLS.bind(Messages.RenameConfiguration_error_caseName, currentName);
+		} else if (!validateName(currentName)) {
+			s = NLS.bind(Messages.RenameConfiguration_error_invalidName, currentName);
+		}

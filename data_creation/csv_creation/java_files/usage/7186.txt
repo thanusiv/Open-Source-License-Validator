@@ -1,0 +1,1 @@
+	 * @return the corresponding resource, or {@code null} if none

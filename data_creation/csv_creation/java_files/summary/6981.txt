@@ -1,0 +1,1 @@
+		// check another specific object retrieval

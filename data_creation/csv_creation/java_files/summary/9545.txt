@@ -1,0 +1,2 @@
+Updates the enabled state of the action.
+		 * Fires a property change if the enabled state changes.

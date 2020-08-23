@@ -1,0 +1,2 @@
+cancel closing event if tooltip is mouseovered; the user might want
+        // to scroll of cut&paste

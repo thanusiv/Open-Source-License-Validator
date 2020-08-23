@@ -1,0 +1,1 @@
+Validator for validating that a {@link Float} is inside a given range.

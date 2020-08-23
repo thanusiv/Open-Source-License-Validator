@@ -1,0 +1,1 @@
+// Write nothing to output, skip the next symbol

@@ -1,0 +1,1 @@
+   * Adds a new row to <i>this</i> dynamic Bloom filter.

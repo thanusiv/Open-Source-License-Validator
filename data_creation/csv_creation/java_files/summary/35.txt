@@ -1,0 +1,5 @@
+Parent path means the parent directory for the path.
+   * Ancestor path means the last (the closest) existing ancestor directory
+   * of the path.
+   * Note that if the parent path exists,
+   * then the parent path and the ancestor path are the same.

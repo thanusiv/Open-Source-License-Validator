@@ -1,0 +1,8 @@
+ /**
+   * Number of external references to this replica.  Replicas are referenced
+   * by the cache, BlockReaderLocal instances, and by ClientMmap instances.
+   * The number starts at 2 because when we create a replica, it is referenced
+   * by both the cache and the requester.
+   *
+   * Protected by the cache lock.
+   */

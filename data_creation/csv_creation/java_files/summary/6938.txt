@@ -1,0 +1,1 @@
+	 * Return image URL registered for the given class.

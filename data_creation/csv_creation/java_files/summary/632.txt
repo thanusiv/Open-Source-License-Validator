@@ -1,0 +1,9 @@
+/**
+	 * Returns an {@link IIndexBinding} for this index that is equivalent to the specified binding,
+	 * or null if such a binding does not exist in this index. This is useful for adapting
+	 * bindings obtained from IIndex objects that might have been created for a different scope
+     * or for IBinding objects obtained directly from the AST.
+     *
+	 * @param binding an AST or an index binding
+	 * @return an IIndexBinding for this index that is equivalent to the specified binding
+	 */

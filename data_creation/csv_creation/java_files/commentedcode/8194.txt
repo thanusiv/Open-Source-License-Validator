@@ -1,0 +1,8 @@
+//	public BuildMacroException(int code, 
+//			String macroName, 
+//			String expression, 
+//			String referencedName,
+//			int contextType,
+//			Object contextData) {
+//		super(new BuildMacroStatus(code, macroName, expression, referencedName, contextType, contextData));
+//	}

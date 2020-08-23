@@ -1,0 +1,2 @@
+@throws IllegalArgumentException if the first character of a non empty path
+   * is not {@link #PATH_SEPARATOR}

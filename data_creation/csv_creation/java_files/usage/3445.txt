@@ -1,0 +1,4 @@
+NB: to run this test from an IDE make sure the folder
+ * "hadoop-common-project/hadoop-common/src/main/resources/" is added as a
+ * source path. This will allow the system to pick up the "core-default.xml" and
+ * "META-INF/services/..." resources from the class-path in the runtime.

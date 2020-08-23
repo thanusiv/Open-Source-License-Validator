@@ -1,0 +1,3 @@
+Delete file statistics.
+   * 
+   * Measure how many delete calls the name-node can handle per second.

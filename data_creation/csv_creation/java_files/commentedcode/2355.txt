@@ -1,0 +1,4 @@
+/*-{
+        // Data is not available for Javascript state object properties as GWT knows nothing about them
+        return typeData[beanName][propertyName] && typeData[beanName][propertyName].noLayout !== undefined;
+    }-*/;

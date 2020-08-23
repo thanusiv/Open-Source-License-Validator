@@ -1,0 +1,4 @@
+/**
+	 * Creates a new <code>GenerateActionGroup</code>. The group requires
+	 * that the selection provided by the given selection provider is of type
+	 * {@link IStructuredSelection}.

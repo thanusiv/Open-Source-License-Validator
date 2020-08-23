@@ -1,0 +1,2 @@
+ * Default implementation that invokes the distributed scheduling version
+   * of the register method.

@@ -1,0 +1,2 @@
+@param widget
+     *            Widget which DOM handlers are connected

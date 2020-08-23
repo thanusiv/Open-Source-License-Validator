@@ -1,0 +1,1 @@
+					// Not backed by an IFile, try its source handle (may be workspace / project based)

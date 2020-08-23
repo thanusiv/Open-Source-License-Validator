@@ -1,0 +1,2 @@
+// The simplest way to convert from the CLITraceInfo to a MIBreakInsertInfo
+						// is to list the breakpoints and take the proper output

@@ -1,0 +1,1 @@
+	 * Return the new node of this modification, or <code>null</code>

@@ -1,0 +1,11 @@
+//		if (kind == IncrementalProjectBuilder.AUTO_BUILD) {
+//			IResourceDelta delta = getDelta(getProject());
+//			if (delta != null) {
+//				IResource res = delta.getResource();
+//				if (res != null) {
+//					bPerformBuild = res.getProject().equals(getProject());
+//				}
+//			} else {
+//				bPerformBuild = false;
+//			}
+//		}

@@ -1,0 +1,4 @@
+/**
+   * Map of all valid state transitions
+   * [current] [proposed1, proposed2, ...]
+   */

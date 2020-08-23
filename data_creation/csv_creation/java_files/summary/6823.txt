@@ -1,0 +1,4 @@
+Test the history server Rest API for getting the job conf. This
+ * requires created a temporary configuration file.
+ *
+ *   /ws/v1/history/mapreduce/jobs/{jobid}/conf

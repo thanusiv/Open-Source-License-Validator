@@ -1,0 +1,1 @@
+    		// If a process restarts, we must reset the thread id

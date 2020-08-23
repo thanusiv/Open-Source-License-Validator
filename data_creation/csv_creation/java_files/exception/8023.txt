@@ -1,0 +1,1 @@
+   * @throws IOException if error occurs during hardlink

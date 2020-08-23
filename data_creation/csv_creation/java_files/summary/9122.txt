@@ -1,0 +1,2 @@
+// Automatically identify categorical features, and index them.
+    // Set maxCategories so features with > 4 distinct values are treated as continuous.

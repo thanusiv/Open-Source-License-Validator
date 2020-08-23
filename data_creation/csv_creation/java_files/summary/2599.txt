@@ -1,0 +1,3 @@
+Refresh static map, and reset the other maps to empty.
+   * For testing code, a full map may be re-constructed here when the object
+   * was created with constructFullMapAtInit being set to true.

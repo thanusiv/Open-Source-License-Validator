@@ -1,0 +1,4 @@
+@param dmc
+	 * @param properties
+	 * @param rm
+	 * @param generateUpdateEvent

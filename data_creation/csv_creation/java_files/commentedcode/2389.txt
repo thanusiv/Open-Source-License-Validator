@@ -1,0 +1,2 @@
+// currExistingAllocTot + currNewAlloc - currOldAlloc >
+      // capPlan.getTotalCapacity()

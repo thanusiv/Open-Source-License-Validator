@@ -1,0 +1,2 @@
+* Start the execution of the given container. Also add it to the allocated
+   * containers, and update allocated resource utilization.

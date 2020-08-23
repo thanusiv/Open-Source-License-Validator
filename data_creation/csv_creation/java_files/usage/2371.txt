@@ -1,0 +1,2 @@
+ @param method
+     *            the rpc method to check

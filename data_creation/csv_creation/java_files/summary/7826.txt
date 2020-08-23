@@ -1,0 +1,1 @@
+     * Gets the Vaadin service from which the event originates.

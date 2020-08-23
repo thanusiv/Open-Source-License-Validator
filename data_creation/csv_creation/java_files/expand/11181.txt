@@ -1,0 +1,6 @@
+/**
+ * This service maintains the shared cache meta data. It handles claiming and
+ * releasing of resources, all rpc calls from the client to the shared cache
+ * manager, and administrative commands. It also persists the shared cache meta
+ * data to a backend store, and cleans up stale entries on a regular basis.
+ */

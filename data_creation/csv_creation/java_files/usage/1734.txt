@@ -1,0 +1,2 @@
+@param request request to claim a resource in the shared cache
+   * @return response indicating if the resource is already in the cache

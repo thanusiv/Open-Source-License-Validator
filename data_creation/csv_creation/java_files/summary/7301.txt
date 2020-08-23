@@ -1,0 +1,1 @@
+	 * This returns the combination of modifier bits for this type.

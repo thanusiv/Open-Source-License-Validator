@@ -1,0 +1,6 @@
+/**
+	 * Stores the configuration element for the wizard.  The config element will be used
+	 * in <code>performFinish</code> to set the result perspective.
+	 *
+	 * @see IExecutableExtension#setInitializationData
+	 */

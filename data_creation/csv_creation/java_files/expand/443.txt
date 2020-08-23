@@ -1,0 +1,3 @@
+For in-memory filtering, a simple == check is performed. For other
+     * containers, the comparison implementation is container dependent but
+     * should correspond to the in-memory null check.

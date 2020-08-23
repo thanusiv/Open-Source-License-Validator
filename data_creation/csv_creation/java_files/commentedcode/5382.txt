@@ -1,0 +1,10 @@
+if ("org.eclipse.jface.text.source.projection.ProjectionAnnotationHover".equals(annotationHover.getClass().getName())) { //$NON-NLS-1$
+//    				controlCreator= new IInformationControlCreator() {
+//    					public IInformationControl createInformationControl(Shell shell) {
+//    						int shellStyle= SWT.RESIZE | SWT.TOOL | getOrientation();
+//    						int style= SWT.V_SCROLL | SWT.H_SCROLL;
+//    						return new SourceViewerInformationControl(shell, shellStyle, style);
+//    					}
+//    				};
+//
+//    			} else {

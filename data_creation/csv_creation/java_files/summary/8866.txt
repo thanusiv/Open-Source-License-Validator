@@ -1,0 +1,3 @@
+Get the resource to apply the marker against. This may not be the same
+     * resource the dialog was created for if the user has selected a different
+     * resource.

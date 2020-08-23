@@ -1,0 +1,1 @@
+Type E should implement {@link ReferenceCounter}<br>

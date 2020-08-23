@@ -1,0 +1,1 @@
+		 * Clears the error message from the message line if the error message is the error message from this field editor.

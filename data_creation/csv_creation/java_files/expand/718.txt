@@ -1,0 +1,5 @@
+//the format of the index file is
+      //LOG_DIR: <the dir where the task logs are really stored>
+      //STDOUT: <start-offset in the stdout file> <length>
+      //STDERR: <start-offset in the stderr file> <length>
+      //SYSLOG: <start-offset in the syslog file> <length>

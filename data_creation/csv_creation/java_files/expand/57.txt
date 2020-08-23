@@ -1,0 +1,7 @@
+More specifically, this method depends on these invariants in an ACL:
+   * - The list must be sorted.
+   * - Each entry in the list must be unique by scope + type + name.
+   * - There is exactly one each of the unnamed user/group/other entries.
+   * - The mask entry must not have a name.
+   * - The other entry must not have a name.
+   * - Default entries may be present, but they are ignored during enforcement.

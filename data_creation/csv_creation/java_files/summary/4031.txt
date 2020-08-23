@@ -1,0 +1,1 @@
+							// AST has been invalidated by index write access

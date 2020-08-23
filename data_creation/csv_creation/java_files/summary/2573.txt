@@ -1,0 +1,4 @@
+
+ * A simple shell-based implementation of {@link IdMappingServiceProvider} 
+ * Map id to user name or group name. It does update every 15 minutes. Only a
+ * single instance of this class is expected to be on the server.

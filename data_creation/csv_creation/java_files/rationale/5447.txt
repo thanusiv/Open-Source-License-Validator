@@ -1,0 +1,1 @@
+			// Otherwise update the node's head field to point to the given name.

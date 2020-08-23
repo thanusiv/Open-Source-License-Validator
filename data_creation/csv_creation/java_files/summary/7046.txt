@@ -1,0 +1,1 @@
+Returns the underlying MI event that triggered this event.

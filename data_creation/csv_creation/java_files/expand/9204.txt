@@ -1,0 +1,3 @@
+This specific implementation might provide resource management as well
+   * as resource metrics functionality. We need to ensure that the same
+   * instance is used for both.

@@ -1,0 +1,2 @@
+Operation of dragging over a drop target. Only {@link DND#DROP_COPY} is
+	 * supported for dropping files to Make Target View.

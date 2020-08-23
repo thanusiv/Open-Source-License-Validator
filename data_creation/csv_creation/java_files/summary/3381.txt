@@ -1,0 +1,3 @@
+Constructor.
+   * <p>
+   * Builds an empty Dynamic Bloom filter.

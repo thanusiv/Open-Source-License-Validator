@@ -1,0 +1,1 @@
+	 * A special options store wherein the preview line width is kept.

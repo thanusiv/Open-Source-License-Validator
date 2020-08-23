@@ -1,0 +1,5 @@
+Platform's SpellingService uses a spelling engine that is independent
+ * of the content type (see https://bugs.eclipse.org/bugs/show_bug.cgi?id=185695).
+ * We are providing our own SpellingService to be able to use the C/C++ specific
+ * spelling engine even when it is not selected in
+ * Preferences/General/Editors/Text Editors/Spelling.

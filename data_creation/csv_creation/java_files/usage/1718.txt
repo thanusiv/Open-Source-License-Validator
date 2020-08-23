@@ -1,0 +1,1 @@
+@param member The binding specifying the member.

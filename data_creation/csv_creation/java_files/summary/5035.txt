@@ -1,0 +1,2 @@
+Decoding the variable-length integer. Synonymous to
+   * <code>(int)Utils#readVLong(in)</code>.

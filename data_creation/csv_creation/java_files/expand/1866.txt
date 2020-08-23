@@ -1,0 +1,6 @@
+A simple heuristic is used to detect valid line end comment characters: If a
+ * character known to be a potential line end comment character is used as a
+ * line start comment char, this character is considered a valid line end
+ * comment character, too. If e.g. a '@' is used to introduce a line start
+ * comment it is also recognized as a line end comment introducer afterwards.
+ * </p>

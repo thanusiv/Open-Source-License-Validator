@@ -1,0 +1,2 @@
+@param jarFilename
+     *            File name of the JAR in which the manifest is written

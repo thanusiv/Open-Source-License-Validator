@@ -1,0 +1,2 @@
+// If this is a name for a QML registration, then the registration must be removed
+		// from the index.

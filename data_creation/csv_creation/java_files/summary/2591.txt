@@ -1,0 +1,2 @@
+Get the list of users or groups returned by the specified command,
+   * and save them in the corresponding map.

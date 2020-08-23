@@ -1,0 +1,1 @@
+Currently the <code>SharedCacheManager</code> sends an empty response.

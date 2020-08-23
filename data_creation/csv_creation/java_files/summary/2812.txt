@@ -1,0 +1,2 @@
+ Print out the Job History to the given {@link PrintStream} in a
+   * human-readable format.

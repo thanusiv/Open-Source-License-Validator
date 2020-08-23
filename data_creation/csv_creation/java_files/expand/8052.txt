@@ -1,0 +1,4 @@
+// 2. Do transitions
+      // Each storage directory is treated individually.
+      // During startup some of them can upgrade or roll back
+      // while others could be up-to-date for the regular startup.

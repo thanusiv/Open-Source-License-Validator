@@ -1,0 +1,2 @@
+Used for omitted declaration specifiers. E.g. for declaration of constructors,
+	 * or in plain c, where this defaults to an integer.

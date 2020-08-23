@@ -1,0 +1,1 @@
+ * Breakpoints VM model proxy that includes an ICheckboxModelProxy implementation.

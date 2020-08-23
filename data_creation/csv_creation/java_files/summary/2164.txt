@@ -1,0 +1,1 @@
+	/** The position updater for the drag selection position */

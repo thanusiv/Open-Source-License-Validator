@@ -1,0 +1,5 @@
+This function is called when setting a filter for this generated
+     * property. Returning null from this function causes
+     * GeneratedPropertyContainer to discard the filter and not use it.
+     * 
+     * By default this function throws UnsupportedFilterException.

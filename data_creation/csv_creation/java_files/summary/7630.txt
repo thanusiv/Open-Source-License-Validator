@@ -1,0 +1,1 @@
+			//try to resolve build macros in the build artifact extension

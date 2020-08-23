@@ -1,0 +1,3 @@
+ Contributors:
+ *     IBM Corporation - initial API and implementation
+ *     Markus Schorn (Wind River Systems)

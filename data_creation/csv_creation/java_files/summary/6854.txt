@@ -1,0 +1,1 @@
+      // only show button to dump CapacityScheduler debug logs to admins

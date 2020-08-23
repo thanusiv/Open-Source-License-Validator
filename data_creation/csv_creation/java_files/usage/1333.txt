@@ -1,0 +1,3 @@
+@param pos
+     *            Position of the splitter as a CSS string, either pixels or a
+     *            percentage.

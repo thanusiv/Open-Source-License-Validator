@@ -1,0 +1,1 @@
+Set the given snapshottable directory to non-snapshottable.

@@ -1,0 +1,1 @@
+ * Used during overload resolution as a place-holder for function sets.

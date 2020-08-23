@@ -1,0 +1,2 @@
+@param numAppsFailed
+   *          the number of failed apps

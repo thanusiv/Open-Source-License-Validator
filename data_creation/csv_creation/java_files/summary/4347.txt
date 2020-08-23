@@ -1,0 +1,3 @@
+List file status statistics.
+   * 
+   * Measure how many get-file-status calls the name-node can handle per second.

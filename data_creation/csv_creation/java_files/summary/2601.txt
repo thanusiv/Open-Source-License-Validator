@@ -1,0 +1,5 @@
+search for id with given name, return "<name>:<id>"
+  // return
+  //     getent group <name> | cut -d: -f1,3
+  // OR
+  //     id -u <name> | awk '{print "<name>:"$1 }'

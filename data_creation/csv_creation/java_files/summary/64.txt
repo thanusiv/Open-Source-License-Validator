@@ -1,0 +1,2 @@
+// Use named user entry with mask from permission bits applied if user
+          // matches name.

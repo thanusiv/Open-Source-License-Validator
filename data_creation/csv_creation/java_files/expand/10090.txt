@@ -1,0 +1,10 @@
+/**
+ * The View Model provider for the Timers view.  This provider allows for 
+ * switching between two different view layouts:
+ * <ol>
+ *  <li>Timers -> Triggers -> Alarms</li>
+ *  <li>Triggers -> Timers -> Alarms</li>
+ * </ol>  
+ * A special event is sent when the layout is changed in order to generate
+ * a proper delta to refresh the view. 
+ */

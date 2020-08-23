@@ -1,0 +1,4 @@
+
+        // If there were internal errors during the fsck operation, we want to
+        // return FAILURE_STATUS, even if those errors were not immediately
+        // fatal.  Otherwise many unit tests will pass even when there are bugs.

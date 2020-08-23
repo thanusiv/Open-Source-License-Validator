@@ -1,0 +1,2 @@
+@param value
+     *            the Component to be referenced on client side

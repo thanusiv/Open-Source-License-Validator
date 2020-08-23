@@ -1,0 +1,1 @@
+Returns a funnel for longs.

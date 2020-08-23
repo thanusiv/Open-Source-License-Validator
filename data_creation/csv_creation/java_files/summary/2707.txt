@@ -1,0 +1,1 @@
+    // FileStatus of the snapshot should not change except the path

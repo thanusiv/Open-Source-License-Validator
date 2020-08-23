@@ -1,0 +1,7 @@
+ Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     QNX Software Systems - Refactored to use platform implementation
+ *     Marc Khouzam (Ericsson) - Added support for Tracepoints (bug 376116)
+ *     Marc Khouzam (Ericsson) - Added support for Dynamic-Printf (bug 400628)
+ *     Jonah Graham - Set REQUESTED_* fields when creating from dialog (bug 46026)
+ *     Jonah Graham (Kichwa Coders) - Create "Add Line Breakpoint (C/C++)" action (Bug 464917)

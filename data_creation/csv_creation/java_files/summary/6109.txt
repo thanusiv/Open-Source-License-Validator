@@ -1,0 +1,1 @@
+     * Show the tooltip with the provided info for assistive devices.

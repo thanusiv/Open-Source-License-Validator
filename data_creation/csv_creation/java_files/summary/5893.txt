@@ -1,0 +1,3 @@
+Determines the unit increase per call to the core engine's load API. This
+   * is expressed as a percentage of the difference between the expected total 
+   * heap usage and the current usage.

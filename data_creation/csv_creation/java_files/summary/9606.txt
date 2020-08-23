@@ -1,0 +1,2 @@
+Decoder for converting RPC parameters and other values from JSON in transfer
+ * between the client and the server and vice versa.

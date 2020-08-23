@@ -1,0 +1,17 @@
+<p>A {@link StringMapKey} and {@link ClassMapKey} are provided for convenience with maps whose
+ * keys are strings or classes. For maps with enums or primitive types as keys, you must provide
+ * your own MapKey annotation, such as this one for an enum:
+ *
+ * <pre>
+ * {@literal @}MapKey(unwrapValue = true)
+ * {@literal @}Retention(RUNTIME)
+ * public {@literal @}interface MyCustomEnumKey {
+ *   MyCustomEnum value();
+ * }
+ * </pre>
+ *
+ * You can also use the whole annotation as the key, if {@code unwrapValue=false}.
+ * When unwrapValue is false, the annotation type will be the key type for the injected map and
+ * the annotation instances will be the key values. If {@code unwrapValue=true}, the value() type
+ * will be the key type for injected map and the value() instances will be the keys values.
+ *

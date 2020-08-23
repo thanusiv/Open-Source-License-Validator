@@ -1,0 +1,1 @@
+Can be called by a thread other than the one that acquired the AST.

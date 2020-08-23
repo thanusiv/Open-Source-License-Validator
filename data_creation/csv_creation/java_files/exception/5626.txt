@@ -1,0 +1,1 @@
+	 * @throws BadLocationException if the document got changed concurrently

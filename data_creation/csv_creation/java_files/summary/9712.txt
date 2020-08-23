@@ -1,0 +1,3 @@
+Evaluates the given {@link IJSExpression} as a constant expression and returns the result. At the moment this only supports
+	 * very simple expressions involving unary operators and literals alone. Support for more complex expressions will be added as
+	 * needed.

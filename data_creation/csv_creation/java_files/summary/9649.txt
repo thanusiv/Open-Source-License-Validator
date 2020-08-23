@@ -1,0 +1,2 @@
+// Client-side has no declared type information to determine
+            // encoding method for empty maps, so these are handled separately.

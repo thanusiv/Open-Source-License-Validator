@@ -1,0 +1,1 @@
+     * Returns the cache for a value at given index.

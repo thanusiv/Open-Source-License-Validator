@@ -1,0 +1,3 @@
+Leaves a named block. There should always be a matching invocation of
+     * {@link #enter(String)} when entering the block. Calls to this method will
+     * be removed by the compiler unless profiling is enabled.

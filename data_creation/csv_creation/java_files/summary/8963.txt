@@ -1,0 +1,1 @@
+				// Somewhat edge-case where a file from one Qt Project was moved to a different Qt Project.

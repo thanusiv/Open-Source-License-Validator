@@ -1,0 +1,1 @@
+	 * @return An array of headers, one for each object within the archive.

@@ -1,0 +1,2 @@
+// Bring up New Executable dialog with values from
+					// the last launch.

@@ -1,0 +1,2 @@
+ Compression strategy to prevent the use of dynamic Huffman codes, 
+     * allowing for a simpler decoder for special applications.

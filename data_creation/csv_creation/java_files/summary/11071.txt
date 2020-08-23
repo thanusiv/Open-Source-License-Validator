@@ -1,0 +1,1 @@
+     * Returns the modifications associated with the refactoring.

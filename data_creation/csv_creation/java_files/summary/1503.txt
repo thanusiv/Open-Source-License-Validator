@@ -1,0 +1,4 @@
+/*
+	 * Convenience method to create a CheckboxPreference. The widget is registered as 
+	 * a potential focus holder, and the default updater is added.
+	 */

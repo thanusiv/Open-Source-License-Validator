@@ -1,0 +1,4 @@
+<p><b>Warning:</b> Be extremely careful what you do with the {@code asSet} view of a large
+   * range set (such as {@code ImmutableRangeSet.of(Range.greaterThan(0))}). Certain operations on
+   * such a set can be performed efficiently, but others (such as {@link Set#hashCode} or
+   * {@link Collections#frequency}) can cause major performance problems.

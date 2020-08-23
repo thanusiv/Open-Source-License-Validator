@@ -1,0 +1,2 @@
+ split a UTF-8 byte array into key and value 
+   * assuming that the delimilator is at splitpos.

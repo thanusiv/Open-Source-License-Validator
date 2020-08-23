@@ -1,0 +1,1 @@
+		// Relative to A, B starts at (1,1) and is of size 8x8

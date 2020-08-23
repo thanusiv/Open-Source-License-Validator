@@ -1,0 +1,1 @@
+			// parse the type/name part and then extract the type and name from the result

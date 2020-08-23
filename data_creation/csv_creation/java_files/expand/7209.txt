@@ -1,0 +1,2 @@
+ Declaration of a class without the definition.
+	 * class C;

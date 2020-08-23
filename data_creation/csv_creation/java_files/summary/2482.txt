@@ -1,0 +1,1 @@
+	 * Adds a binding to the symbol table in the current scope.

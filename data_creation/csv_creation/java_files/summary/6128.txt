@@ -1,0 +1,2 @@
+ // Cancel closing so tooltip stays open and user can copy paste the
+            // tooltip

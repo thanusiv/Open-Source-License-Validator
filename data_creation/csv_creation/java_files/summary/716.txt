@@ -1,0 +1,4 @@
+/**
+   * Obtain the owner of the log dir. This is 
+   * determined by checking the job's log directory.
+   */

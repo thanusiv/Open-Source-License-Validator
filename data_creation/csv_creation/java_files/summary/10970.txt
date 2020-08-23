@@ -1,0 +1,2 @@
+ * Utility class for setting up bookkeeper ensembles
+ * and bringing individual bookies up and down

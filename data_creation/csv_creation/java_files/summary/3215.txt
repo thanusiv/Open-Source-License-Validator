@@ -1,0 +1,1 @@
+List all the snapshottable directories that are owned by the current user.

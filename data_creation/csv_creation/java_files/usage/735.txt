@@ -1,0 +1,1 @@
+@param end the offset to read upto (negative is relative to tail)

@@ -1,0 +1,2 @@
+@param syncFlags
+   *          Indicate the detailed semantic and actions of the hsync.

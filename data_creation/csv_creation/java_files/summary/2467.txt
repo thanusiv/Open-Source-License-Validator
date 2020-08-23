@@ -1,0 +1,1 @@
+   * Test that decoding invalid UTF8 throws an appropriate error message.

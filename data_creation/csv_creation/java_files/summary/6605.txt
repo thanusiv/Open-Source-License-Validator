@@ -1,0 +1,1 @@
+ * A collection of helper methods to interact with the workbench's IDocuments and IFiles

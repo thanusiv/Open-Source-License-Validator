@@ -1,0 +1,2 @@
+Return an instance of ApplicationAttemptId using specified identifier. This
+   * identifier will be used for the ApplicationId too.

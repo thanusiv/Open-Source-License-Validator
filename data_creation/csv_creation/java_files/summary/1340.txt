@@ -1,0 +1,2 @@
+Converts given split position string (in pixels or percentage) to a
+     * floating point pixel value.

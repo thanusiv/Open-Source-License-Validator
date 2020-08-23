@@ -1,0 +1,2 @@
+This class manages extensions of extension point org.eclipse.cdt.core.LanguageSettingsProvider
+ * which defines appearance and behavior of UI controls for Language Settings Providers.

@@ -1,0 +1,1 @@
+			// Finally insert the new node right after the last one that was examined.

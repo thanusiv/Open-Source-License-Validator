@@ -1,0 +1,9 @@
+ // Test that you can authenticate with only delegation tokens
+  // 1. Get a delegation token using Kerberos auth(this ends up
+  // testing the fallback authenticator)
+  // 2. Submit an app without kerberos or delegation-token
+  // - we should get an UNAUTHORIZED response
+  // 3. Submit same app with delegation-token
+  // - we should get OK response
+  // - confirm owner of the app is the user whose
+  // delegation-token we used

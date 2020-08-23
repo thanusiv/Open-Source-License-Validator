@@ -1,0 +1,3 @@
+/*
+	 * Factory methods to make GUI construction easier
+	 */

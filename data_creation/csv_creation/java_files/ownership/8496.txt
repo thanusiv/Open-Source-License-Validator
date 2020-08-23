@@ -1,0 +1,4 @@
+Contributors:
+ * QNX Software Systems - Initial API and implementation
+ * Freescale Semiconductor - Address watchpoints, https://bugs.eclipse.org/bugs/show_bug.cgi?id=118299
+ * Jonah Graham (Kichwa Coders) - Create "Add Line Breakpoint (C/C++)" action (Bug 464917)

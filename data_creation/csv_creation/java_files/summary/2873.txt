@@ -1,0 +1,1 @@
+Assert that a property in the property set matches the expected value

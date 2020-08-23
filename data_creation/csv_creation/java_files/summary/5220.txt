@@ -1,0 +1,2 @@
+Kill opportunistic containers to free up resources for running the given
+   * container.

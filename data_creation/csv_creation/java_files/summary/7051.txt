@@ -1,0 +1,1 @@
+ * Creates bimaps, containing sample entries, to be tested.

@@ -1,0 +1,2 @@
+This method is called after all controls have been allocated, including the preview. 
+	 * It can be used to set the preview text and to create listeners.

@@ -1,0 +1,3 @@
+// If no last configuration or user has changed
+					// the executable, we need to create a new configuration
+					// and remove artifacts from the old one.

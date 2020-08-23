@@ -1,0 +1,1 @@
+Sync buffered data to DataNodes (flush to disk devices).

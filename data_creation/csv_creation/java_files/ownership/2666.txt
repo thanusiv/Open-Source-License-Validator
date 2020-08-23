@@ -1,0 +1,4 @@
+Contributors:
+ *     William R. Swanson (Tilera Corporation) - initial API and implementation
+ *     Marc Dumais (Ericsson) - Add CPU/core load information to the multicore visualizer (Bug 396268)
+ *     Marc Dumais (Ericsson) -  Bug 405390

@@ -1,0 +1,3 @@
+Measures how fast replication monitor can compute data-node work.
+   * 
+   * It runs only one thread until no more work can be scheduled.

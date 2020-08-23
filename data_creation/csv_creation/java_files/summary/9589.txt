@@ -1,0 +1,1 @@
+ // Tests for com.google.inject.internal.WeakKeySet not leaking memory.

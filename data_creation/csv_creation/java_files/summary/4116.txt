@@ -1,0 +1,1 @@
+Get the final {@link State} of the task-attempt.

@@ -1,0 +1,1 @@
+			// Determine from the file extension where we should add this resource

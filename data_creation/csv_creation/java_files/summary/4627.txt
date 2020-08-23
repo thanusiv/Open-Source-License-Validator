@@ -1,0 +1,2 @@
+The window associated with this action delegate
+	 * May be <code>null</code>

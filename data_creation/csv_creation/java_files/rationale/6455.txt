@@ -1,0 +1,2 @@
+// We should only need to backup the length of Q_PROPERTY, but allow extra to deal
+		// with whitespace.

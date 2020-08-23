@@ -1,0 +1,1 @@
+	 * Informs that reconciling of the AST of the given translation unit has finished.

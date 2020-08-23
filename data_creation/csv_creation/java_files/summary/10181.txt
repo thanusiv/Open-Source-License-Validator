@@ -1,0 +1,1 @@
+	/** The image descriptor for this category, or {@code null} if none specified. */

@@ -1,0 +1,2 @@
+// If there isn't already a node for this name's linkage then the new name can be inserted
+		// in the normal way.

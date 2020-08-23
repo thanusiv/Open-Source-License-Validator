@@ -1,0 +1,4 @@
+Displays Tooltip when page is navigated with the keyboard.
+         * 
+         * Tooltip is not visible. This makes it possible for assistive devices
+         * to recognize the tooltip.

@@ -1,0 +1,1 @@
+    // ensure file + checksum are moved

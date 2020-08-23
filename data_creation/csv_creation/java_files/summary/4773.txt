@@ -1,0 +1,3 @@
+ Value change should only happen once, when setting the property,
+        // further changes via property should not cause value change listener
+        // in field to be notified

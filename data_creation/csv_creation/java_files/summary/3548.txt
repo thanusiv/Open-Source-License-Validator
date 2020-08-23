@@ -1,0 +1,3 @@
+Initialize the registry with all the methods in a protocol
+   * so they all show up in the first snapshot.
+   * Convenient for JMX implementations.

@@ -1,0 +1,2 @@
+Returns a {@code new Object()} for every request, and increments a counter for every request.
+   * The count is accessible via {@link #getCount}.

@@ -1,0 +1,7 @@
+/**
+     * Return the connector classes to load after the initial widgetset load and
+     * start.
+     * 
+     * @return component connector class to load after the initial widgetset
+     *         loading
+     */

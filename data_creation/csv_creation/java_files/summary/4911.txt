@@ -1,0 +1,1 @@
+	 * Utility method to remove the old autotools nature from a project.

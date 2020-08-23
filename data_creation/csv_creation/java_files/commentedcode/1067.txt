@@ -1,0 +1,1 @@
+//		fCopyQualifiedNameAction= new CopyQualifiedNameAction(editor, null, pastAction);

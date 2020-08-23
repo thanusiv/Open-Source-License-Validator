@@ -1,0 +1,1 @@
+        // Ignore failure to load/initialize native-zlib

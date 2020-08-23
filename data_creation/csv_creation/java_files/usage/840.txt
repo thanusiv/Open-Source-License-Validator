@@ -1,0 +1,2 @@
+@return <code>true</code> if the job output should be compressed,
+   *         <code>false</code> otherwise

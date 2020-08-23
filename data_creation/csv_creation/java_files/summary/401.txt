@@ -1,0 +1,14 @@
+/**
+	 * Provides the string encoding of a memory space qualified address. This
+	 * method is called when having to represent a memory-space qualified
+	 * address as a single string.
+	 * 
+	 * @param expression
+	 *            the expression representing a location within a memory space.
+	 *            This can be a simple numeric expression like "0x10000" or
+	 *            something more complex "$EAX+(gCustomerCount*100)".
+	 * @param memorySpaceID
+	 *            a string which represents the memory space
+	 * @return the encoded string representation of the address, or null to
+	 *         indicate no custom encoding is required
+	 */

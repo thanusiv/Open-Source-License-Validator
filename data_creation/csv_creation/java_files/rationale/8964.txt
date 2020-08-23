@@ -1,0 +1,2 @@
+// If we successfully replaced the variable, continue. If this line is not executed it means we failed to
+						// replace and the file will be added in the subsequent code for the ADDED case.

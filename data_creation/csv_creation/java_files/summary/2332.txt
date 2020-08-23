@@ -1,0 +1,2 @@
+Thread which continuously reads from a input stream and pushes the read
+	 * data to an output stream which is immediately flushed afterwards.

@@ -1,0 +1,1 @@
+ // bug 271449: Makefile editor should always be left to right

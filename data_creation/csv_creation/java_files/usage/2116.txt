@@ -1,0 +1,2 @@
+@param enabled
+	 *            If <code>true</code>, printing errors is turned on.

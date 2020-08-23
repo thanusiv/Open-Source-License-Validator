@@ -1,0 +1,5 @@
+// There seems to be an issue with the guice/jersey integration
+      // where we have to list the stuff we don't want it to serve
+      // through the guicecontainer. In this case its everything except
+      // the the web services api prefix. We can't just change the filter
+      // from /* below - that doesn't work.

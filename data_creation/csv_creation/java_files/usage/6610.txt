@@ -1,0 +1,1 @@
+	 * @return the document from the currently active editor

@@ -1,0 +1,5 @@
+Returns a shared translation unit AST for the given translation unit.
+	 * <p>
+	 * Clients are not allowed to modify the AST and must hold an index read
+	 * lock prior to calling this method and continue to hold the lock as long
+	 * as the AST is being used.

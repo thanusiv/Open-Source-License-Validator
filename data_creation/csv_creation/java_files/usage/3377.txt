@@ -1,0 +1,2 @@
+ @param hashType type of the hashing function (see
+   * {@link org.apache.hadoop.util.hash.Hash}).

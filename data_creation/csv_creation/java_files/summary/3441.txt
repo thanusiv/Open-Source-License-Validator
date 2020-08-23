@@ -1,0 +1,1 @@
+   * creates and returns fully initialized HarFileSystem

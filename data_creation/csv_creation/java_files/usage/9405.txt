@@ -1,0 +1,2 @@
+@param availableVCores
+   *          the available vcores

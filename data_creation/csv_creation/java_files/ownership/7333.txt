@@ -1,0 +1,6 @@
+Contributors:
+ * Intel Corporation - Initial API and implementation
+ * IBM Corporation
+ * Dmitry Kozlov (CodeSourcery) - Build error highlighting and navigation
+ *                                Save build output (bug 294106)
+ * Andrew Gvozdev (Quoin Inc)   - Saving build output implemented in different way (bug 306222)

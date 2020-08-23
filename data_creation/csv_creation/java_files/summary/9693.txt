@@ -1,0 +1,1 @@
+	/** Constructor specifying name and such information. */

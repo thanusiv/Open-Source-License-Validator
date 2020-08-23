@@ -1,0 +1,2 @@
+we create the graphical objects with no margin, so as to make the sizes
+		// easier to predict / understand,  for this test

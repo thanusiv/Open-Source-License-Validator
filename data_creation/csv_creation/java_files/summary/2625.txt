@@ -1,0 +1,1 @@
+                     *  Get the integer value corresponding to the selected entry.

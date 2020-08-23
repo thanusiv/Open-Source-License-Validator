@@ -1,0 +1,1 @@
+ * For implementation sharing between PDOMCPPClassType and PDOMCPPClassSpecialization

@@ -1,0 +1,1 @@
+Make sure we correctly update the quota usage for truncate.

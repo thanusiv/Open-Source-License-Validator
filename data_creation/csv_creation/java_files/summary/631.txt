@@ -1,0 +1,3 @@
+/**
+	 * Creates a file-set that can be used with this index as long as the caller holds a read-lock.
+	 */

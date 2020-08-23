@@ -1,0 +1,2 @@
+This assures us that the two binders are equivalent, so we expect the instance added to
+        // each to have been added to one set.

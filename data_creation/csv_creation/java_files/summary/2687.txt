@@ -1,0 +1,1 @@
+	/** CPU has no parent  - always returns null */

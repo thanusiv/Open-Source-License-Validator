@@ -1,0 +1,15 @@
+/**
+ * Ticket #14080
+ *
+ * - The bug happen on push event.<br/>
+ * - The changes in the DOM are css related.<br/>
+ * - It seems like when the class attribute is set on push, the textarea revert
+ * to the height defined by the rows attribute.<br/>
+ * - The size is reseted on onStateChange where the size is set to the one from
+ * the state. And it's because, when the user changes the text, at the next poll
+ * the state will confirm the change of the text, but the width and height
+ * didn't change in the state either client or server before the fix.
+ *
+ * @since
+ * @author Vaadin Ltd
+ */

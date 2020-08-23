@@ -1,0 +1,2 @@
+Sweeps and processes the shared cache area to clean up stale and orphaned
+   * files.

@@ -1,0 +1,2 @@
+@param preferences The map where the value is written.
+	     * @param key The key for which a value is managed.

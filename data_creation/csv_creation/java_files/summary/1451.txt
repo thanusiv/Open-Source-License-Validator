@@ -1,0 +1,2 @@
+Returns true if x1 is less than x2, when both values are treated as
+       * unsigned

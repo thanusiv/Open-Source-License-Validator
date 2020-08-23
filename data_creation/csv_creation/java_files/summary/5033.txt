@@ -1,0 +1,1 @@
+   * Write a String as a VInt n, followed by n Bytes as in Text format.

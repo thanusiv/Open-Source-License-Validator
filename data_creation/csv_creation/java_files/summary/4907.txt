@@ -1,0 +1,1 @@
+		// Make sure the Autotools Configuration builder just precedes the Common Builder

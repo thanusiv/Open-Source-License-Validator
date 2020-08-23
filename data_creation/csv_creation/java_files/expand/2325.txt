@@ -1,0 +1,3 @@
+// it seems that thread termination and stream closing is working
+		// without
+		// any help

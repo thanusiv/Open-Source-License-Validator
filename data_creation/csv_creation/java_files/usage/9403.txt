@@ -1,0 +1,2 @@
+@param reservedMemoryMB
+   *          the reserved memory

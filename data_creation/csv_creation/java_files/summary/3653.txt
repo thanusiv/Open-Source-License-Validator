@@ -1,0 +1,3 @@
+Check for EOF condition
+			//
+			// get the SOM directory

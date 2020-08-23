@@ -1,0 +1,1 @@
+	 * @return true if it is a complex number, false otherwise

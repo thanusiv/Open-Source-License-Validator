@@ -1,0 +1,1 @@
+		// Don't allow to create a duplicate breakpoint

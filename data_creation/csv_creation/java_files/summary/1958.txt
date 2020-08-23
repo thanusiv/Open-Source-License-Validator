@@ -1,0 +1,6 @@
+Returns {@link SchedulingPolicy} instance corresponding to the
+   * {@link SchedulingPolicy} passed as a string. The policy can be "fair" for
+   * FairSharePolicy, "fifo" for FifoPolicy, or "drf" for
+   * DominantResourceFairnessPolicy. For a custom
+   * {@link SchedulingPolicy}s in the RM classpath, the policy should be
+   * canonical class name of the {@link SchedulingPolicy}.

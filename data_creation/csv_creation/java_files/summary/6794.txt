@@ -1,0 +1,2 @@
+Adds a double attribute to component. Atributes must be added before any
+     * content is written.

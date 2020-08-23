@@ -1,0 +1,1 @@
+		 * Returns the ordinal (either explicitly or implicitly) assigned to the enumerator.

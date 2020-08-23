@@ -1,0 +1,12 @@
+// There are two types of proposals.  If the previous identifier matches a known attribute name,
+		// then we propose possible values for that attribute.  Otherwise we want to propose the identifiers
+		// that don't already appear in the expansion.
+		//
+		// This is implemented by iterating over the list of known attributes.  If any of the attributes
+		// matches the previous identifier, then we build and return a list of valid proposals for that
+		// attribute.
+		//
+		// Otherwise, for each attribute we build a regular expression that checks to see if that token
+		// appears within the expansion.  If it already appears, then the attribute is ignored.  Otherwise
+		// it is added as an unspecified attribute.  If the loop completes, then we create a list of proposals
+		// for from that unspecified list.

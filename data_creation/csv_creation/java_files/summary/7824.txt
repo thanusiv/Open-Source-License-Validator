@@ -1,0 +1,1 @@
+ * Base class for the events that are sent to various methods in UIProvider.

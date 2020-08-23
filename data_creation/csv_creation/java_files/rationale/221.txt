@@ -1,0 +1,6 @@
+// There are 4 overloads of QObject::disconnect (Qt 4.8.4).  They can be distinguished by examining
+    	// the type of the second parameter.  The number of parameters is used to disambiguate one conflict.
+		// disconnect( , const char *, , )  && 4 params
+    	// disconnect( , QMetaMethod&, , )
+    	// disconnect( , const QObject *, )
+    	// disconnect( , const char * )     && 2 params

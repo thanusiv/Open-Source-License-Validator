@@ -1,0 +1,2 @@
+ This class provides the default way to preserve and re-establish the focus
+	 * over multiple modify sessions.

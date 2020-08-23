@@ -1,0 +1,1 @@
+    // A reporter that does nothing

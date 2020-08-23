@@ -1,0 +1,1 @@
+   * @throws IllegalStateException if multiple binding annotations exist.

@@ -1,0 +1,4 @@
+ /**
+   * Formats a member as concise string, such as {@code java.util.ArrayList.size},
+   * {@code java.util.ArrayList<init>()} or {@code java.util.List.remove()}.
+   */

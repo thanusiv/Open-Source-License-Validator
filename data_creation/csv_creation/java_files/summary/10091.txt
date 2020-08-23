@@ -1,0 +1,1 @@
+    /** Event indicating that the timers view layout has changed */

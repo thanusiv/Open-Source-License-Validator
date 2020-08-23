@@ -1,0 +1,3 @@
+/**
+   * Check that a state tansition is valid and
+   * throw an exception if not

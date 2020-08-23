@@ -1,0 +1,7 @@
+@param x
+	 *            screen X-coordinate
+	 * @param y
+	 *            screen Y-coordinate
+	 * @param absolute
+	 *            if <code>true</code>, coordinates are expected to be
+	 *            absolute screen coordinates

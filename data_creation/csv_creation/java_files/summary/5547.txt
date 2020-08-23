@@ -1,0 +1,3 @@
+{@code MakeTargetTransferDropTargetListener} handles drop of make targets
+ * onto Make Target View. {@link MakeTargetTransfer} is used as the transfer agent and
+ * provides for drag/drop and copy/paste between different eclipse sessions.

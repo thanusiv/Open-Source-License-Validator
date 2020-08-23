@@ -1,0 +1,4 @@
+ Retry ClientProtocol.addBlock() if it throws NotReplicatedYetException.
+     * Because addBlock() also commits the previous block,
+     * it fails if enough IBRs are not processed by NameNode.
+     */

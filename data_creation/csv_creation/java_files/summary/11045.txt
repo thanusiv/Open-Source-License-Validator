@@ -1,0 +1,2 @@
+ The interface for adding and removing listeners for {@link SortEvent
+     * SortEvents}.

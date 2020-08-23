@@ -1,0 +1,2 @@
+// We do not need many handlers, since each thread simulates a handler
+    // by calling name-node methods directly

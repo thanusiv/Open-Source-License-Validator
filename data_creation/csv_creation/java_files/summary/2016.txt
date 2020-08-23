@@ -1,0 +1,2 @@
+Dummy connector to test our Vaadin/GWT RPC bug. In a Vaadin environment with
+ * DevMode enabled, a pure GWT RPC call would throw an exception.

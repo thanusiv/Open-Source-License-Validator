@@ -1,0 +1,2 @@
+Create and return the project specified by the wizard. Identical to calling
+	 * getProject(defaults, true)

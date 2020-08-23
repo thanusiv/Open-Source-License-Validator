@@ -1,0 +1,1 @@
+	 * @param edit whether this is a new template or an existing being edited

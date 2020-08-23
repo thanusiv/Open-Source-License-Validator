@@ -1,0 +1,5 @@
+/**
+	 * Creates a new <code>GenerateActionGroup</code>. The group
+	 * requires that the selection provided by the page's selection provider
+	 * is of type <code>org.eclipse.jface.viewers.IStructuredSelection</code>.
+	 *

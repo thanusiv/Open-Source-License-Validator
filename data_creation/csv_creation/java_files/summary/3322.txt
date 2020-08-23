@@ -1,0 +1,6 @@
+  /**
+   * Close the replica.
+   *
+   * Must be called after there are no more references to the replica in the
+   * cache or elsewhere.
+   */

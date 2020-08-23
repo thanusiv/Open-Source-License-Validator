@@ -1,0 +1,2 @@
+This is a template template parameter as <code> V </code> in 
+ * <code>template&lttemplate&lttypename T&gt class V&gt class CT;</code>

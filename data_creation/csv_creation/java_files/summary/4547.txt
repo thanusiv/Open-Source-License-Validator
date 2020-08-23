@@ -1,0 +1,1 @@
+	 * Returns the edit group to collect the text edits of this modification.

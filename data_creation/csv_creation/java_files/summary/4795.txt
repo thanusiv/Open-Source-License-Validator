@@ -1,0 +1,2 @@
+Returns true if the policy is inherit-only and cannot be changed for
+   * an existing file.

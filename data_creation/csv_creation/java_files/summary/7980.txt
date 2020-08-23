@@ -1,0 +1,5 @@
+/**
+   * Check whether the rolling upgrade marker file exists for each BP storage
+   * root. If it does exist, then the marker file is cleared and more
+   * importantly the layout upgrade is finalized.
+   */

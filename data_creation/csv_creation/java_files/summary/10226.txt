@@ -1,0 +1,1 @@
+   * Converts a nodeId to a form used in the app log file name.

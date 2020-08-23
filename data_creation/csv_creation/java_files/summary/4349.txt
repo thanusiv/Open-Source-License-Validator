@@ -1,0 +1,3 @@
+Rename file statistics.
+   * 
+   * Measure how many rename calls the name-node can handle per second.

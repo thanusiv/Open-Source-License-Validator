@@ -1,0 +1,2 @@
+// This constant can be used to run the test with very large databases.
+	// Try, for example, setting it to Integer.MAX_VALUE * 7L;

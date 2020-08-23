@@ -1,0 +1,1 @@
+	 *  @see ICProjectDescriptionManager#setProjectDescription(IProject, ICProjectDescription, int, IProgressMonitor) */

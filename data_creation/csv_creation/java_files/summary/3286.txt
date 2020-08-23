@@ -1,0 +1,1 @@
+Subclass for GDB >= 7.2.

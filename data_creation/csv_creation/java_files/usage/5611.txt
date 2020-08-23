@@ -1,0 +1,1 @@
+	 * @return the size in characters of a string

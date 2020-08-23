@@ -1,0 +1,3 @@
+/**
+     * Maps connector class -> state property name -> hander method data
+     */

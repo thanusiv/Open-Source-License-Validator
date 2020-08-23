@@ -1,0 +1,2 @@
+@param event
+     *            Contains new coordinates for the VWindow

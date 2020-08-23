@@ -1,0 +1,6 @@
+Defines the core heap usage emulation algorithm. This engine is expected
+   * to perform certain memory intensive operations to consume some
+   * amount of heap. {@link #load(long)} should load the current heap and 
+   * increase the heap usage by the specified value. This core engine can be 
+   * initialized using the {@link #initialize(ResourceCalculatorPlugin, long)} 
+   * API to suit the underlying hardware better.

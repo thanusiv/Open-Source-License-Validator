@@ -1,0 +1,1 @@
+   * Test that domain sockets are closed when the watcher is closed.

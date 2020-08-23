@@ -1,0 +1,4 @@
+Contributors:
+ *     Intel Corporation - initial API and implementation
+ *     Markus Schorn (Wind River Systems)
+ *     Serge Beauchamp (Freescale Semiconductor)

@@ -1,0 +1,3 @@
+ @param constructFullMapAtInit initialize the maps with full mapping when
+   *        true, otherwise initialize the maps to empty. This parameter is
+   *        intended for testing only, its default is false.

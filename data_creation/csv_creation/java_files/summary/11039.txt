@@ -1,0 +1,1 @@
+ * Event describing a change in sorting of a {@link Container}. Fired by

@@ -1,0 +1,2 @@
+// triggerBlockReport returns before the block report is
+    // actually sent.  Wait for it to be sent here.

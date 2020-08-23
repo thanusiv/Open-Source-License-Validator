@@ -1,0 +1,2 @@
+This method should be used only by Client object as only one per client
+     * should exists. Request an instance via client.getContextMenu();

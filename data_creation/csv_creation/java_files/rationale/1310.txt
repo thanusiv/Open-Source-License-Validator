@@ -1,0 +1,3 @@
+the third element in each entry , the path, MUST be the same in each entry.
+   * A client reading the addresses of an endpoint is free to pick any
+   * of the set, so they must be the same.

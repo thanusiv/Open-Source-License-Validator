@@ -1,0 +1,4 @@
+Base class for collecting operation statistics.
+   * 
+   * Overload this class in order to run statistics for a 
+   * specific name-node operation.

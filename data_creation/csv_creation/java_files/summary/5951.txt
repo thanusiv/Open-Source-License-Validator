@@ -1,0 +1,1 @@
+   * Return a subset configuration (so getParent() can be used.)

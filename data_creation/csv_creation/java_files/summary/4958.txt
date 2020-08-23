@@ -1,0 +1,1 @@
+							// Try resolving the path to a real io.File

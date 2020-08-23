@@ -1,0 +1,5 @@
+/**
+ * CLocationTab implements common features for "Source Location" and "Output Location"
+ * tabs in project preferences.
+ *
+ */

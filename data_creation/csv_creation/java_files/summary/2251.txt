@@ -1,0 +1,2 @@
+Visit an eager singleton or single instance. This scope strategy is found on both module and
+   * injector bindings.

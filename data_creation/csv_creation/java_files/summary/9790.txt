@@ -1,0 +1,2 @@
+ The Function interface is used for passing method pointers that can be
+   * invoked asynchronously at a later point.

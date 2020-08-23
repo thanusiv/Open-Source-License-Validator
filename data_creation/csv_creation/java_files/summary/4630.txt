@@ -1,0 +1,1 @@
+         * Sets the selection to operate on.

@@ -1,0 +1,2 @@
+// compute the total amount of pending preemptions (to be discounted
+        // from current request)

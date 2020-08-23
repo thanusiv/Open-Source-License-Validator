@@ -1,0 +1,2 @@
+// Get the size of each subqueue, the index corresponding to the priority
+  // level.

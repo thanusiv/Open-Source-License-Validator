@@ -1,0 +1,3 @@
+List of buckets that have been modified in the current scope.
+		 * When the scope is closed these buckets are popped, returning the 
+		 * symbol table to the state it was in before the scope was opened.

@@ -1,0 +1,3 @@
+Sets the time (in ms) that should elapse before a tooltip will be shown,
+     * in the situation when a tooltip has very recently been shown (within
+     * {@link #getQuickOpenDelay()} ms).

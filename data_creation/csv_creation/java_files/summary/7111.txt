@@ -1,0 +1,4 @@
+/*
+     * The comments for this method will use [ ] to indicate the bounds of rangeToRemove and ( ) to
+     * indicate the bounds of ranges in the range map.
+     */

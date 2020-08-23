@@ -1,0 +1,1 @@
+   * Returns the active standard Bloom filter in <i>this</i> dynamic Bloom filter.

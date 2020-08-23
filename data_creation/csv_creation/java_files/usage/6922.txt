@@ -1,0 +1,1 @@
+	 * @param providerClass - class to find Language Settings Provider image.

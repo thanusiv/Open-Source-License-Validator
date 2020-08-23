@@ -1,0 +1,1 @@
+	 * Get the file content types supported by this project

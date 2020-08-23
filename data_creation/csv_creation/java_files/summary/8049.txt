@@ -1,0 +1,9 @@
+ /**
+   * Load one storage directory. Recover from previous transitions if required.
+   *
+   * @param nsInfo namespace information
+   * @param dataDir the root path of the storage directory
+   * @param startOpt startup option
+   * @return the StorageDirectory successfully loaded.
+   * @throws IOException
+   */

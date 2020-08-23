@@ -1,0 +1,6 @@
+A hierarchical representation of the time spent running a named block of
+     * code.
+     * <p>
+     * <b>Warning!</b> This class is most likely to change in the future and is
+     * therefore defined in this class in an internal package instead of
+     * Profiler where it might seem more logical.

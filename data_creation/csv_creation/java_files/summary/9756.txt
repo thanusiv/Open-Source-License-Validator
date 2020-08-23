@@ -1,0 +1,1 @@
+		// Set the index of selection in the combo box

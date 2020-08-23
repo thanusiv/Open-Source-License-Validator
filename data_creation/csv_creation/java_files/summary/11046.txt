@@ -1,0 +1,2 @@
+ Adds a sort order change listener that gets notified when the sort
+         * order changes.

@@ -1,0 +1,2 @@
+// Look for Automake conditionals which optionally
+	// activate or disable a Makefile rule command.

@@ -1,0 +1,2 @@
+@param cellReference
+     *            The cell to generate a style for

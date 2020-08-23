@@ -1,0 +1,2 @@
+Adds an error if there is a misplaced annotations on {@code type}. Scoping
+   * annotations are not allowed on abstract classes or interfaces.

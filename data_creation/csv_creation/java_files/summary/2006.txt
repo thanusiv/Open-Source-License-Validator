@@ -1,0 +1,1 @@
+Set the checkbox selection and enablement of the other controls as specified.

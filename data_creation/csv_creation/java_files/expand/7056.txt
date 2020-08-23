@@ -1,0 +1,3 @@
+// The list of alarms has changed, which means that the parent 
+            // node needs to refresh its contents, which in turn will re-fetch the
+            // elements from this node.

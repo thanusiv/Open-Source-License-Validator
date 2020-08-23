@@ -1,0 +1,6 @@
+Contributors:
+ *     Markus Schorn - initial API and implementation
+ *     Andrew Ferguson (Symbian)
+ *     Bryan Wilkinson (QNX)
+ *     Sergey Prigogin (Google)
+ *     Jens Elmenthaler - http://bugs.eclipse.org/173458 (camel case completion)

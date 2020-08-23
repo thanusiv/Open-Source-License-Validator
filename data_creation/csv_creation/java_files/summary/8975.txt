@@ -1,0 +1,3 @@
+/** 
+ * Performs no reduction, writing all input values directly to the output. 
+ */

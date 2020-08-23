@@ -1,0 +1,1 @@
+     * Construct the Version object by reading from the input stream.

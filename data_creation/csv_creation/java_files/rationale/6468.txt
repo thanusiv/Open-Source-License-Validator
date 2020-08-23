@@ -1,0 +1,2 @@
+// If the cursor is in whitespace, then the current identifier is null.  Scan backward to find
+			// the start of this whitespace.

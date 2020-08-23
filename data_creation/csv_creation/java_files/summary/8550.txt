@@ -1,0 +1,6 @@
+/**
+ * Base class for node writers. This class contains methods and string constants
+ * used by multiple node writers.
+ * 
+ * @author Emanuel Graf IFS
+ */

@@ -1,0 +1,6 @@
+
+/**
+ * The embedded UI serves two pages at:
+ * <br>http://localhost:8888/my and
+ * <br>http://localhost:8888/my/anythingYouWant
+ */

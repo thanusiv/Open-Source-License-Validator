@@ -1,0 +1,1 @@
+	 * @return UserEntryInfo[] (never null)

@@ -1,0 +1,5 @@
+/**
+ * This class tests cacheArchive option of streaming
+ * The test case creates 2 archive files, ships it with hadoop
+ * streaming and compares the output with expected output
+ */

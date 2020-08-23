@@ -1,0 +1,3 @@
+ @param userOriginated
+     *            <code>true</code> if event is a result of user interaction,
+     *            <code>false</code> if from API call

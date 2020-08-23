@@ -1,0 +1,2 @@
+ @return the style name to add to this cell, or {@code null} to not set
+     *         any style

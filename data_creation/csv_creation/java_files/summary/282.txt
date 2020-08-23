@@ -1,0 +1,2 @@
+Abstract class mapping between {@link ComponentConnector} instances and their
+ * instances.

@@ -1,0 +1,1 @@
+	 * @param image the image to display when presenting the context information

@@ -1,0 +1,3 @@
+Don't shut down until the listenInPoolThread task has been accepted to
+     * run. We want to see what happens when it's interrupted, not when it's
+     * rejected.

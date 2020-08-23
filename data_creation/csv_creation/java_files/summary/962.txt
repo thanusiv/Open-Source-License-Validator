@@ -1,0 +1,4 @@
+/**
+ * Counts words in text encoded with UTF8 received from the network every second. This example also
+ * shows how to use lazily instantiated singleton instances for Accumulator and Broadcast so that
+ * they can be registered on driver failures.

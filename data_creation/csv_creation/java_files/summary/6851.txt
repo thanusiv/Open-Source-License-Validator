@@ -1,0 +1,1 @@
+      // Get UserInfo from first user to calculate AM Resource Limit per user.

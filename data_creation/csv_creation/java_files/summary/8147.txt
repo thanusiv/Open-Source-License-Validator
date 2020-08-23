@@ -1,0 +1,2 @@
+ * Compression strategy to limit match distances to one
+     * (run-length encoding).

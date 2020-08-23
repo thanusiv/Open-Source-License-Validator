@@ -1,0 +1,2 @@
+@param type Storage type of the storage space quota to be set.
+   *             To set storagespace/namespace quota, type must be null.

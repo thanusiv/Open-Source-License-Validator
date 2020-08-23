@@ -1,0 +1,1 @@
+Construct the command line for running the debug script

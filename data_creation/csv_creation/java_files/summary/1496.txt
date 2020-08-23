@@ -1,0 +1,2 @@
+A simple interface that is used to select node's from the index based on specific
+	 * criteria.

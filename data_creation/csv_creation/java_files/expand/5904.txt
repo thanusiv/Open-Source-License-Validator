@@ -1,0 +1,12 @@
+<p>{@link TotalHeapUsageEmulatorPlugin} emulates the heap usage in steps. 
+ * The frequency of emulation can be configured via 
+ * {@link #HEAP_EMULATION_PROGRESS_INTERVAL}.
+ * Heap usage values are matched via emulation only at specific interval 
+ * boundaries.
+ * </p>
+ *  
+ * {@link TotalHeapUsageEmulatorPlugin} is a wrapper program for managing 
+ * the heap usage emulation feature. It internally uses an emulation algorithm 
+ * (called as core and described using {@link HeapUsageEmulatorCore}) for 
+ * performing the actual emulation. Multiple calls to this core engine should 
+ * use up some amount of heap.

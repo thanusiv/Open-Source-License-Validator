@@ -1,0 +1,1 @@
+@param snapshotName Name of the snapshot to be deleted

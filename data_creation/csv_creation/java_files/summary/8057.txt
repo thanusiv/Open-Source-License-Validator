@@ -1,0 +1,6 @@
+ /**
+   * Format a block pool slice storage. 
+   * @param bpSdir the block pool storage
+   * @param nsInfo the name space info
+   * @throws IOException Signals that an I/O exception has occurred.
+   */

@@ -1,0 +1,1 @@
+	 * @return the type of the marker which would be associated to the problem.

@@ -1,0 +1,6 @@
+//	private final Category fExplicitConstructorArgumentsCategory= new Category(
+//	    	DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_ARGUMENTS_IN_EXPLICIT_CONSTRUCTOR_CALL,
+//	    	"class Example extends AnotherClass {Example() {super(100, 200, 300, 400, 500, 600, 700);}}", //$NON-NLS-1$
+//	    	FormatterMessages.LineWrappingTabPage_explicit_constructor_invocations
+//    		FormatterMessages.LineWrappingTabPage_explicit_constructor_invocations_lowercase
+//		);

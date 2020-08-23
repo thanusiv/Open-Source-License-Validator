@@ -1,0 +1,14 @@
+/**
+   * Analyze and load storage directories. Recover from previous transitions if
+   * required.
+   *
+   * The block pool storages are either all analyzed or none of them is loaded.
+   * Therefore, a failure on loading any block pool storage results a faulty
+   * data volume.
+   *
+   * @param nsInfo namespace information
+   * @param dataDirs storage directories of block pool
+   * @param startOpt startup option
+   * @return an array of loaded block pool directories.
+   * @throws IOException on error
+   */

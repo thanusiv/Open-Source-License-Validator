@@ -1,0 +1,1 @@
+Main method of the benchmark.

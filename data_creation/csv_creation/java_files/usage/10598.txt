@@ -1,0 +1,2 @@
+ @param expires UNIX timestamp that indicates the expire date of the
+   *                cookie. It has no effect if its value &lt; 0.

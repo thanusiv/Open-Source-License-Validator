@@ -1,0 +1,1 @@
+			// special case: for the "process" thread, draw an enclosing circle

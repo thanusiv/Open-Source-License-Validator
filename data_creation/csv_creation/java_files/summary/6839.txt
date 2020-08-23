@@ -1,0 +1,1 @@
+   * Remove the registered object for a given identity.

@@ -1,0 +1,2 @@
+@throws QuotaExceededException if namespace, storagespace or storage type
+   * space quota is violated after applying the deltas.

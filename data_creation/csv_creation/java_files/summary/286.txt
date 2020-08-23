@@ -1,0 +1,8 @@
+/**
+     * Make sure the code for a (deferred or lazy) component connector type has
+     * been loaded, triggering the load and waiting for its completion if
+     * necessary.
+     * 
+     * @param classType
+     *            component connector class
+     */

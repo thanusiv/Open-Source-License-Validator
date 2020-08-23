@@ -1,0 +1,2 @@
+// mac FF gets bad width due GWT popups overflow hacks,
+                // re-determine width

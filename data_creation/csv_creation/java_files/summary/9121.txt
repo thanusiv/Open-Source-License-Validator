@@ -1,0 +1,2 @@
+// Index labels, adding metadata to the label column.
+    // Fit on whole dataset to include all labels in index.

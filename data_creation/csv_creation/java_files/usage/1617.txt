@@ -1,0 +1,2 @@
+@param name this node's name (can be null, must not contain {@link #PATH_SEPARATOR})
+   * @param location this node's location

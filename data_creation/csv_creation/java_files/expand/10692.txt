@@ -1,0 +1,8 @@
+ * This Iterator wraps another iterator and gives it a bug found
+   * in JDK6.
+   *
+   * <p>This bug is this: if you create an iterator from a TreeSet
+   * and call next() on that iterator when hasNext() is false, so
+   * that next() throws a NoSuchElementException, then subsequent
+   * calls to remove() will incorrectly throw an IllegalStateException,
+   * instead of removing the last element returned.

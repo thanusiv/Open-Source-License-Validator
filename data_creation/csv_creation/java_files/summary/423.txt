@@ -1,0 +1,5 @@
+/**
+	 * Get the expression that represents the array
+	 * 
+	 * @return <code>IASTExpression</code> that represents the array.
+	 */

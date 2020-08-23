@@ -1,0 +1,2 @@
+* Resets the foldings structure according to the folding
+	 * preferences.

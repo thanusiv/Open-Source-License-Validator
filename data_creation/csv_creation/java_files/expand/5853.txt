@@ -1,0 +1,3 @@
+// getBlockLocations() should not need the write lock, since we just created
+      // the file (and thus its access time is already within the 100-second
+      // accesstime precision configured above).

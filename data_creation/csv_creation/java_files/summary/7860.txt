@@ -1,0 +1,1 @@
+      //its a container.service URI. Strip the container

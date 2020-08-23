@@ -1,0 +1,1 @@
+   * @return string identity, or null if no identity could be made.

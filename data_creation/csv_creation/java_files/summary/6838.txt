@@ -1,0 +1,3 @@
+Registers an object as a handler for a given identity.
+   * Note: will prevent handler from being GC'd, object should unregister itself
+   *  when done

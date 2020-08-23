@@ -1,0 +1,2 @@
+Helper function to generate a {@link Path} for a file that is unique for
+   * the task within the job output directory.

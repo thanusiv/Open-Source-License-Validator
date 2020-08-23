@@ -1,0 +1,1 @@
+     * Event indicating a change in the symbols of certain modules of the symbol context.

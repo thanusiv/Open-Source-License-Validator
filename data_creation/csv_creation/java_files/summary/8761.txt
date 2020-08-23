@@ -1,0 +1,8 @@
+/**
+	 * Decode given string representation of a non-negative integer. A
+	 * hexadecimal encoded integer is expected to start with <code>0x</code>.
+	 * 
+	 * @param string
+	 *            decimal or hexadecimal representation of an non-negative integer
+	 * @return address value as <code>BigInteger</code>
+	 */

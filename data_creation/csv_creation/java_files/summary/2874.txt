@@ -1,0 +1,3 @@
+Write a file and read it in, validating the result. Optional flags control
+   * whether file overwrite operations should be enabled, and whether the
+   * file should be deleted afterwards.

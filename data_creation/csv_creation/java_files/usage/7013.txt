@@ -1,0 +1,2 @@
+@param name - name of console to appear in the list of consoles in context menu
+	 *    in the Console view.

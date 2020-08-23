@@ -1,0 +1,1 @@
+	// The type/name section ends right before the first attribute.

@@ -1,0 +1,1 @@
+	 * Characters known to be used as line end comments.

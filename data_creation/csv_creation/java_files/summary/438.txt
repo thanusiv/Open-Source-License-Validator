@@ -1,0 +1,7 @@
+/**
+ * Simple container filter checking whether an item property value is null.
+ * 
+ * This filter also directly supports in-memory filtering.
+ * 
+ * @since 6.6
+ */

@@ -1,0 +1,4 @@
+// Use group entry (unnamed or named) with mask from permission bits
+          // applied if user is a member and entry grants access.  If user is a
+          // member of multiple groups that have entries that grant access, then
+          // it doesn't matter which is chosen, so exit early after first match.

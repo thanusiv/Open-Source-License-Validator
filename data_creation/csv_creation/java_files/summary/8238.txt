@@ -1,0 +1,5 @@
+/**
+ * Some microbenchmarks for the {@link Objects.ToStringHelper} class.
+ *
+ * @author Osvaldo Doederlein
+ */

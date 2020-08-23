@@ -1,0 +1,2 @@
+@param nr The threshold for the maximum number of keys to record in a
+   * dynamic Bloom filter row.

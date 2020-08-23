@@ -1,0 +1,1 @@
+ * Does the setup of the linked mode from a {@link LinkedProposalModel}

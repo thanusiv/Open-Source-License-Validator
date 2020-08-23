@@ -1,0 +1,1 @@
+@return an array of sort orders describing how this property is sorted

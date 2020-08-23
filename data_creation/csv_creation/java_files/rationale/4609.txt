@@ -1,0 +1,3 @@
+// If there is no block allocated for the file,
+        // return one with the magic entry that matches what previous
+        // hdfs versions return.

@@ -1,0 +1,1 @@
+	/** Minimum containing object size to allow thread to draw itself. */

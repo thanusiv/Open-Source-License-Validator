@@ -1,0 +1,2 @@
+Create a service record with no ID, description or registration time.
+   * Endpoint lists are set to empty lists.

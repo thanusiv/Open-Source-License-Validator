@@ -1,0 +1,2 @@
+@return array of DatanodeDescriptor instances chosen as target
+   * and sorted as a pipeline.

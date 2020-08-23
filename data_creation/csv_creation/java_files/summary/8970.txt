@@ -1,0 +1,2 @@
+ Job that calls the <code>QtProjectFileModifier</code> after changes to resources found in Qt Projects in order to update their
+ * <code>SOURCES</code> variable.

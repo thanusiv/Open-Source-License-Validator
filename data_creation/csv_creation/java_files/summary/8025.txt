@@ -1,0 +1,9 @@
+ /**
+   * Get a target subdirectory under trash/ for a given block file that is being
+   * deleted.
+   *
+   * The subdirectory structure under trash/ mirrors that under current/ to keep
+   * implicit memory of where the files are to be restored (if necessary).
+   *
+   * @return the trash directory for a given block file that is being deleted.
+   */

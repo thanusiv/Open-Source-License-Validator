@@ -1,0 +1,1 @@
+ * Thrown when a symbolic link is encountered in a path.

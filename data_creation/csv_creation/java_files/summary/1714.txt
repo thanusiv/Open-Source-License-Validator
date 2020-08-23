@@ -1,0 +1,2 @@
+Visits the children of the class type without using the cache. This method is
+	 * used to populate the cache.

@@ -1,0 +1,1 @@
+Funnels for common types. All implementations are serializable.

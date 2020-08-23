@@ -1,0 +1,3 @@
+/**
+	 * IResource from 10-20
+	 */

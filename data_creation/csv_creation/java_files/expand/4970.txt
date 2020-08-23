@@ -1,0 +1,4 @@
+A version number consists of a major version and a minor version. The
+   * suggested usage of major and minor version number is to increment major
+   * version number when the new storage format is not backward compatible, and
+   * increment the minor version otherwise.

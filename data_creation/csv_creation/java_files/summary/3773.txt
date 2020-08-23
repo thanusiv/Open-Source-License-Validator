@@ -1,0 +1,2 @@
+Extension to the VM Update policy which allows the policy to control how to 
+ * update missing property values in a dirty cache entry.

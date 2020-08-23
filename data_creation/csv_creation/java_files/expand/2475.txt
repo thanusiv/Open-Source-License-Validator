@@ -1,0 +1,3 @@
+Consists of two data structures, a hash table for fast lookup
+ * of bindings given their names, and a stack used to keep track
+ * of scopes.

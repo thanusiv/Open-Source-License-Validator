@@ -1,0 +1,2 @@
+Note: for testing purpose, step 1 may initial the maps with full mapping
+ *   when using constructor

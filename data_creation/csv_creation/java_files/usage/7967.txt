@@ -1,0 +1,2 @@
+ @param isCleanup
+   *          true if the task is cleanup attempt, false otherwise.

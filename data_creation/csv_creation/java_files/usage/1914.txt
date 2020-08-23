@@ -1,0 +1,3 @@
+@param connectionPool
+     *            the JDBCConnectionPool to use to open connections to the SQL
+     *            database.

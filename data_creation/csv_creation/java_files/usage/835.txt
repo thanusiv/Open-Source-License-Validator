@@ -1,0 +1,1 @@
+@param defaultValue the {@link CompressionCodec} to return if not set

@@ -1,0 +1,1 @@
+      // We collect these stats about open files to report with default options

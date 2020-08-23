@@ -1,0 +1,2 @@
+@param lastSeqNo the previous sequence number received - we expect the
+   *                  current sequence number to be larger by 1.

@@ -1,0 +1,1 @@
+Read in "length" bytes, convert to an ascii string

@@ -1,0 +1,1 @@
+	 * Evaluates the text flags for a element. Can be overwritten by super classes.

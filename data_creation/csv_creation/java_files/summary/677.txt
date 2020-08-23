@@ -1,0 +1,7 @@
+/**
+ * Methods for working with fixed-size uncompressed bitsets.
+ *
+ * We assume that the bitset data is word-aligned (that is, a multiple of 8 bytes in length).
+ *
+ * Each bit occupies exactly one bit of storage.
+ */

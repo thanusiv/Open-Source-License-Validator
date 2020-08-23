@@ -1,0 +1,1 @@
+// True if the "positive" range set is empty or bounded above.

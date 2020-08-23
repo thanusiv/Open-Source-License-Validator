@@ -1,0 +1,3 @@
+/**
+         * Map from column id set to cell state for merged state.
+         */

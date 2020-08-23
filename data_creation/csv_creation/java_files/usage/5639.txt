@@ -1,0 +1,1 @@
+	 * @return <code>true</code> if <code>document</code> was modified, <code>false</code> otherwise

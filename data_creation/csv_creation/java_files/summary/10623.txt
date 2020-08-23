@@ -1,0 +1,1 @@
+          // advance random state to that position

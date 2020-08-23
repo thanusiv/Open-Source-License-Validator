@@ -1,0 +1,3 @@
+@return {@link PaintStatus} - ready to paint or already cached on the
+     *         client (also used for sub paintables that are painted later
+     *         separately)

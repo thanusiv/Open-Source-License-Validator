@@ -1,0 +1,1 @@
+@noreference This class is not intended to be referenced by clients.

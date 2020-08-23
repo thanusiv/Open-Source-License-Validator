@@ -1,0 +1,3 @@
+// Now that we added the launch in our list, we have already
+					// received the real launchChanged event, and did not know it was part of our list
+					// So, fake another event now.

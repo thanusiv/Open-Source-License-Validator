@@ -1,0 +1,1 @@
+	 * Returns the marker type associated to this problem, if it gets persisted into a marker.

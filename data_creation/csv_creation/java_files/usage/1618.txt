@@ -1,0 +1,4 @@
+@param name this node's name (can be null, must not contain {@link #PATH_SEPARATOR})
+   * @param location this node's location 
+   * @param parent this node's parent node
+   * @param level this node's level in the tree

@@ -1,0 +1,5 @@
+ Returns the "change" state for this set of macros.
+	 * The "change" state represents whether the macros were changed or not.
+	 * This state is not reset when the serialize() method is called
+	 * Users can use this state to monitor whether the macros were changed or not.
+	 * The "change" state can be reset only by calling the setChanged(false) method

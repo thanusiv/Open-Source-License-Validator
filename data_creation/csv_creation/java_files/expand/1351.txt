@@ -1,0 +1,2 @@
+// previous layout pass may have changed the position already, needs to
+        // be reset before calculating which positioning should be used

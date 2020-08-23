@@ -1,0 +1,4 @@
+/**
+	 * Returns an array of all files that are part of this index. If a file is parsed in two
+	 * linkages or in multiple fragments, only one of the files will be returned.
+	 */

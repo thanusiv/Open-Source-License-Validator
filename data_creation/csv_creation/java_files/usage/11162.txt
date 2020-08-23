@@ -1,0 +1,2 @@
+@return action URL or null if called outside a MimeRequest (outside a
+     *         UIDL request or similar)

@@ -1,0 +1,1 @@
+	 * Return the target node of this modification.

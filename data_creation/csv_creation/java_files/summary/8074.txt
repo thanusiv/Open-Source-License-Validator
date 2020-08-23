@@ -1,0 +1,9 @@
+/**
+   * Cleanup the detachDir.
+   * 
+   * If the directory is not empty report an error; Otherwise remove the
+   * directory.
+   * 
+   * @param detachDir detach directory
+   * @throws IOException if the directory is not empty or it can not be removed
+   */

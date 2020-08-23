@@ -1,0 +1,1 @@
+   * @throws SnapshotException if there are snapshots in the directory.

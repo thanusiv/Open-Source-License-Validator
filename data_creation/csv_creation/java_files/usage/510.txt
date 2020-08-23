@@ -1,0 +1,18 @@
+Functions:
+	 *   - replace "/" or "\" by system's separator
+	 *   - replace multiple separators by single one
+	 *   - skip "/./" 
+	 *   - skip quotes
+	 * 
+	 * Note: "/../" is left untouched on purpose in order to work properly under
+	 * circumstances such as this:
+	 * 
+	 * header file at include_1/vector:
+	 *   // Is supposed to find the STL vector header:
+	 *   #include <ext/../vector>
+	 *   
+	 * GCC include tree 
+	 *   include_gcc/ext/...
+	 *              /vector
+	 * 
+	 * (ls include_1/ext/../vector does not work either).

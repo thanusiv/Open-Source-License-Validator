@@ -1,0 +1,5 @@
+/**
+ * A simple logger to handle the task-specific user logs.
+ * This class uses the system property <code>hadoop.log.dir</code>.
+ * 
+ */

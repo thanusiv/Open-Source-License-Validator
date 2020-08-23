@@ -1,0 +1,2 @@
+@throws DebugException
+	 *             if unable to retrieve the specified memory

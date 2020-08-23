@@ -1,0 +1,2 @@
+@param path path to normalize.
+   * @return the normalised path

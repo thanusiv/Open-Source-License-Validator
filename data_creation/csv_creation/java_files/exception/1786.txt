@@ -1,0 +1,5 @@
+However, knowing only the column type may not be sufficient to handle the data properly.
+ * For instance, a double column with values 0.0, 1.0, 2.0, ... may represent some label indices,
+ * which cannot be treated as numeric values in ML algorithms, and, for another instance, we may
+ * want to know the names and types of features stored in a vector column.
+ * ML attributes are used to provide additional information to describe columns in a dataset.

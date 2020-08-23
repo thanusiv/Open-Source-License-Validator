@@ -1,0 +1,3 @@
+Returns a funnel that extracts the characters from a {@code CharSequence}, a character at a
+   * time, without performing any encoding. If you need to use a specific encoding, use
+   * {@link Funnels#stringFunnel(Charset)} instead.

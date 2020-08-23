@@ -1,0 +1,4 @@
+/**
+ * Exit status - The values associated with each exit status is directly mapped
+ * to the process's exit code in command line.
+ */

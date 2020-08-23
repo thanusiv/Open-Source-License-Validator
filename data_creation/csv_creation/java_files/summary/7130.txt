@@ -1,0 +1,1 @@
+    // Now rewrite the checksum file with the last byte missing

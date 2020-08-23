@@ -1,0 +1,6 @@
+Contributors:
+ *     John Camelon (IBM) - Initial API and implementation
+ *     Sergey Prigogin (Google)
+ *     Mike Kucera (IBM)
+ *     Markus Schorn (Wind River Systems)
+ *     Sergey Prigogin (Google)

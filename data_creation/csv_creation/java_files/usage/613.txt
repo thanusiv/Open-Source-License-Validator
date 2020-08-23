@@ -1,0 +1,4 @@
+@param include
+	 * @return the file included or {@code null}.
+	 * @throws CoreException
+	 * @since 4.0

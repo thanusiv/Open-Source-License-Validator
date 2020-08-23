@@ -1,0 +1,4 @@
+/**
+	 * Constant to search for all occurrences of a binding. This includes declarations, definitions
+	 * and references.
+	 */

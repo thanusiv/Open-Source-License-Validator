@@ -1,0 +1,1 @@
+@return path to the task's temporary output file

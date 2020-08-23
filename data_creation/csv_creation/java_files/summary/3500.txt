@@ -1,0 +1,3 @@
+// Superuser "client" should be able to get a delegation token
+  // for user "client2" when authenticated using Kerberos
+  // The request shouldn't work when authenticated using DelegationTokens

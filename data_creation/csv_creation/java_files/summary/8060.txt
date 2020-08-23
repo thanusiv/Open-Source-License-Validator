@@ -1,0 +1,4 @@
+ /**
+   * Set layoutVersion, namespaceID and blockpoolID into block pool storage
+   * VERSION file
+   */

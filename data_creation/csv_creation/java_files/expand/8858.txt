@@ -1,0 +1,3 @@
+   // Original set of values. So we can see what has really changed on the save and
+    // perform appropriate change operations. We only really want to operate on changed
+    // values, to avoid generating churn.

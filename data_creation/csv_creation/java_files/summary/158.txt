@@ -1,0 +1,5 @@
+/**
+ * A label in the {@link SimpleWeekToolbar}
+ * 
+ * @since 7.1
+ */

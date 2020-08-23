@@ -1,0 +1,3 @@
+/**
+	 * Pop-up menu: id of the source sub menu (value <code>org.eclipse.cdt.ui.source.menu</code>).
+	 */

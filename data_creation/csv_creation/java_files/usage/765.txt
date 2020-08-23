@@ -1,0 +1,2 @@
+@param isExecutable makes shell path if the first 
+   * argument is executable

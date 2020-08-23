@@ -1,0 +1,1 @@
+	 * Computes and returns the indentation for a block comment line.

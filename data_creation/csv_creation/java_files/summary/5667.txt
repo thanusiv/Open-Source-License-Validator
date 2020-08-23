@@ -1,0 +1,2 @@
+Returns whether spaces should be used exclusively for indentation, depending on the editor and
+	 * formatter preferences.

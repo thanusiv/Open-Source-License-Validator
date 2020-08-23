@@ -1,0 +1,2 @@
+Create a job info object where job information will be stored
+     * after a parse

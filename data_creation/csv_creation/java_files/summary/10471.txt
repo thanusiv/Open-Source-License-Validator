@@ -1,0 +1,2 @@
+  // Request re-evaluation of property "org.eclipse.cdt.debug.ui.isReverseDebuggingEnabled" to update 
+                // visibility of reverse stepping commands.

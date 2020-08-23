@@ -1,0 +1,3 @@
+Making sure directory "4" and "2" becomes non-full so that they are
+     * reused for future getRelativePathForLocalization() calls in the order
+     * they are freed.

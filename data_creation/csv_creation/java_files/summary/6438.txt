@@ -1,0 +1,1 @@
+	// Private method to search for executable names on PATH

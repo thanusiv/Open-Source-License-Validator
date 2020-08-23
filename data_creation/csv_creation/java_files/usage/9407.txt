@@ -1,0 +1,2 @@
+@param allocatedVCores
+   *          the allocated vcores

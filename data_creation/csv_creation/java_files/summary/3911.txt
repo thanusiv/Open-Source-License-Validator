@@ -1,0 +1,2 @@
+Returns the size of the initializer list, including trivial initializers. This size may
+	 * be larger than the length of the array returned by {@link #getInitializers()}.

@@ -1,0 +1,2 @@
+ * Searches for the binding of a name. The name may be originated by
+	 * an AST or by a search in an index. May return {@code null}.

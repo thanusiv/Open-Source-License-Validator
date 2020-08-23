@@ -1,0 +1,10 @@
+<ol>
+   * <li>If <SD>/current/<bpid>/previous exists then delete it</li>
+   * <li>Rename <SD>/current/<bpid>/current to
+   * <SD>/current/bpid/current/previous.tmp</li>
+   * <li>Create new <SD>current/<bpid>/current directory</li>
+   * <ol>
+   * <li>Hard links for block files are created from previous.tmp to current</li>
+   * <li>Save new version file in current directory</li>
+   * </ol>
+   * <li>Rename previous.tmp to previous</li> </ol>

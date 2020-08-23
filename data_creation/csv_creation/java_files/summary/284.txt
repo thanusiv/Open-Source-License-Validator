@@ -1,0 +1,8 @@
+/**
+     * Return the connector class to use for a fully qualified server side
+     * component class name.
+     * 
+     * @param fullyqualifiedName
+     *            fully qualified name of the server side component class
+     * @return component connector class to use
+     */

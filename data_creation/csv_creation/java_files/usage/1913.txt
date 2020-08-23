@@ -1,0 +1,3 @@
+@param primaryKeyColumns
+     *            The primary key columns. Read-only mode is forced if this
+     *            parameter is null or empty.

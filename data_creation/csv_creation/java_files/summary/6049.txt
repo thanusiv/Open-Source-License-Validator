@@ -1,0 +1,2 @@
+ Wait a little to give us time to call addListener before the future's
+       * value is set in addition to the call we'll make after then.

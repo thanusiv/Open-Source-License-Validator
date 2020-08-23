@@ -1,0 +1,2 @@
+If we're in the column value, modify the register data.
+         * Otherwise, call the super-class to edit the watch expression.

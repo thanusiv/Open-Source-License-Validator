@@ -1,0 +1,1 @@
+         * @return the total time spent, in milliseconds

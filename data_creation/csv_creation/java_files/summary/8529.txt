@@ -1,0 +1,1 @@
+          // no byte is available because stream was closed

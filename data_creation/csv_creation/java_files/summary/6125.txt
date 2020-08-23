@@ -1,0 +1,4 @@
+For assistive tooltips to work correctly we must have the tooltip visible
+     * and attached to the DOM well in advance. For this reason both isShowing
+     * and isVisible return false positives. We can't override either of them as
+     * external code may depend on this behavior.

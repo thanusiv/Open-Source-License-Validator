@@ -1,0 +1,1 @@
+@return the number of valid replicas of the current block

@@ -1,0 +1,3 @@
+ Return the final X-coordinate of the tooltip based on cursor
+                 * position, size of the tooltip, size of the page and necessary
+                 * margins.

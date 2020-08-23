@@ -1,0 +1,1 @@
+Create the left side of the modify dialog. This is meant to be implemented by subclasses.

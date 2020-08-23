@@ -1,0 +1,2 @@
+ This will initialize the core and check if the core can emulate the 
+     * desired target on the underlying hardware.

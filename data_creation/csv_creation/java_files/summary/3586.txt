@@ -1,0 +1,2 @@
+Indicates if the page currently aims to create
+	 * a breakpoint that already exits.

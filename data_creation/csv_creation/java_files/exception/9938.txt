@@ -1,0 +1,1 @@
+	 * @throws CoreException if the Project doesn't exist, or the storage couldn't be found

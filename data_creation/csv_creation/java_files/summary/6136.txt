@@ -1,0 +1,1 @@
+            // We can ignore move event if it's handled by move or over already

@@ -1,0 +1,1 @@
+        // If the command send is one of ours, check if it is one that is missing a secondary prompt

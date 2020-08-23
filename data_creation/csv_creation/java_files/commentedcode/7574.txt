@@ -1,0 +1,7 @@
+//	private MultiStatus createMultiStatus(int severity){
+//		return new MultiStatus(
+//				ManagedBuilderCorePlugin.getUniqueIdentifier(),
+//				severity,
+//				new String(),
+//				null);
+//	}

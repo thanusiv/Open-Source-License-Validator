@@ -1,0 +1,2 @@
+@param interruptCheckPeriodMs interrupt check period passed to
+   *     DomainSocketWatcher

@@ -1,0 +1,1 @@
+   * @return Returns whether the deletion was successful or not.

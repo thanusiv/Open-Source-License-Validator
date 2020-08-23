@@ -1,0 +1,4 @@
+/**
+	 * Returns the operand of this expression. In c++ the operand can be a braced initializer list.
+	 * @since 5.2
+	 */

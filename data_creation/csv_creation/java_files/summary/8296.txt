@@ -1,0 +1,2 @@
+Create a ResourceNavigatorRenameAction and use the tree of the supplied viewer
+	 * for editing.

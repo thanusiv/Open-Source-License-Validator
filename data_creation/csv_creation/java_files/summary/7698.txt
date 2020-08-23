@@ -1,0 +1,1 @@
+	 * Sets the method to be const or not.

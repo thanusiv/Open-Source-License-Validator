@@ -1,0 +1,2 @@
+ // Initialize to true so we always trigger update MBeanInfo cache the first
+    // time calling updateJmxCache

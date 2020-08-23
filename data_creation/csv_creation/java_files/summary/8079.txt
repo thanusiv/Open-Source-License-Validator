@@ -1,0 +1,12 @@
+ /*
+   * Roll back to old snapshot at the block pool level
+   * If previous directory exists: 
+   * <ol>
+   * <li>Rename <SD>/current/<bpid>/current to removed.tmp</li>
+   * <li>Rename * <SD>/current/<bpid>/previous to current</li>
+   * <li>Remove removed.tmp</li>
+   * </ol>
+   * 
+   * Do nothing if previous directory does not exist.
+   * @param bpSd Block pool storage directory at <SD>/current/<bpid>
+   */

@@ -1,0 +1,1 @@
+Toggles a line breakpoint in a C/C++ editor.

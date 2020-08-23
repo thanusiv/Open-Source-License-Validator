@@ -1,0 +1,1 @@
+//		return cfg.getOwner().getProject().getFullPath().isPrefixOf(path);

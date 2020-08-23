@@ -1,0 +1,13 @@
+The maps are incrementally updated as described below:
+ *   1. Initialize the maps as empty. 
+ *   2. Incrementally update the maps
+ *      - When ShellBasedIdMapping is requested for user or group name given 
+ *        an ID, or for ID given a user or group name, do look up in the map
+ *        first, if it doesn't exist, find the corresponding entry with shell
+ *        command, and insert the entry to the maps.
+ *      - When group ID is requested for a given group name, and if the
+ *        group name is numerical, the full group map is loaded. Because we
+ *        don't have a good way to find the entry for a numerical group name,
+ *        loading the full map helps to get in all entries.
+ *   3. Periodically refresh the maps for both user and group, e.g,
+ *      do step 1.

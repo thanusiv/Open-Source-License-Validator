@@ -1,0 +1,2 @@
+ Split data nodes into two sets, one set includes nodes on rack with
+   * more than one  replica, the other set contains the remaining nodes.

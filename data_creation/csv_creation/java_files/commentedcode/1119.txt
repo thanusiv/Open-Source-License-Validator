@@ -1,0 +1,1 @@
+//		actionBar.setGlobalActionHandler(CdtActionConstants.GENERATE_HASHCODE_EQUALS, fHashCodeEquals);

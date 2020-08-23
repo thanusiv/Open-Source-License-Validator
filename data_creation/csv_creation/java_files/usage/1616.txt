@@ -1,0 +1,2 @@
+@param path 
+   *   a concatenation of this node's location, the path seperator, and its name

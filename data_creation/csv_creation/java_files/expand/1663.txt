@@ -1,0 +1,3 @@
+By default the range is inclusive i.e. both minValue and maxValue are
+     * valid values. Use {@link #setMinValueIncluded(boolean)} or
+     * {@link #setMaxValueIncluded(boolean)} to change it.

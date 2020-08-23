@@ -1,0 +1,1 @@
+     * Adds a float type variable.

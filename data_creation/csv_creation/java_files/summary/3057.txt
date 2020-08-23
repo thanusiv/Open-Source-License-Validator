@@ -1,0 +1,2 @@
+Associates {@code key} with {@code value} in the built bimap. Duplicate
+     * keys or values are not allowed, and will cause {@link #build} to fail.

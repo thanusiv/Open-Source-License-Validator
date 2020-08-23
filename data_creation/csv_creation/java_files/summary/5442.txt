@@ -1,0 +1,2 @@
+// If the list is not empty then modify the first element to be right after the name that
+		// is being inserted.

@@ -1,0 +1,1 @@
+Convert mouse screen coordinates to a <code>StyledText</code> offset.

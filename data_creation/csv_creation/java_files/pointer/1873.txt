@@ -1,0 +1,1 @@
+@see FreeformQueryDelegate#getQueryString(int, int)

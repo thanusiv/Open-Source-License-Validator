@@ -1,0 +1,1 @@
+     * @throws CdtVariableException if macro holds StringList-type value

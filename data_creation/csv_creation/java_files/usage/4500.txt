@@ -1,0 +1,2 @@
+@param version - Version number of the description as reported by the AbstractCProjectDescriptionStorage
+	 * 					on last save

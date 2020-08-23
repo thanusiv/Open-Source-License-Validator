@@ -1,0 +1,1 @@
+	/** The document's storage type id attribute in the root element */

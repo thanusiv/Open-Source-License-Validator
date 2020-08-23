@@ -1,0 +1,1 @@
+	 * @return the field editor's tool tip text

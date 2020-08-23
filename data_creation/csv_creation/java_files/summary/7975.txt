@@ -1,0 +1,3 @@
+/**
+   * Getter/Setter methods for log4j.
+   */

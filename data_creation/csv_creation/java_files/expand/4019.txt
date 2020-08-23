@@ -1,0 +1,5 @@
+The AST can be released by a thread other than the one that acquired it.
+	 * <p>
+	 * Clients are not allowed to modify the AST and must hold an index read
+	 * lock prior to calling this method and continue to hold the lock as long
+	 * as the AST is being used.

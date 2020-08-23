@@ -1,0 +1,4 @@
+/**
+	 * An unknown ICElement.  Mainly used to determine what elements are not yet implemented.
+	 * i.e. the new DOM Parser supports open declaration on labels, while the old parser did not
+	 */

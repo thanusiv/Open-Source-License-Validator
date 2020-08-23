@@ -1,0 +1,1 @@
+   * Shallow clone: all endpoints will be shared across instances

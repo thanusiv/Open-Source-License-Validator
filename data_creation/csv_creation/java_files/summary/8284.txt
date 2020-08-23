@@ -1,0 +1,6 @@
+/**
+ * Input format that is a <code>CombineFileInputFormat</code>-equivalent for
+ * <code>SequenceFileInputFormat</code>.
+ *
+ * @see CombineFileInputFormat
+ */

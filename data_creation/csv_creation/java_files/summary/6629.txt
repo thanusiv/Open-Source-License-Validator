@@ -1,0 +1,1 @@
+ * Tests if a data-node can startup depending on configuration parameters.

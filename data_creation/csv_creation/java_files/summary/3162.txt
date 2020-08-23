@@ -1,0 +1,1 @@
+  /** Factory to open and create new leveldb instances. */

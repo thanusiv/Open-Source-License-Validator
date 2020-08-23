@@ -1,0 +1,2 @@
+// Add to the allocation the allocation of the pending guaranteed
+    // containers that will start before the current container will be started.

@@ -1,0 +1,3 @@
+It's crucial that delegate actions have a zero-arg constructor so that
+	 * they can be reflected into existence when referenced in an action set
+	 * in the plugin's plugin.xml file.

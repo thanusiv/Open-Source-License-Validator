@@ -1,0 +1,1 @@
+ * For implementation re-use in the absence of multiple inheritance.

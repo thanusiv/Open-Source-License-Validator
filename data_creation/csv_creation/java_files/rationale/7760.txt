@@ -1,0 +1,5 @@
+// We need to force the index to be rebuilt the first time the Qt nature
+		// is added. If
+		// this doesn't happen then the PDOM could have the current version (so
+		// nothing would trigger
+		// an update) but no Qt content.

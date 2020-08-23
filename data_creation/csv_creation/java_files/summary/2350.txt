@@ -1,0 +1,3 @@
+This method sets up prototypes chain for <code>baseClassName</code>.
+     * Precondition is : <code>superClassName</code> had to be handled before
+     * its child <code>baseClassName</code>.

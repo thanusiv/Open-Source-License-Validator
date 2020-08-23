@@ -1,0 +1,9 @@
+/** 
+   * Creates a new compressor using the specified compression level.
+   * Compressed data will be generated in ZLIB format.
+   * 
+   * @param level Compression level #CompressionLevel
+   * @param strategy Compression strategy #CompressionStrategy
+   * @param header Compression header #CompressionHeader
+   * @param directBufferSize Size of the direct buffer to be used.
+   */

@@ -1,0 +1,3 @@
+Rollback if previousLV >= LAYOUT_VERSION && prevCTime <= namenode.cTime.
+   * Upgrade if this.LV > LAYOUT_VERSION || this.cTime < namenode.cTime Regular
+   * startup if this.LV = LAYOUT_VERSION && this.cTime = namenode.cTime

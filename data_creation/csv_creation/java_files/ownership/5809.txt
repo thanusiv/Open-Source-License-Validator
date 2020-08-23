@@ -1,0 +1,4 @@
+Contributors:
+ *     QNX Software Systems - Initial API and implementation
+ *     IBM Corporation
+ *     Anton Leherbauer (Wind River Systems)

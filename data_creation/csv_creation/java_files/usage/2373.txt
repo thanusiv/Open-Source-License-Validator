@@ -1,0 +1,2 @@
+@return <code>true</code> if the method has a NoLayout annotation;
+     *         otherwise <code>false</code>

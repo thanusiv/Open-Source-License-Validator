@@ -1,0 +1,4 @@
+/**
+   * Get the last set status message.
+   * @return the current status message
+   */

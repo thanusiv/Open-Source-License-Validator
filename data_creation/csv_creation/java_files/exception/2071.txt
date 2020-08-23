@@ -1,0 +1,2 @@
+@throws IllegalArgumentException if {@code range} is empty or has nonempty intersection with
+     *         any ranges already added to the builder

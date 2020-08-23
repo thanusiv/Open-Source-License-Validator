@@ -1,0 +1,1 @@
+   * Get rack string from a data node

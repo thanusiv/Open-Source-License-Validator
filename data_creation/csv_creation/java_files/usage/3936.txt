@@ -1,0 +1,1 @@
+		 * @param ast  the translation unit AST, may be <code>null</code>

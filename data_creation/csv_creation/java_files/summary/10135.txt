@@ -1,0 +1,2 @@
+ Returns an array of inclusion paths affecting the
+	 * source folder when looking for files recursively.

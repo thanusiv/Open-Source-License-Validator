@@ -1,0 +1,1 @@
+ * This interface defines the methods for painting XML to the UIDL stream.

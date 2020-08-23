@@ -1,0 +1,2 @@
+@param fullyqualifiedName
+     *            fully qualified name of the server side component class

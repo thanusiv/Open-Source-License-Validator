@@ -1,0 +1,1 @@
+    // synchronized so that checkState works as expected.

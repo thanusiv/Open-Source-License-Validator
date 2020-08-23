@@ -1,0 +1,1 @@
+   * @throws IllegalArgumentException if the long is zero or less.

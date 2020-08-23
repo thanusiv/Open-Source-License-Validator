@@ -1,0 +1,2 @@
+Create the service state model in the {@link Service.STATE#NOTINITED}
+   * state.

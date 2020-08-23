@@ -1,0 +1,2 @@
+@throws IllegalArgumentException if the string list has NULL or empty
+   * elements.

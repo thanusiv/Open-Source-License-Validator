@@ -1,0 +1,2 @@
+@return BloomFilter The active standard Bloom filter.
+   * 			 <code>Null</code> otherwise.

@@ -1,0 +1,1 @@
+@param compress should the output of the job be compressed?

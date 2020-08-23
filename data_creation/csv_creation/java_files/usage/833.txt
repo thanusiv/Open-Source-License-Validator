@@ -1,0 +1,2 @@
+@param outputDir the {@link Path} of the output directory for 
+   * the map-reduce job.

@@ -1,0 +1,7 @@
+The <code>AbstractTextEditor</code> implementation of this 
+     * <code>IWorkbenchPart</code> method creates the vertical ruler and
+     * source viewer. Subclasses may extend.
+     * 
+     * We attach our own mouseDown listener on the menu bar, 
+     * and our own listener for cursor/key/selection events to update cursor position in
+     * status bar.

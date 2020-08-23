@@ -1,0 +1,1 @@
+     * Configures this action with a label, tool tip, and description.

@@ -1,0 +1,2 @@
+ Verify that the default retry policy correctly retries
+   * RetriableException when defaultRetryPolicyEnabled is enabled.

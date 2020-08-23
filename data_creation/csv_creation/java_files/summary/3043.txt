@@ -1,0 +1,1 @@
+   * Guaranteed to throw an exception and leave the bimap unmodified.

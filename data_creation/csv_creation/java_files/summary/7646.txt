@@ -1,0 +1,2 @@
+* A reusable {@link OutputStream} implementation that writes to an in-memory
+ * buffer.

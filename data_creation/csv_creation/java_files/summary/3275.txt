@@ -1,0 +1,6 @@
+/**
+ * This subclass of the Jetty SslSocketConnector exists solely to control
+ * the TLS protocol versions allowed.  This is fallout from the POODLE
+ * vulnerability (CVE-2014-3566), which requires that SSLv3 be disabled.
+ * Only TLS 1.0 and later protocols are allowed.
+ */

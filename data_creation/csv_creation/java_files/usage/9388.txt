@@ -1,0 +1,1 @@
+   * @return the number of completed apps

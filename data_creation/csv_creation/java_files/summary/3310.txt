@@ -1,0 +1,5 @@
+  /**
+   * True if this replica has been purged from the cache; false otherwise.
+   *
+   * Protected by the cache lock.
+   */

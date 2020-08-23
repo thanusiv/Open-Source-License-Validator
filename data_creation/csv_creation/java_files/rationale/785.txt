@@ -1,0 +1,1 @@
+// custom JobConf properties for this class are prefixed with this namespace

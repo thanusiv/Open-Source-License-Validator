@@ -1,0 +1,1 @@
+		// get the selected option from preference store

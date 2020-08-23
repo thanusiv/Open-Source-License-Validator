@@ -1,0 +1,3 @@
+/**
+ * Unqualified name, also base class for operator and conversion name.
+ */

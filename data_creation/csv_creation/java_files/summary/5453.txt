@@ -1,0 +1,1 @@
+// Load node's linkage and use it to return the first name in this node's list.

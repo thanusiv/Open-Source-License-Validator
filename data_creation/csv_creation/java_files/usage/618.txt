@@ -1,0 +1,8 @@
+@param patterns an array of patterns the components of the qualified name of the bindings
+	 *     have to match.
+	 * @param isFullyQualified if {@code true}, the array of pattern specifies the fully
+	 *     qualified name
+	 * @param filter a filter that allows for skipping parts of the index
+	 * @param monitor a monitor to report progress, may be {@code null}.
+	 * @return an array of bindings matching the pattern
+	 * @throws CoreException

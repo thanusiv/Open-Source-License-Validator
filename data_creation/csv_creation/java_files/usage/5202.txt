@@ -1,0 +1,1 @@
+   * @return the additional opportunistic containers that need to be killed.

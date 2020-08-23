@@ -1,0 +1,1 @@
+        // reset height (if it has been previously set explicitly)

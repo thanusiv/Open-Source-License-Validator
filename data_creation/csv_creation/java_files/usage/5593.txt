@@ -1,0 +1,1 @@
+	 * @return the current selection, never <code>null</code>

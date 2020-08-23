@@ -1,0 +1,6 @@
+If there is a mismatch between what was written and what was expected,
+   * a small range of bytes either side of the first error are logged to aid
+   * diagnosing what problem occurred -whether it was a previous file
+   * or a corrupting of the current file. This assumes that two
+   * sequential runs to the same path use datasets with different character
+   * moduli.

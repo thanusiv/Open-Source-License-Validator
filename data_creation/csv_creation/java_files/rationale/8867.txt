@@ -1,0 +1,2 @@
+ If the {@link ICBreakpoint#SOURCE_HANDLE} resolves to the same file on
+     * the filesystem as the preferred resource the preferred resource is used.

@@ -1,0 +1,1 @@
+	 * Selects the given range on the editor.

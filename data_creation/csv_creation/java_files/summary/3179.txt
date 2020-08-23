@@ -1,0 +1,1 @@
+    /** Write batch for the db object. */

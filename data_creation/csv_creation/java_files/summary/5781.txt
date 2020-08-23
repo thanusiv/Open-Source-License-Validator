@@ -1,0 +1,1 @@
+    // setup the list of valid audiences for token validation

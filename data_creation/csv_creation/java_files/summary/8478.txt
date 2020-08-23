@@ -1,0 +1,1 @@
+   * Query the service state. This is a non-blocking operation.

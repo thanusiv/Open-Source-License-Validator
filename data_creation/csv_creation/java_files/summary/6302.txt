@@ -1,0 +1,1 @@
+   * FsckResult of checking, plus overall DFS statistics.

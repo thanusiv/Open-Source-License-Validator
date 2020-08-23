@@ -1,0 +1,2 @@
+// Subtract from the allocation the allocation of the opportunistic
+    // containers that are marked for killing.

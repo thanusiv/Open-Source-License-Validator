@@ -1,0 +1,1 @@
+   * Returns {@code true} if the given annotation type has no attributes.

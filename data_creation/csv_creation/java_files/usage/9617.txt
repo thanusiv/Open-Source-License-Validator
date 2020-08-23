@@ -1,0 +1,2 @@
+@param targetType
+     *            The type that should be returned by this method

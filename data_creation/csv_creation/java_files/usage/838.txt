@@ -1,0 +1,2 @@
+@param codecClass the {@link CompressionCodec} to be used to
+   *                   compress the job outputs

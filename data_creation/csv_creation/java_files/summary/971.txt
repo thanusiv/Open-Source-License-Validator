@@ -1,0 +1,2 @@
+ // Function to create JavaStreamingContext without any output operations
+    // (used to detect the new context)

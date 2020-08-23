@@ -1,0 +1,3 @@
+Set a path to redirect the user to if they just go to "/". For
+   * instance "/" goes to "/yarn/apps". This allows the filters to
+   * more easily differentiate the different webapps.

@@ -1,0 +1,1 @@
+   * Read the file and convert to a byte dataset

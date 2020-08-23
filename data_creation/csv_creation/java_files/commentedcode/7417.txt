@@ -1,0 +1,8 @@
+//					if(messages == null){
+//						messages = new MultiStatus(
+//								ManagedBuilderCorePlugin.getUniqueIdentifier(),
+//								IStatus.INFO,
+//								"",
+//								null);
+//
+//					}

@@ -1,0 +1,4 @@
+/*
+			 * If we get in here, then the number literal is 2 characters,
+			 * but hasn't had the last character checked if it's a suffix
+			 */

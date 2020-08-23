@@ -1,0 +1,3 @@
+@param subAccess If path is a directory,
+   * it is the access required of the path and all the sub-directories.
+   * If path is not a directory, there is no effect.

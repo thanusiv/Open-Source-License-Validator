@@ -1,0 +1,3 @@
+A previously unpainted or painted {@link Component} has been queued
+         * be created/update later in a separate change in the same set of
+         * changes.

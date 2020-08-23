@@ -1,0 +1,5 @@
+ @param file the file the include directives point to
+	 * @param depth depth to which includes are followed, should be one of
+	 * {@link #DEPTH_ZERO} or {@link #DEPTH_INFINITE}
+	 * @return an array of include relations
+	 * @throws CoreException

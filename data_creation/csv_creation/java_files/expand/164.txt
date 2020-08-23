@@ -1,0 +1,2 @@
+This class provides common implementation for CPPTemplateNonTypeParameterSpecialization,
+ * CPPTemplateTypeParameterSpecialization, and CPPTemplateTemplateParameterSpecialization.

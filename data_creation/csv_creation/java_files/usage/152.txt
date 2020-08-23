@@ -1,0 +1,1 @@
+@return <code>true</code> if it is a valid reference, <code>false</code> if launch configuration should be filtered

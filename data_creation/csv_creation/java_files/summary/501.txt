@@ -1,0 +1,1 @@
+/** Test when input path is a file */

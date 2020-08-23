@@ -1,0 +1,1 @@
+@param offset1 Where to start comparing in the left buffer

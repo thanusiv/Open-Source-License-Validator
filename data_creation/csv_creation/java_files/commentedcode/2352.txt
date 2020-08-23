@@ -1,0 +1,11 @@
+/*-{
+        var parentType = typeData[superClassName];
+        if (parentType !== undefined ){
+            var ctor = function () {};
+            ctor.prototype = parentType;
+            typeData[baseClassName] = new ctor;
+        }
+        else {
+            typeData[baseClassName] = {};
+        } 
+    }-*/;

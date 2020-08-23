@@ -1,0 +1,1 @@
+     * Writes a manifest attribute to a temporary buffer.

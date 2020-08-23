@@ -1,0 +1,9 @@
+ SortOrder is similar to (or the same as) the SortOrder already defined
+     * for Grid.
+     * 
+     * The default implementation of this method returns an empty array, which
+     * means that the property will not be included in
+     * getSortableContainerPropertyIds(). Attempting to sort by that column
+     * throws UnsupportedOperationException.
+     * 
+     * Returning null is not allowed.

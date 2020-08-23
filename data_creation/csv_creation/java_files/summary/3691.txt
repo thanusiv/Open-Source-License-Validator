@@ -1,0 +1,1 @@
+   * Find the first occured tab in a UTF-8 encoded string

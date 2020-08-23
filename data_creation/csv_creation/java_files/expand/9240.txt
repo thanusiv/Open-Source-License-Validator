@@ -1,0 +1,4 @@
+/**
+	 * A small wrapper class for the enumerators that are declared within the enum that is
+	 * referenced by the parameter of the Q_ENUMS macro expansion.
+	 */

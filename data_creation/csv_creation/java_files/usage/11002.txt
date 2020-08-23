@@ -1,0 +1,1 @@
+	 * @param onFinish true if the method is called when finish is pressed, false

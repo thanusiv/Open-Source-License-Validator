@@ -1,0 +1,1 @@
+   * Add current quota usage to counts and return the updated counts

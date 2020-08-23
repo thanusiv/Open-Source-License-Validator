@@ -1,0 +1,8 @@
+We need to cover the following cases:
+ * 1. No snapshot, truncate to 0
+ * 2. No snapshot, truncate at block boundary
+ * 3. No snapshot, not on block boundary
+ * 4~6. With snapshot, all the current blocks are included in latest
+ *      snapshots, repeat 1~3
+ * 7~9. With snapshot, blocks in the latest snapshot and blocks in the current
+ *      file diverged, repeat 1~3

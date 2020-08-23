@@ -1,0 +1,1 @@
+            // this action request is only to send queued portlet events

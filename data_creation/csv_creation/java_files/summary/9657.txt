@@ -1,0 +1,3 @@
+ // encodeObject returns an EncodeResult with a diff, thus it
+                // needs to return it directly rather than assigning it to
+                // toReturn.

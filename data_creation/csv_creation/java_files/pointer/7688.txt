@@ -1,0 +1,1 @@
+@link IASTTypeId#EMPTY_TYPEID_ARRAY

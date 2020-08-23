@@ -1,0 +1,2 @@
+Verify that the Configuration gets passed as
+   * environment variables to the fencer.

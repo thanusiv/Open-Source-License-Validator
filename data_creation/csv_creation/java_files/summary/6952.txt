@@ -1,0 +1,3 @@
+Coverage mode generates synthetic fields.  If we ever add private
+       * fields, they will cause similar problems, and we may want to switch
+       * this check to isAccessible().

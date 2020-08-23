@@ -1,0 +1,1 @@
+   * @return configuration for starting a secure cluster

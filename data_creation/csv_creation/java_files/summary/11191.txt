@@ -1,0 +1,1 @@
+ * A string field editor with an enablement check box.

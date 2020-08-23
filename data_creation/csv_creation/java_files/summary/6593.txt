@@ -1,0 +1,2 @@
+Extend standard Gwt MenuBar to set proper settings and to override
+     * onPopupClosed method so that PopupPanel gets closed.

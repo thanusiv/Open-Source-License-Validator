@@ -1,0 +1,1 @@
+@return true if AM resource usage is over the limit

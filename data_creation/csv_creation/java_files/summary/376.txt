@@ -1,0 +1,6 @@
+/**
+	 * Sets the bitfield size.
+	 * 
+	 * @param size
+	 *            <code>IASTExpression</code>
+	 */

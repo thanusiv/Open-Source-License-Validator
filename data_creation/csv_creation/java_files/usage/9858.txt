@@ -1,0 +1,1 @@
+	 * @param entryKind The fEntryKind to set.

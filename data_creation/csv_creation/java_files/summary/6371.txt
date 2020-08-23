@@ -1,0 +1,3 @@
+AnnotationHover
+ * This annotation hover shows the description of the
+ * selected annotation.

@@ -1,0 +1,1 @@
+// ${mapred.out.dir}/_temporary/_${taskid}/${name}

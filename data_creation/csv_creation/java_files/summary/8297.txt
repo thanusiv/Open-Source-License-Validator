@@ -1,0 +1,2 @@
+The ResourceNavigatorRenameAction is the rename action used by the
+ * ResourceNavigator that also allows updating after rename.

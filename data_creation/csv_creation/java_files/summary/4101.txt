@@ -1,0 +1,3 @@
+ For instance, a session-per-request strategy will control the opening and closing of the EM at
+ * its own (manual) discretion. As opposed to a transactional unit of work.
+ *

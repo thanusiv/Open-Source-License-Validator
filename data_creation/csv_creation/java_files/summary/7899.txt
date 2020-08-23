@@ -1,0 +1,3 @@
+/**
+   * Get the unique name for this task attempt.
+   */

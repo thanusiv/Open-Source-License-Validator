@@ -1,0 +1,3 @@
+The parameters allThreads and groupId are mutually exclusive.  allThreads must be false
+     * if we are to use groupId.  The value of this method is to only have one place
+     * where we use the hard-coded strings.

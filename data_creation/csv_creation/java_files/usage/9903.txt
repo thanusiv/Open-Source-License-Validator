@@ -1,0 +1,1 @@
+	 * @return {@code true} if new {@code prefs} differ from the old ones, i.e. preferences changed

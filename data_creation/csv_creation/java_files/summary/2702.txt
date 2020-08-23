@@ -1,0 +1,1 @@
+   * Test FileStatus of snapshot file before/after rename

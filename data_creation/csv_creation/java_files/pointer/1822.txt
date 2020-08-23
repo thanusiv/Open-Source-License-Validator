@@ -1,0 +1,1 @@
+	 * @see IPartitionTokenScanner#setPartialRange(IDocument, int, int, String, int)

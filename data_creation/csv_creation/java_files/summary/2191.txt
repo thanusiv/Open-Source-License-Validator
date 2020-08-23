@@ -1,0 +1,3 @@
+// handle fungible preemption. Here we only look at the total amount of
+        // resources to be preempted and pick enough of our containers to
+        // satisfy that. We only support checkpointing for reducers for now.

@@ -1,0 +1,1 @@
+		// No whitespaces at the start of a name

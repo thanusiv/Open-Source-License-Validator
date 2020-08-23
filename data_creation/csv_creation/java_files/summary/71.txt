@@ -1,0 +1,1 @@
+Whether a cache pool can be accessed by the current context

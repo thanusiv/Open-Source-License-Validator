@@ -1,0 +1,1 @@
+     * The options presented by the page in the refactoring wizard.

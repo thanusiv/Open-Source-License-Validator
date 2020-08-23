@@ -1,0 +1,2 @@
+* Finds the given project in the list of the C model's children.
+	 * Returns {@code null} if not found.

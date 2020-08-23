@@ -1,0 +1,1 @@
+    // The directory is now empty so delete it

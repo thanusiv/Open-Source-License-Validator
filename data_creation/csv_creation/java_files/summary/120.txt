@@ -1,0 +1,1 @@
+// terminate ourselves if this is the last sub launch

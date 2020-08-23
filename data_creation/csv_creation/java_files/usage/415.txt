@@ -1,0 +1,1 @@
+@return <code>IASTExpression</code> that represents the array.

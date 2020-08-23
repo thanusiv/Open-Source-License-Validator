@@ -1,0 +1,1 @@
+	 * Get image URL for language settings provider with the given ID.

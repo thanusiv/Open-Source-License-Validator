@@ -1,0 +1,1 @@
+   * Test using the gzip codec and an empty input file

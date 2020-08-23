@@ -1,0 +1,5 @@
+/**
+ * A delegate for the "Add Line Breakpoint" action.
+ * <p>
+ * Initially derived from AddFunctionBreakpointActionDelegate
+ */

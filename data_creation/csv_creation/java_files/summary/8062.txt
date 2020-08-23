@@ -1,0 +1,13 @@
+ /**
+   * Analyze whether a transition of the BP state is required and
+   * perform it if necessary.
+   * <br>
+   * Rollback if previousLV >= LAYOUT_VERSION && prevCTime <= namenode.cTime.
+   * Upgrade if this.LV > LAYOUT_VERSION || this.cTime < namenode.cTime Regular
+   * startup if this.LV = LAYOUT_VERSION && this.cTime = namenode.cTime
+   * 
+   * @param sd storage directory <SD>/current/<bpid>
+   * @param nsInfo namespace info
+   * @param startOpt startup option
+   * @return true if the new properties has been written.
+   */

@@ -1,0 +1,1 @@
+Archive and archive member header. Does not include 8-byte magic character.

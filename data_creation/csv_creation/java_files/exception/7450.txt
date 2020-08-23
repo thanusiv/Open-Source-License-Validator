@@ -1,0 +1,3 @@
+//configuration rebuild state is set to true,
+			//full rebuild is needed in any case
+			//clean first, then make a full build

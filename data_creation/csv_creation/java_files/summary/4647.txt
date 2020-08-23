@@ -1,0 +1,1 @@
+	 * Return whether the action should be enabled or not based on the given selection.

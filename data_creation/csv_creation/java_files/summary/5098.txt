@@ -1,0 +1,1 @@
+			// Config name must be a valid dir name too, so we ban "\ / : * ? " < >" in the names

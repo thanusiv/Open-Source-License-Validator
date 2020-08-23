@@ -1,0 +1,1 @@
+     * Builds an index-based file filter for the name search.

@@ -1,0 +1,1 @@
+  // indicate that progress update needs to be sent

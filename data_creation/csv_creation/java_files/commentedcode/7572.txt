@@ -1,0 +1,3 @@
+//		if(messages == null){
+//			messages = createMultiStatus(IStatus.OK);
+//		}

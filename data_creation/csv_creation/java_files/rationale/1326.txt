@@ -1,0 +1,2 @@
+// size below will be overridden in update from uidl, initial size
+        // needed to keep IE alive

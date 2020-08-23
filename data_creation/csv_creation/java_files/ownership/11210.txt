@@ -1,0 +1,3 @@
+Contributors:
+ *     IBM Corp. - Rational Software - initial implementation
+ *     Mike Kucera (IBM) - convert to Java 5 enum

@@ -1,0 +1,2 @@
+Represents an exception in initializing a template. Typically this will be caused
+ * by an I/O or XML parsing failure.

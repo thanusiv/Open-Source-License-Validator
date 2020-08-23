@@ -1,0 +1,2 @@
+ Return an updated filter that should be compatible with the underlying
+     * container.

@@ -1,0 +1,1 @@
+	 * @see CProjectDescriptionEvent#ABOUT_TO_APPLY

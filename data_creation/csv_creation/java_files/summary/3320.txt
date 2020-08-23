@@ -1,0 +1,5 @@
+ /**
+   * Check if the replica has an associated mmap that has been fully loaded.
+   *
+   * Must be called with the cache lock held.
+   */

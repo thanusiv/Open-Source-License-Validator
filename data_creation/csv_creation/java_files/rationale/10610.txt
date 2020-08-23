@@ -1,0 +1,1 @@
+   * If the request has a valid authentication token it allows the request to continue to the target resource,

@@ -1,0 +1,7 @@
+ 
+	 * Sets any user-defined environment variables for the inferior.
+	 * 
+	 * If the 'clear' flag is true, all existing environment variables
+	 * will be removed and replaced with the new specified ones. 
+	 * If 'clear' is false, the new variables are added to the existing
+	 * environment.

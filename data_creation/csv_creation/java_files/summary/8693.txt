@@ -1,0 +1,3 @@
+/**
+	 * Handles cancel button pressed event.
+	 */

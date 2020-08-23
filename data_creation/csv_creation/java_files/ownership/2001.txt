@@ -1,0 +1,5 @@
+Contributors:
+ *     John Camelon (IBM) - Initial API and implementation
+ *     Bryan Wilkinson (QNX)
+ *     Sergey Prigogin (Google)
+ *     Thomas Corbat (IFS)

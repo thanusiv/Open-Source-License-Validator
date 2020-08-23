@@ -1,0 +1,3 @@
+ Interface defining an ICProjectDescriptionStorageType
+ * used as a factory for creating project description storages
+ * for a give project

@@ -1,0 +1,2 @@
+@param profilerResultConsumer
+     *            the consumer that gets profiler data

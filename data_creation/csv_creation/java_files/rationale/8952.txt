@@ -1,0 +1,2 @@
+Verify if the block's placement meets requirement of placement policy,
+   * i.e. replicas are placed on no less than minRacks racks in the system.

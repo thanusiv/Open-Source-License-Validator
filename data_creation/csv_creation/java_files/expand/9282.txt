@@ -1,0 +1,3 @@
+// Always ensure the selected tab is visible. If server prevents a tab
+        // change we might end up here with visibleWidget == newVisible but its
+        // parent is still hidden.

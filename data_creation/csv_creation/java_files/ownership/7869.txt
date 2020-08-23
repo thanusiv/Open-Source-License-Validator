@@ -1,0 +1,4 @@
+Contributors:
+ *     IBM Rational Software - Initial API and implementation
+ *     Ed Swartz (Nokia)
+ *     Markus Schorn (Wind River Systems)

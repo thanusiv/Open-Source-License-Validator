@@ -1,0 +1,1 @@
+	 * @see org.eclipse.cdt.dsf.debug.service.AbstractInstruction#getSize()

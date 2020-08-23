@@ -1,0 +1,2 @@
+The comparator returned by this method is to be used for sorting the
+   * {@link Schedulable}s in that queue.

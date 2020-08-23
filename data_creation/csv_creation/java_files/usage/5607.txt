@@ -1,0 +1,1 @@
+	 * @return the indent size as defined in the current formatter preferences

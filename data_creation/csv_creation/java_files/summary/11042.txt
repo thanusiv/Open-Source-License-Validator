@@ -1,0 +1,1 @@
+     * Returns whether this event originated from actions done by the user.

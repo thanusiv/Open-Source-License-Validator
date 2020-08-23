@@ -1,0 +1,1 @@
+   * Read a String as a VInt n, followed by n Bytes in Text format.

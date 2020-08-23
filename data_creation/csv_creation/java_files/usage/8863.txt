@@ -1,0 +1,2 @@
+@param preferred
+     *            resource to use if it matches the SOURCE_HANDLE

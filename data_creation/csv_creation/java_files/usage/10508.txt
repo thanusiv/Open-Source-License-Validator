@@ -1,0 +1,1 @@
+   * @return a registry operations instance

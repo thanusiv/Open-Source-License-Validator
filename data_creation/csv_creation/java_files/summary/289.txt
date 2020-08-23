@@ -1,0 +1,4 @@
+/**
+   * Create the mini cluster for testing and sub in a custom runtime so that
+   * edit log journal failures don't actually cause the JVM to exit.
+   */

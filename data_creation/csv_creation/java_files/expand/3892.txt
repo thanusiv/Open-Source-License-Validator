@@ -1,0 +1,3 @@
+// In order for this function to be better than the previous best, it must
+		// have at least one parameter match that is better that the corresponding
+		// match for the other function, and none that are worse.

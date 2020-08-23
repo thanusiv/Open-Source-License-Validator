@@ -1,0 +1,2 @@
+ @exception IllegalArgumentException if the given resource is not one of
+	 *     an IProject, IFolder, or IFile.

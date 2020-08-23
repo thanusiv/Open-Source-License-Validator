@@ -1,0 +1,1 @@
+	 * A method definition part of a structure(class, struct, union).

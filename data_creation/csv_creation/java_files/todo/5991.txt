@@ -1,0 +1,5 @@
+TODO See YARN-2663: There is a race condition between
+           * store.removeResource(key) and
+           * removeResourceFromCacheFileSystem(path) operations because they do
+           * not happen atomically and resources can be uploaded with different
+           * file names by the node managers.

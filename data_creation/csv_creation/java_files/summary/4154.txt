@@ -1,0 +1,4 @@
+ Main class for a series of name-node benchmarks.
+ * 
+ * Each benchmark measures throughput and average execution time 
+ * of a specific name-node operation, e.g. file creation or block reports.

@@ -1,0 +1,1 @@
+	 * @param index  the index for AST generation, needs to be read-locked.

@@ -1,0 +1,1 @@
+    // 1. Delete <SD>/current/<bpid>/previous dir before upgrading

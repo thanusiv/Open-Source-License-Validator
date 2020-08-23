@@ -1,0 +1,1 @@
+Set the given directory as a snapshottable directory.

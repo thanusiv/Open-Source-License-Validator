@@ -1,0 +1,1 @@
+// FIXME: enable when cdt.core knows about core.resources build configurations

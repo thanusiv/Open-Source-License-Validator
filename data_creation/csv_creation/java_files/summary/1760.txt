@@ -1,0 +1,1 @@
+Determines whether or not a binding is valid.

@@ -1,0 +1,12 @@
+//  TODO:  Should we do extra checks here to determine if a build is really needed,
+						//         or do you just do exclusion checks like above?
+						//         We could check for:
+						//         o  The build goal name
+						//         o  A secondary output
+						//         o  An input file to a tool:
+						//            o  Has an extension of a source file used by a tool
+						//            o  Has an extension of a header file used by a tool
+						//            o  Has the name of an input file specified in an InputType via:
+						//               o  An Option
+						//               o  An AdditionalInput
+						//

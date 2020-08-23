@@ -1,0 +1,3 @@
+The last value passed to this method in the body of a testXXX method
+     * will be used to determine whether or not the presence of non-OK status objects
+     * in the log should fail the test.

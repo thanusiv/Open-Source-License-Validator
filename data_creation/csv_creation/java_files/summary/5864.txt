@@ -1,0 +1,3 @@
+// Test that the first generated instance for different Optional<T> is always absent().
+    // Having generated Optional<String> instances doesn't prevent absent() from being generated for
+    // other Optional types.

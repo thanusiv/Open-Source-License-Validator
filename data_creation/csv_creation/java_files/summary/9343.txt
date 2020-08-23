@@ -1,0 +1,1 @@
+Handler for {@link GridClickEvent}s that happen in the header of the Grid.

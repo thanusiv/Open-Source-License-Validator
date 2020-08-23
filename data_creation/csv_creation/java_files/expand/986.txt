@@ -1,0 +1,5 @@
+The reduce output field list spec is under attribute 
+ * "mapreduce.fieldsel.reduce.output.key.value.fields.spec".
+ * 
+ * The reducer extracts output key/value pairs in a similar manner, except that
+ * the key is never ignored.

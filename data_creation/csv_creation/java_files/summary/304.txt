@@ -1,0 +1,3 @@
+// The NN has not terminated (no ExitException thrown)
+    
+    // ..and that the other stream is active.

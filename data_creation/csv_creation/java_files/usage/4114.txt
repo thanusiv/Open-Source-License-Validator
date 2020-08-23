@@ -1,0 +1,1 @@
+@return the final <code>State</code> of the task-attempt

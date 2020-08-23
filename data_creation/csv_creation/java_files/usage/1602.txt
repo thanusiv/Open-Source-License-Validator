@@ -1,0 +1,2 @@
+<p><b>Warning:</b> the results of calling this method may vary depending on
+   * the iteration order of {@code map}.

@@ -1,0 +1,2 @@
+ // Strip drive specifier on Windows, which would make the HAR URI invalid and
+    // cause tests to fail.

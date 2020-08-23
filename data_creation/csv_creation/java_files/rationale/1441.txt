@@ -1,0 +1,2 @@
+Uses reflection to gracefully fall back to the Java implementation if
+   * {@code Unsafe} isn't available.

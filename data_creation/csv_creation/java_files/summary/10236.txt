@@ -1,0 +1,1 @@
+ * Redirects lines read from a given input stream to a j.u.l.Logger (at INFO level).

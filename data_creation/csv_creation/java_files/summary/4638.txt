@@ -1,0 +1,2 @@
+Returns the String to use as an error dialog title for
+	 * a failed action. Default is to return null.

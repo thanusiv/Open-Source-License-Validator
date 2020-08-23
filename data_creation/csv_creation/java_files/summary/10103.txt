@@ -1,0 +1,4 @@
+// Add a handler for the triggers and timers changed events.  The 
+    // AbstractDMVMProvider superclass automatically registers this provider
+    // for all IDMEvent events, however these two events do not implement
+    // IDMEvent

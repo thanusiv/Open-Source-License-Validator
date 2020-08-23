@@ -1,0 +1,4 @@
+/**
+   * Check whether exception e is due to an ancestor inode's not being
+   * directory.
+   */

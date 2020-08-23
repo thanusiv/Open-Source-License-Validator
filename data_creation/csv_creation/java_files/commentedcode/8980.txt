@@ -1,0 +1,9 @@
+//	private final Category fCompactIfCategory= new Category(
+//		    DefaultCodeFormatterConstants.FORMATTER_ALIGNMENT_FOR_COMPACT_IF,
+//		    "int foo(int argument) {" + //$NON-NLS-1$
+//		    "  if (argument==0) return 0;" + //$NON-NLS-1$
+//		    "  if (argument==1) return 42; else return 43;" + //$NON-NLS-1$	
+//		    "}", //$NON-NLS-1$
+//		    FormatterMessages.LineWrappingTabPage_compact_if_else,
+//			FormatterMessages.LineWrappingTabPage_compact_if_else_lowercase
+//		);

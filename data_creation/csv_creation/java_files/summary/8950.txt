@@ -1,0 +1,2 @@
+Used to setup a BlockPlacementPolicy object. This should be defined by 
+   * all implementations of a BlockPlacementPolicy.

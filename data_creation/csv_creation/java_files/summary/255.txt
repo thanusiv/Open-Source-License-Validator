@@ -1,0 +1,5 @@
+/**
+   * Wraps another input stream, counting the number of bytes read.
+   *
+   * @param in the input stream to be wrapped
+   */

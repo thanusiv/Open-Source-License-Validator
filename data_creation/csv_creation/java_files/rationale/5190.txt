@@ -1,0 +1,3 @@
+// If there are already free resources for the container to start, and
+    // there are no queued containers waiting to be executed, start this
+    // container immediately.

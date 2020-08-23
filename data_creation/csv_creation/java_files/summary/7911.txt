@@ -1,0 +1,4 @@
+/**
+	 * Return the kind of this class-virt-specifier.
+	 * Currently the only kind is 'final'.
+	 */

@@ -1,0 +1,2 @@
+ // Also use column generator in test, to ensure it is possible to build
+    // columns that update automatically.

@@ -1,0 +1,1 @@
+Provides the ability to restart a debug target.

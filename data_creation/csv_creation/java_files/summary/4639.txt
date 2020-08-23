@@ -1,0 +1,4 @@
+Returns the String to use as an error dialog message for
+	 * a failed action. This message appears as the "Message:" in
+	 * the error dialog for this action.
+	 * Default is to return null.

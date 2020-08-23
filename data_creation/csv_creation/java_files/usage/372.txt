@@ -1,0 +1,1 @@
+@return size of bit field or null.

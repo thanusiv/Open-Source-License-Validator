@@ -1,0 +1,23 @@
+<pre>
+	 * long timestamp;
+	 * IBinding binding= null;
+	 * index.acquireReadLock();
+	 * try {
+	 *    timestamp= index.getLastWriteAccess();
+	 *    binding= index.findBinding(...);
+	 * } finally {
+	 *    index.releaseReadLock();
+	 * }
+	 * ...
+	 * index.acqureReadLock();
+	 * try {
+	 *    if (index.getLastWriteAccess() != timestamp) {
+	 *       // don't use binding, it's not valid anymore
+	 *       binding= index.findBinding(...);
+	 *    }
+	 *    String name= binding.getName();
+	 *    ...
+	 * } finally {
+	 *    index.releaseReadLock();
+	 * }
+	 */

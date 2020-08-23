@@ -1,0 +1,1 @@
+Converts given string to the same units as the split position is.

@@ -1,0 +1,1 @@
+	 * Returns language settings provider Options page registered for closest superclass.

@@ -1,0 +1,1 @@
+ * Interface that defines how we can grow the size of a hash map when it is over a threshold.

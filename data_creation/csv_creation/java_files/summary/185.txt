@@ -1,0 +1,4 @@
+/**
+	 * Get the (optional) name of this template template parameter. In case there is no name an
+	 * empty name is returned.
+	 */

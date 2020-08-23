@@ -1,0 +1,1 @@
+   * @param tsQuotas type space counts for all storage types supporting quota

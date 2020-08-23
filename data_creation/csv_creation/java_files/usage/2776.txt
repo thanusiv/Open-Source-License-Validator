@@ -1,0 +1,1 @@
+   * @param nsQuota Namespace quota to be set

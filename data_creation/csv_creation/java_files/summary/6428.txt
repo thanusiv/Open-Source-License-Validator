@@ -1,0 +1,1 @@
+				// Verify any core file or executable path is valid.

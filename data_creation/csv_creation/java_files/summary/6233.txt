@@ -1,0 +1,2 @@
+Create a AM Info which will store AM level information on a history
+     * parse.

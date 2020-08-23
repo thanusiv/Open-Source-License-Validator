@@ -1,0 +1,1 @@
+   * Returns the binding annotation on {@code member}, or null if there isn't one.

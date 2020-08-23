@@ -1,0 +1,2 @@
+ Make no suggestions when the start of the current identifier is before the end of
+		// the "type name" portion of the declaration.

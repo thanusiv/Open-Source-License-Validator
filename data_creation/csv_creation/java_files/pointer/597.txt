@@ -1,0 +1,1 @@
+@link #getFile(int, IIndexFileLocation, ISignificantMacros)

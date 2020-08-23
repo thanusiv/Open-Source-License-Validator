@@ -1,0 +1,1 @@
+	 * @see org.eclipse.ui.IViewActionDelegate#init(org.eclipse.ui.IViewPart)

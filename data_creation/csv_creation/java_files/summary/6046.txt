@@ -1,0 +1,3 @@
+The compiler recognizes that "input instanceof ListenableFuture" is
+     * impossible. We want the test, though, in case that changes in the future,
+     * so we use isInstance instead.

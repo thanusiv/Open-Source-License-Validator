@@ -1,0 +1,9 @@
+/**
+	 * The inverse of {@link #encodeAddress(String, String)}.
+	 * 
+	 * @param str
+	 *            the encoded string
+	 * @return the result of decoding the string into its components; never null
+	 * @throws CoreException
+	 *             if decoding and string is not in the expected format
+	 */

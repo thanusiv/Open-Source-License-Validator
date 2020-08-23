@@ -1,0 +1,1 @@
+   * @param name the name to use in the exception message.

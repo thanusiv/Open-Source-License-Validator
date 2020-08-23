@@ -1,0 +1,1 @@
+ * A JavaScript function from the <a href="https://github.com/estree/estree/blob/master/spec.md#functions">ESTree Specification</a>

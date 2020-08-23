@@ -1,0 +1,1 @@
+		// Get all the settings and invert them

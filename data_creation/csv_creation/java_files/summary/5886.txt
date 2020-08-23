@@ -1,0 +1,2 @@
+ Increase heap usage by current process by the given amount.
+     * This is done by creating objects each of size 1MB.

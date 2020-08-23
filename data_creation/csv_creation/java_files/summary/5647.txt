@@ -1,0 +1,2 @@
+// update caret position: move to new position when indenting just one line
+						// keep selection when indenting multiple

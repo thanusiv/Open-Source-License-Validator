@@ -1,0 +1,4 @@
+XXX (ab) See comment above for copyBlock().
+   *
+   * Pick the best node from which to stream the data.
+   * That's the local one, if available.

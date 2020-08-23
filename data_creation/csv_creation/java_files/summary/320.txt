@@ -1,0 +1,7 @@
+/**
+   * Replace the journal at index <code>index</code> with one that throws an
+   * exception on flush.
+   * 
+   * @param index the index of the journal to take offline.
+   * @return the original <code>EditLogOutputStream</code> of the journal.
+   */

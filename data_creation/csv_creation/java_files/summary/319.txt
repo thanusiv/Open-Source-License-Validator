@@ -1,0 +1,5 @@
+/**
+   * Do a mutative metadata operation on the file system.
+   * 
+   * @return true if the operation was successful, false otherwise.
+   */

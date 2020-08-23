@@ -1,0 +1,1 @@
+   * Get the reference count for the key

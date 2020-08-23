@@ -1,0 +1,1 @@
+   * @throws NullPointerException if any key, value, or entry is null

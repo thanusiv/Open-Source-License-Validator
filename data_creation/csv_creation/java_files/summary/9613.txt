@@ -1,0 +1,2 @@
+ // UidlValue is a special internal type wrapping type info and a
+            // value

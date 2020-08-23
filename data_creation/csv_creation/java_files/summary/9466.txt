@@ -1,0 +1,1 @@
+   * Gets the file to delete

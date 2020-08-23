@@ -1,0 +1,1 @@
+	 * @deprecated all constants must be defined in this interface

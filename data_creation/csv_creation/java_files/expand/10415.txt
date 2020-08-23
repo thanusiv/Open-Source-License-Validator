@@ -1,0 +1,11 @@
+/**
+ * This request object contains all the context information to determine whether
+ * a user has permission to access the target entity.
+ * user       : the user who's currently accessing
+ * accessType : the access type against the entity.
+ * entity     : the target object user is accessing.
+ * appId      : the associated app Id for current access. This could be null
+ *              if no app is associated.
+ * appName    : the associated app name for current access. This could be null if
+ *              no app is associated.
+ */

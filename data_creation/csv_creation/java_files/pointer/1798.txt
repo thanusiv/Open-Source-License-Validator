@@ -1,0 +1,1 @@
+@see org.eclipse.cdt.managedbuilder.makegen.IManagedDependencyGenerator2#getDependencyFileExtension(org.eclipse.cdt.managedbuilder.core.IConfiguration, org.eclipse.cdt.managedbuilder.core.ITool)

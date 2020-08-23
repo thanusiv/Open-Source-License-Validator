@@ -1,0 +1,12 @@
+ An implementation of {@link VaadinSession} for JSR-286 portlet environments.
+ * 
+ * This is automatically registered as a {@link HttpSessionBindingListener} when
+ * {@link PortletSession#setAttribute()} is called with the context as value.
+ * 
+ * Only the documented parts of this class should be considered as stable public
+ * API.
+ * 
+ * Note also that some methods and/or nested interfaces might move to
+ * {@link VaadinPortletService} in future minor or major versions of Vaadin. In
+ * these cases, a deprecated redirection for backwards compatibility will be
+ * used in VaadinPortletSession for a transition period.

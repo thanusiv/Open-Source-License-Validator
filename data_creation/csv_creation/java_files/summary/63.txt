@@ -1,0 +1,1 @@
+// Check named user and group entries if user was not denied by owner entry.

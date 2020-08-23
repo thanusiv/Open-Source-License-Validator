@@ -1,0 +1,2 @@
+Convenience class for associating a write batch with its rolling leveldb
+   * instance.

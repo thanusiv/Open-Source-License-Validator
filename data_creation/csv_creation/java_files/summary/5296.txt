@@ -1,0 +1,2 @@
+Overridden in {@link EnabledProfiler} to make {@link #isEnabled()} return
+     * true if GWT.create returns that class.

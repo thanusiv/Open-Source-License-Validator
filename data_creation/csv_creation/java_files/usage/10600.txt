@@ -1,0 +1,1 @@
+   * @param isCookiePersistent whether the cookie is persistent or not.

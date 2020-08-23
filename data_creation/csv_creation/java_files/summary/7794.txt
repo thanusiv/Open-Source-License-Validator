@@ -1,0 +1,8 @@
+/**
+     * Returns whether the criteria can be checked on the client or whether a
+     * server request is needed to check the criteria.
+     * 
+     * This requirement may depend on the state of the criterion (e.g. logical
+     * operations between criteria), so this cannot be based on a marker
+     * interface.
+     */

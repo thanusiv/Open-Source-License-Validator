@@ -1,0 +1,4 @@
+/**
+   * Creates a new compressor with the default compression level.
+   * Compressed data will be generated in ZLIB format.
+   */

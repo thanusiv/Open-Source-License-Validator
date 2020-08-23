@@ -1,0 +1,1 @@
+	 * @param newLength the selection range

@@ -1,0 +1,2 @@
+Returns the corresponding resource for this element, or {@code null} if this element
+	 * does not have a corresponding resource.

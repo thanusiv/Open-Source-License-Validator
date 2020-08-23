@@ -1,0 +1,1 @@
+   * @return an array of values as the outputs of the combiner.

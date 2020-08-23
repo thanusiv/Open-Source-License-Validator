@@ -1,0 +1,1 @@
+  // TestProtocol2 is a compatible impl of TestProtocol1 - hence use its name

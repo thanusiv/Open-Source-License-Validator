@@ -1,0 +1,3 @@
+ Old implementations might call reset for initialization, so
+             * ensure it is initialized here as well. Initialization has no side
+             * effects if already done.

@@ -1,0 +1,7 @@
+Contributors:
+ * QNX Software Systems - Initial API and implementation
+ * Ken Ryall (Nokia) - Added support for CSourceNotFoundElement ( 167305 )
+ * ARM Limited - https://bugs.eclipse.org/bugs/show_bug.cgi?id=186981
+ * Ken Ryall (Nokia) - Bug 201165 don't toss images on dispose.
+ * Ericsson          - Bug 284286 support for tracepoints
+ * Marc Khouzam (Ericsson) - Added dynamic printf support (400628)

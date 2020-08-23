@@ -1,0 +1,3 @@
+Creates a new CDT color manager which automatically
+	 * disposes the allocated colors when the current display
+	 * gets disposed.

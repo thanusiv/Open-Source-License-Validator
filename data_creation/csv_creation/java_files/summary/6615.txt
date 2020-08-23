@@ -1,0 +1,1 @@
+Goes through all open editors to find the one with the specified file.

@@ -1,0 +1,2 @@
+Evaluates the image flags for a element.
+	 * Can be overwritten by super classes.

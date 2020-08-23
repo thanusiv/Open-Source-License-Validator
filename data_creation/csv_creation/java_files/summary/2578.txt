@@ -1,0 +1,2 @@
+// Last time the static map was modified, measured time difference in
+  // milliseconds since midnight, January 1, 1970 UTC

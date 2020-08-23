@@ -1,0 +1,10 @@
+* Decodes a value that is of an internal type.
+     * <p>
+     * Ensures the encoded value is of the same type as target type.
+     * </p>
+     * <p>
+     * Allows restricting collections so that they must be declared using
+     * generics. If this is used then all objects in the collection are encoded
+     * using the declared type. Otherwise only internal types are allowed in
+     * collections.
+     * </p>

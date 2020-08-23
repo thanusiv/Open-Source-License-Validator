@@ -1,0 +1,1 @@
+// postfix for STRING, CHARACTER and SINGLE_LINE_COMMENT

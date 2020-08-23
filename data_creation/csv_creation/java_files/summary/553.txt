@@ -1,0 +1,5 @@
+/**
+	 * Constant to search for occurrences across language boundaries.
+	 * Can be used to find the occurrences of a C++-function declared with 'extern "C"' within
+	 * the c-linkage.
+	 */

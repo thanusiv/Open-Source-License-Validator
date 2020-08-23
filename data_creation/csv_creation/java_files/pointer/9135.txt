@@ -1,0 +1,1 @@
+	 * @see org.eclipse.cdt.ui.text.doctools.IDocCommentOwnershipListener#workspaceOwnershipChanged(org.eclipse.cdt.ui.text.doctools.IDocCommentOwner, org.eclipse.cdt.ui.text.doctools.IDocCommentOwner)

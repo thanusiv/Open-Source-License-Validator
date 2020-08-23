@@ -1,0 +1,5 @@
+Fetches the results for the query. This implementation always fetches the
+     * entire record set, ignoring the offset and page length parameters. In
+     * order to support lazy loading of records, you must supply a
+     * FreeformQueryDelegate that implements the
+     * FreeformQueryDelegate.getQueryString(int,int) method.

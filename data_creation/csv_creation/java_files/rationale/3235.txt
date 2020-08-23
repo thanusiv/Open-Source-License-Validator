@@ -1,0 +1,4 @@
+ 1. Lock the {@link FSNamesystem} lock in {@link FSNamesystem} before calling
+ * into {@link SnapshotManager} methods.<br>
+ * 2. Lock the {@link FSDirectory} lock for the {@link SnapshotManager} methods
+ * if necessary.

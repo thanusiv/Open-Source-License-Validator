@@ -1,0 +1,1 @@
+	 * Check whether the given translation unit is the active element of this cache.

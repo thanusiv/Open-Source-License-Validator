@@ -1,0 +1,2 @@
+// bug 187634: Add a label to warn user that configuration name will be used directly
+		// as a directory name in the filesystem.

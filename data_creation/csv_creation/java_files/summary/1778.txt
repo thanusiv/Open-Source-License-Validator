@@ -1,0 +1,1 @@
+Returns the bound type corresponding to a boolean value for inclusivity.

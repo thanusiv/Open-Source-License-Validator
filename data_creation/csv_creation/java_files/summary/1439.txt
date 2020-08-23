@@ -1,0 +1,2 @@
+Provides a lexicographical comparer implementation; either a Java
+   * implementation or a faster implementation based on

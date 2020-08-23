@@ -1,0 +1,1 @@
+Can be subclassed and used for queries in the index.

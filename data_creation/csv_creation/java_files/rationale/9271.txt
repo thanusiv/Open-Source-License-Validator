@@ -1,0 +1,2 @@
+<p>If {@code swallowIOException} is true, then we don't rethrow {@code IOException}, but merely
+   * log it.

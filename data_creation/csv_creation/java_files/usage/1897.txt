@@ -1,0 +1,8 @@
+ @param queryString
+     *            The actual query to perform.
+     * @param connectionPool
+     *            the JDBCConnectionPool to use to open connections to the SQL
+     *            database.
+     * @param primaryKeyColumns
+     *            The primary key columns. Read-only mode is forced if none are
+     *            provided. (optional)

@@ -1,0 +1,3 @@
+With GDB 7.0, we can create a breakpoint that is disabled.  This avoids having to disable it as
+	 * a separate command.  It is also much better because in non-stop, we don't risk habing a thread
+	 * hitting the breakpoint between creation and disablement.

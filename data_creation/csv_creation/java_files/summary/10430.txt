@@ -1,0 +1,2 @@
+ Workaround for bug 15168 circular errors not reported
+	 * Returns the list of C projects before resource delta processing has started.

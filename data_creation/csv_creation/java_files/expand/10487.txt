@@ -1,0 +1,5 @@
+/**
+   * Modified internal test class that is designed to read all the files in the
+   * input directory, and find the standard deviation between all of the word
+   * lengths.
+   */

@@ -1,0 +1,1 @@
+@link org.eclipse.cdt.internal.ui.refactoring.RefactoringSaveHelper

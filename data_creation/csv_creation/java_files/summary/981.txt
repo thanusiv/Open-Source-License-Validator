@@ -1,0 +1,3 @@
+/**
+   * The identify function. Input key/value pair is written directly to output.
+   */

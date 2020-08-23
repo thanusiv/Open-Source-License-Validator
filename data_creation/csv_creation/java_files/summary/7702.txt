@@ -1,0 +1,1 @@
+	 * Sets this method to be pure virtual.

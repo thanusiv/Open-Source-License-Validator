@@ -1,0 +1,2 @@
+@param classType
+     *            component connector class

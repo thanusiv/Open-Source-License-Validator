@@ -1,0 +1,2 @@
+ @param numActiveUsers
+   *          the number of active users

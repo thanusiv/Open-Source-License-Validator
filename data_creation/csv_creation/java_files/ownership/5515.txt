@@ -1,0 +1,2 @@
+Contributors:
+ *    Andrew Gvozdev (Quoin Inc.) - Initial implementation

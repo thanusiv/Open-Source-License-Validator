@@ -1,0 +1,14 @@
+<p>
+     * If the {@link Component} is found in cache and this function returns true
+     * it may omit the content and close the tag, in which case cached content
+     * should be used.
+     * </p>
+     * <p>
+     * This method may also add only a reference to the paintable and queue the
+     * paintable to be painted separately.
+     * </p>
+     * <p>
+     * Each paintable being painted should be closed by a matching
+     * {@link #endPaintable(Component)} regardless of the {@link PaintStatus}
+     * returned.
+     * </p>

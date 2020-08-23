@@ -1,0 +1,1 @@
+@link FreeformQuery#FreeformQuery(String, JDBCConnectionPool, String...)

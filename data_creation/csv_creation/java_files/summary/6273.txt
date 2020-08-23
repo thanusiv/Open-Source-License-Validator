@@ -1,0 +1,3 @@
+The Qt linkage is able to reference elements in other linkages.  This implementation
+		// needs to decide if the binding associated with this name is from the Qt linkage or
+		// from one of those external references.

@@ -1,0 +1,1 @@
+     * @return a scanner for creating Autoconf partitions

@@ -1,0 +1,1 @@
+        // Removing this line causes the tree to show normally in Firefox

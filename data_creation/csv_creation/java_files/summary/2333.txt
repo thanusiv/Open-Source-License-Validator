@@ -1,0 +1,2 @@
+Bundled state of a launched process including the threads linking the process
+ * in/output to console documents.

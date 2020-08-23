@@ -1,0 +1,1 @@
+A filter that selects nodes based on their name.

@@ -1,0 +1,2 @@
+ @return the created project resource, or <code>null</code> if the project
+	 *    was not created

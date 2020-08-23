@@ -1,0 +1,1 @@
+// Bind Context to the default InitialContext.

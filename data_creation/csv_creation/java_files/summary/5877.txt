@@ -1,0 +1,1 @@
+      // reset the core so that the garbage is reclaimed

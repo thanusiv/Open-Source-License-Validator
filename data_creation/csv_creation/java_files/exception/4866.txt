@@ -1,0 +1,2 @@
+@throws UnsupportedOperationException if the {@code applyTo} method is not supported by this
+   *     element.

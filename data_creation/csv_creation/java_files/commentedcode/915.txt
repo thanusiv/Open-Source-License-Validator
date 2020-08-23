@@ -1,0 +1,3 @@
+//	public boolean isExcluded() {
+//		return fIsExcluded;
+//	}

@@ -1,0 +1,1 @@
+    /** @return the host name for the node manager on which the AM is running */

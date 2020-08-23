@@ -1,0 +1,1 @@
+Adapter factory adapting an {@link IDMVMContext} to an {@link ICEditorTextHover}.

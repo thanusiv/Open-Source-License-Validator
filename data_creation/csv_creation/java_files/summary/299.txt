@@ -1,0 +1,1 @@
+// Invalidate one edits journal.

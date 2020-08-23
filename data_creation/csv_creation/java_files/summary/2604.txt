@@ -1,0 +1,17 @@
+ "dscl . -search /Users UniqueID <id>" returns 
+  //    <name> UniqueID = (
+  //      <id>
+  //    )
+  // "dscl . -search /Groups PrimaryGroupID <id>" returns
+  //    <name> PrimaryGroupID = (
+  //      <id>
+  //    )
+  // The following method returns a command that uses sed to process the
+  // the result and returns "<name> <id>" to simulate one entry returned
+  // by MAC_GET_ALL_USERS_CMD or MAC_GET_ALL_GROUPS_CMD.
+  // For certain negative id case like nfsnobody, the <id> is quoted as
+  // "<id>", added one sed section to remove the quote.
+  // Specifically, the method returns:
+  // dscl . -search /Users UniqueID <id> | sed 'N;s/\\n//g;N;s/\\n//g' | sed 's/UniqueID =//g' | sed 's/)//g' | sed 's/\"//g'
+  // OR
+  // dscl . -search /Groups PrimaryGroupID <id> | sed 'N;s/\\n//g;N;s/\\n//g' | sed 's/PrimaryGroupID =//g' | sed 's/)//g' | sed 's/\"//g'

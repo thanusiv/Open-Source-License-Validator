@@ -1,0 +1,5 @@
+/**
+	 * Returns the number of bits if this is a bit field, otherwise {@code null}.
+	 * 
+	 * @return size of bit field or null.
+	 */

@@ -1,0 +1,3 @@
+ Default Parser for the JobHistory files. Typical usage is
+ * JobHistoryParser parser = new JobHistoryParser(fs, historyFile);
+ * job = parser.parse();

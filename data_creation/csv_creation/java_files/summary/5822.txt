@@ -1,0 +1,1 @@
+Returns the tool tip affordance string.

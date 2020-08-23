@@ -1,0 +1,4 @@
+ @param delCandidates
+   *          Candidates for deletion. For normal replication, this set is the
+   *          same with availableReplicas. For striped blocks, this set is a
+   *          subset of availableReplicas.

@@ -1,0 +1,2 @@
+Test that lines on stdout get passed as INFO
+   * level messages

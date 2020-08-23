@@ -1,0 +1,3 @@
+Contributors:
+ *     Markus Schorn - initial API and implementation
+ *     Sergey Prigogin (Google)

@@ -1,0 +1,5 @@
+ // Truncate the block on the first datanode that has not been corrupted,
+    // so that directory scanner can discover the corruption from file size
+    // change.
+    // the indexes change once the nodes are restarted.
+    // But the datadirectory will not change

@@ -1,0 +1,1 @@
+   * List of endpoints for use <i>within</i> an application.

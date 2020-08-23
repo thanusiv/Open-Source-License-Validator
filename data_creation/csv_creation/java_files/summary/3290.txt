@@ -1,0 +1,1 @@
+Tell GDB whether to automatically attach to a forked process or not.

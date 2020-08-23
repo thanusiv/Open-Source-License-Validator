@@ -1,0 +1,2 @@
+Primarily for testing, this provides a way to set the publicKey for
+   * signature verification without needing to get a PEM encoded value.

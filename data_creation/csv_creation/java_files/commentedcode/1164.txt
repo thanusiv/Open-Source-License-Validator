@@ -1,0 +1,1 @@
+//		fExternalizeStrings.update(selection);

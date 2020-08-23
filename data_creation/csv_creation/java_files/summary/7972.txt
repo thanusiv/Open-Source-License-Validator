@@ -1,0 +1,3 @@
+static final String ISCLEANUP_PROPERTY = "hadoop.tasklog.iscleanup";
+  static final String LOGSIZE_PROPERTY = "hadoop.tasklog.totalLogFileSize";
+  static final String TASKID_PROPERTY = "hadoop.tasklog.taskid";

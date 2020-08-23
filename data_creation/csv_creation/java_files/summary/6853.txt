@@ -1,0 +1,2 @@
+//DEFAULT_NODE_LABEL_PARTITION is accessible to all queues
+        //other exclsiveNodeLabels are accessible only if configured

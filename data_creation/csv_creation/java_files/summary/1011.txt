@@ -1,0 +1,6 @@
+/**
+	 * Notifies this action that the given selection has changed.  This default
+	 * implementation sets the action's enablement state to <code>false</code>.
+	 *
+	 * @param selection the new selection
+	 */

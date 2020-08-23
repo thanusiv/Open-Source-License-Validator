@@ -1,0 +1,1 @@
+  //so that log4j can configure it from the configuration(log4j.properties).

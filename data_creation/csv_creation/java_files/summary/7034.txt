@@ -1,0 +1,2 @@
+// If the token service address is not avaiable, it still can be canceled
+    // from the configured address

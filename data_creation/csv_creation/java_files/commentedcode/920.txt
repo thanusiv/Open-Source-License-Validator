@@ -1,0 +1,4 @@
+//	protected CLanguageData doCreateLanguageDataForExtensions(String languageId,
+//			String[] extensions) {
+//		return fFactory.createLanguageData(fCfg, this, null, null, languageId, extensions, false);
+//	}

@@ -1,0 +1,1 @@
+// sd is locked but not opened

@@ -1,0 +1,2 @@
+/** Thrown for unexpected filesystem errors, presumed to reflect disk errors
+ * in the native filesystem. */

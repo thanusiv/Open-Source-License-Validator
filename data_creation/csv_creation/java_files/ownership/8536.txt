@@ -1,0 +1,4 @@
+ Contributors: 
+ *     Institute for Software - initial API and implementation
+ *     Sergey Prigogin (Google)
+ *     Thomas Corbat (IFS)

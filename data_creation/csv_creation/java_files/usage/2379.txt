@@ -1,0 +1,1 @@
+@return a map of state property names to handler method data

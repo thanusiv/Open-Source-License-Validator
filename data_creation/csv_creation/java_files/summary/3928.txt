@@ -1,0 +1,6 @@
+Enums for features that change the layout version.
+   * <br><br>
+   * To add a new layout version:
+   * <ul>
+   * <li>Define a new enum constant with a short enum name, the new layout version 
+   * and description of the added feature.</li>

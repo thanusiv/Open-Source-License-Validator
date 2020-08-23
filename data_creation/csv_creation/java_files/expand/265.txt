@@ -1,0 +1,2 @@
+// This constructor does the actual verification by ensuring that
+    // the DatanodeUuid is initialized.

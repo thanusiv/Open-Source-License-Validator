@@ -1,0 +1,4 @@
+ Prints element start tag of a paintable section. Starts a paintable
+     * section using the given tag. The PaintTarget may implement a caching
+     * scheme, that checks the paintable has actually changed or can a cached
+     * version be used instead. This method should call the startTag method.

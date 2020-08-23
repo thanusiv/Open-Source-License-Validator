@@ -1,0 +1,1 @@
+	 * @see ICProjectDescriptionManager#getProjectDescription(IProject, int) */

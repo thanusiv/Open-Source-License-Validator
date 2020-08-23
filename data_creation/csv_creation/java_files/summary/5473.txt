@@ -1,0 +1,1 @@
+/** Lazily instantiated singleton instance of SQLContext */

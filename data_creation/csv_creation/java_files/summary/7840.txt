@@ -1,0 +1,7 @@
+/**
+ * A generic JUnit test which tests addAll operations on a set. Can't be
+ * invoked directly; please see
+ * {@link com.google.common.collect.testing.SetTestSuiteBuilder}.
+ *
+ * @author Kevin Bourrillion
+ */

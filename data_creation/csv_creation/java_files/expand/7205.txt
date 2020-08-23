@@ -1,0 +1,4 @@
+/**
+	 * Constant representing a C project (IProject object).
+	 * A C element with this type can be safely cast to <code>ICProject</code>.
+	 */

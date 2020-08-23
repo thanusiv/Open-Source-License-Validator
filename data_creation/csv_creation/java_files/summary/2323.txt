@@ -1,0 +1,1 @@
+	 * Forces the termination the launched process

@@ -1,0 +1,2 @@
+@param identifier a unique identifier for this resource,
+   *                   such as org.apache.hadoop.blacklist

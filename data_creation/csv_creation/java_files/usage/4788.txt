@@ -1,0 +1,1 @@
+   * @return preferred storage types used for placing block replicas.

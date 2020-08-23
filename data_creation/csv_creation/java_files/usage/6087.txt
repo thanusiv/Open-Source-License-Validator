@@ -1,0 +1,2 @@
+@param quickOpenTimeout
+     *            The quick open timeout (in ms)

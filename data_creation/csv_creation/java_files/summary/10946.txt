@@ -1,0 +1,3 @@
+ * Common check for each tree item:
+	 * - corresponding objects are not null.
+	 * - tree item nesting is no too deep.

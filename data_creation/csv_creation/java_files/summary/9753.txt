@@ -1,0 +1,1 @@
+	 * Returns this field editor's text control.

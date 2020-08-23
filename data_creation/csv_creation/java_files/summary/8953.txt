@@ -1,0 +1,3 @@
+// This class does not provide the functionality of placing
+    // a block in favored datanodes. The implementations of this class
+    // are expected to provide this functionality

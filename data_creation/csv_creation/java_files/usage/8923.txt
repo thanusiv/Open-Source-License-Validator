@@ -1,0 +1,2 @@
+ @param expectedNumOfReplicas
+   *          The expected number of replicas remaining in the delCandidates

@@ -1,0 +1,2 @@
+ Convert the replica to a string for debugging purposes.
+   * Note that we can't take the lock here.

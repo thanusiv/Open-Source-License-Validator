@@ -1,0 +1,1 @@
+          // If the token is an old one, renew the its maxInactiveInterval.

@@ -1,0 +1,1 @@
+Updates actions and sets the viewer input when a context is activated.

@@ -1,0 +1,1 @@
+ * A dummy entry point of the test module.

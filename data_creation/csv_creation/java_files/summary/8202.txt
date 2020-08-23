@@ -1,0 +1,7 @@
+/**
+ * This exception is thrown in the case of some build macros-related operation failure
+ * The exception typically contains one or more IBuildMacroStatus statuses 
+ * 
+ * @since 3.0
+ * @noextend This class is not intended to be subclassed by clients.
+ */

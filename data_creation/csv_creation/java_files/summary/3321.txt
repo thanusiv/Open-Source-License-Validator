@@ -1,0 +1,5 @@
+ /**
+   * Free the mmap associated with this replica.
+   *
+   * Must be called with the cache lock held.
+   */

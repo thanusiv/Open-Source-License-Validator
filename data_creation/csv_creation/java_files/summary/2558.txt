@@ -1,0 +1,2 @@
+Add the reference. If the instance already present, just increase the
+   * reference count.

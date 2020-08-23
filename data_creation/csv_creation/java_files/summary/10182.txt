@@ -1,0 +1,1 @@
+	 * Checks that the given attribute value is not {@code null}.

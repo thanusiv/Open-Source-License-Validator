@@ -1,0 +1,2 @@
+// Remove sub launch, keeping the processes of the terminated launch to
+			// show the association and to keep the console content accessible

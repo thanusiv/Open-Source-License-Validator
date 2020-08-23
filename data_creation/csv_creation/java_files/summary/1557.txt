@@ -1,0 +1,2 @@
+Layout used for the settings part. Makes sure to show scrollbars
+	 * if necessary. The settings part needs to be layouted on resize.

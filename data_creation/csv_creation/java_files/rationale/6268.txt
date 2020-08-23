@@ -1,0 +1,1 @@
+		// Otherwise fall back to looking in the C++ linkage.

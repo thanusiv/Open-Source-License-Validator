@@ -1,0 +1,2 @@
+// Note that if the nested form is the first or last field in the parent
+        // form, styles from the parent (padding, ...) may leak to its contents.

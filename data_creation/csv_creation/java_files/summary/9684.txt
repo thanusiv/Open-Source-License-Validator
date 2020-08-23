@@ -1,0 +1,1 @@
+	/** Invoked when visualizer is selected, to populate the toolbar's menu. */

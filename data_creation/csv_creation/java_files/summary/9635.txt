@@ -1,0 +1,3 @@
+These methods looks good to inline, but are on a cold path of the
+     * otherwise hot encode method, which needed to be shorted to allow inlining
+     * of the hot part.

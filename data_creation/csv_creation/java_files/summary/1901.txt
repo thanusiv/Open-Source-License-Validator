@@ -1,0 +1,1 @@
+// Couldn't use the delegate, use the bad way.

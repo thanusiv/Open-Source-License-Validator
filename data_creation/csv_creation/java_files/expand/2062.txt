@@ -1,0 +1,2 @@
+ <p>The returned set's {@link Object#toString} method returns a short-hand form of the set's
+   * contents, such as {@code "[1..100]}"}.

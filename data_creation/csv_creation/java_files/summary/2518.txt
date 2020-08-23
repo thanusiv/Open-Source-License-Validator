@@ -1,0 +1,5 @@
+Test readLine for correct interpretation of maxLineLength
+   * (returned string should be clipped at maxLineLength, and the
+   * remaining bytes on the same line should be thrown out).
+   * Also check that returned value matches the string length.
+   * Varies buffer size to stress test.

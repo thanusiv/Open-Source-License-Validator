@@ -1,0 +1,1 @@
+	 * @param provider - instance of provider to create Options page for.

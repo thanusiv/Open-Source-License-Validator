@@ -1,0 +1,2 @@
+@param numAppsCompleted
+   *          the number of completed apps

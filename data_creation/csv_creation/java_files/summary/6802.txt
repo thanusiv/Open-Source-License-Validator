@@ -1,0 +1,4 @@
+Prints element end tag.
+     * 
+     * If the parent tag is closed before every child tag is closed an
+     * PaintException is raised.

@@ -1,0 +1,9 @@
+Extract the substring that likely contributes to this Q_PROPERTY declaration.  The declaration
+		// could be in any state of being entered, so use the HeuristicScanner to guess about the
+		// possible structure.  The fixed assumptions are that the content assistant was invoked within
+		// the expansion parameter of Q_PROPERTY.  We try to guess at the end of the String, which is
+		// either the closing paren (within 512 characters from the opening paren) or the current cursor
+		// location.
+
+		// The offset is always right after the opening paren, use it to get to a fixed point in the
+		// declaration.

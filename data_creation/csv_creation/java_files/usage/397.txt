@@ -1,0 +1,3 @@
+ @param memorySpaceID
+	 *            the memory space the block is being requested for, or null if
+	 *            n/a

@@ -1,0 +1,7 @@
+/**
+ * .SCCS_GET
+ * The application shall ensure that this special target is specified without
+ * prerequesites.
+ * The commands specifeied with this target shall replace the default
+ * commands associated with this special target.
+ */

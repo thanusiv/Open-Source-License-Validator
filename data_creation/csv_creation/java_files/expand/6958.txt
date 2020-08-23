@@ -1,0 +1,6 @@
+Test that VirtualBoundsGraphicObject scale correctly.
+	 * To do that create a hierarchy of graphical object using virtual coordinates
+	 * and sizes (bounds). Then set the real, pixel-bounds for the outer-most object.
+	 * Verify that child objects end-up with expected pixel bounds.
+	 *
+	 * Also test retrieval of child objects.

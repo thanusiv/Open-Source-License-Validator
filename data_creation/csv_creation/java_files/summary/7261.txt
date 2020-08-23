@@ -1,0 +1,2 @@
+Returns the underlying resource that contains this element, or {@code null} if this element
+	 * is not contained in a resource.

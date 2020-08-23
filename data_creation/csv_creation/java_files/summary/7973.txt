@@ -1,0 +1,5 @@
+/**
+ * A simple log4j-appender for the task child's 
+ * map-reduce system logs.
+ * 
+ */

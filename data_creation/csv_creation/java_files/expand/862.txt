@@ -1,0 +1,43 @@
+ * <b id="SideEffectFiles">Tasks' Side-Effect Files</b>
+   * 
+   * <p><i>Note:</i> The following is valid only if the {@link OutputCommitter}
+   *  is {@link FileOutputCommitter}. If <code>OutputCommitter</code> is not 
+   *  a <code>FileOutputCommitter</code>, the task's temporary output
+   *  directory is same as {@link #getOutputPath(JobConf)} i.e.
+   *  <tt>${mapreduce.output.fileoutputformat.outputdir}$</tt></p>
+   *  
+   * <p>Some applications need to create/write-to side-files, which differ from
+   * the actual job-outputs.
+   * 
+   * <p>In such cases there could be issues with 2 instances of the same TIP 
+   * (running simultaneously e.g. speculative tasks) trying to open/write-to the
+   * same file (path) on HDFS. Hence the application-writer will have to pick 
+   * unique names per task-attempt (e.g. using the attemptid, say 
+   * <tt>attempt_200709221812_0001_m_000000_0</tt>), not just per TIP.</p> 
+   * 
+   * <p>To get around this the Map-Reduce framework helps the application-writer 
+   * out by maintaining a special 
+   * <tt>${mapreduce.output.fileoutputformat.outputdir}/_temporary/_${taskid}</tt> 
+   * sub-directory for each task-attempt on HDFS where the output of the 
+   * task-attempt goes. On successful completion of the task-attempt the files 
+   * in the <tt>${mapreduce.output.fileoutputformat.outputdir}/_temporary/_${taskid}</tt> (only) 
+   * are <i>promoted</i> to <tt>${mapreduce.output.fileoutputformat.outputdir}</tt>. Of course, the 
+   * framework discards the sub-directory of unsuccessful task-attempts. This 
+   * is completely transparent to the application.</p>
+   * 
+   * <p>The application-writer can take advantage of this by creating any 
+   * side-files required in <tt>${mapreduce.task.output.dir}</tt> during execution 
+   * of his reduce-task i.e. via {@link #getWorkOutputPath(JobConf)}, and the 
+   * framework will move them out similarly - thus she doesn't have to pick 
+   * unique paths per task-attempt.</p>
+   * 
+   * <p><i>Note</i>: the value of <tt>${mapreduce.task.output.dir}</tt> during 
+   * execution of a particular task-attempt is actually 
+   * <tt>${mapreduce.output.fileoutputformat.outputdir}/_temporary/_{$taskid}</tt>, and this value is 
+   * set by the map-reduce framework. So, just create any side-files in the 
+   * path  returned by {@link #getWorkOutputPath(JobConf)} from map/reduce 
+   * task to take advantage of this feature.</p>
+   * 
+   * <p>The entire discussion holds true for maps of jobs with 
+   * reducer=NONE (i.e. 0 reduces) since output of the map, in that case, 
+   * goes directly to HDFS.</p>

@@ -1,0 +1,2 @@
+@param excessTypes
+   *          type of the storagepolicy

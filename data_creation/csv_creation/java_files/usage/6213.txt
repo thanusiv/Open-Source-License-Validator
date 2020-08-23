@@ -1,0 +1,1 @@
+    /** @return the map finish time. Applicable only for map attempts */

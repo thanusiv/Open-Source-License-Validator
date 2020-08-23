@@ -1,0 +1,2 @@
+@param n
+   *          The integer to be encoded

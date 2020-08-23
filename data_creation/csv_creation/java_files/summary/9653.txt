@@ -1,0 +1,2 @@
+// Storing a single reference and only returning the EncodeResult at the
+        // end the method is much shorter in bytecode which allows inlining

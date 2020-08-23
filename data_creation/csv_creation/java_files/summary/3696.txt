@@ -1,0 +1,1 @@
+   * Read a utf8 encoded line from a data input stream.

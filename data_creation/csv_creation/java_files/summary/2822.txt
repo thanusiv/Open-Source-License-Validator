@@ -1,0 +1,2 @@
+ The GCC version to emulate when running tests.
+	 * We emulate the latest version whose extensions we support.

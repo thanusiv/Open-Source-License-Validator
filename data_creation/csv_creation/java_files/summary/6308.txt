@@ -1,0 +1,3 @@
+XXX (ab) Bulk of this method is copied verbatim from {@link DFSClient}, which is
+   * bad. Both places should be refactored to provide a method to copy blocks
+   * around.

@@ -1,0 +1,4 @@
+/**
+	 * Executes this actions with the given selection. This default implementation
+	 * does nothing.
+	 */
