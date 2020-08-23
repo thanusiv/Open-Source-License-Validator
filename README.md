@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Overview](#Overview)
-- [How to Load Project](#how-to-load-project)
+- [How to Use Project](#how-to-use-project)
 - [Features](#Features)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
@@ -18,22 +18,23 @@ Unsupervised learning was initially used since the dataset that will be used to 
 
 Supervised learning was then used where the data was initially cleaned up as much as possible and then preprocessed. Three different models that may perform well on this NLP task was used. Hyperparameter tuning was conducted either through Cross Validation or automatically if the model allowed it. Precision and recall along with a fast prediction time were used to determine how well a model performed and after testing on a training and test dataset, it was determining that the fastText model performed quite well and satisfied the constraints and criteria placed. Future training and testing should be used to further validate the obtained results and placing the model in a live production environment is a way to do so. 
 
-**Note: The data and code has been altered significantly so that this project can be open-sourced. If any problems arise when working with this project, please raise an issue and I will look into it as soon as possible.**
+**Note: The data and code has been altered significantly so that this project can be open-sourced. The data consists of comment blocks found in common open-sourced software such as Boost (C++ Libraries) and GeographicLib to name a few. If any problems arise when working with this project, please raise an issue and I will look into it as soon as possible.**
 
-## How to Load Project
+## How to Use Project
 
-
+Since certain pickle files can take up a lot of space in the repository, the pickle files for creating the training, validation and test datasets along with the model files and their respective statistics need to be generated again. Firstly, go to `data_creation/file_creation/create_pickle_and_text_files.py` and run this script. This will create the datasets used for training the various models (text files for the fastText model) after cleaning and preprocessing of the data. Here you can alter this file if you would like to incorporate additional datasets since the datasets provided are relatively small or if different preprocessing techniques would like to be used. Once this script has run, you can run `run_model.py` on any of the models in the `get_best_model` directory. Once the script for a specific model has run, you will be able to obtain specific statistics from classification reports, confusion matrices and other statistics such as accuracy, precision, recall and F1-score. You can use this script as a template to apply other ML models to this task.
 
 ## Features
 
-- See how dots' movements evolve as they find their way around obstacles to reach the goal
-- Can add more obstacles to see how dots behave
-- Implemented the Genetic Algorithm from scratch (fitness calculation, natural selection, cross-over, mutation)
+- Created scripts for each model that can be simply run and changed without having to deal with rerunning the preprocessing of data
+- Organized files so that navigation of the project is significantly easier
+- Obtained various pieces of data for different models from classification reports, confusion matrices and other statistics such as accuracy, precision, recall and F1-score
 - Use of OOP in Python can be used as template for future projects
+- Look at the report in this repository for more information about each individual model, why things were done the way they were and additional features that were implemented for the creation of this project
 
 ## Technologies Used
 
-- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE used to build the game
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE used to build the experiment
 - [Python 3.8.3](https://www.python.org/downloads/) - Programming language used
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation library
 - [Matplotlib](https://matplotlib.org/) - Plotting/graphing library
