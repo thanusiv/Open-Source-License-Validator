@@ -30,7 +30,7 @@ Since certain pickle files can take up a lot of space in the repository, the pic
 - Organized files so that navigation of the project is significantly easier
 - Obtained various pieces of data for different models from classification reports, confusion matrices and other statistics such as accuracy, precision, recall and F1-score
 - Use of OOP in Python can be used as template for future projects
-- Look at the report in this repository for more information about each individual model, why things were done the way they were and additional features that were implemented for the creation of this project
+- Look at the report in this repository or the wiki for more information about each individual model, why things were done the way they were and additional features that were implemented for the creation of this project
 
 ## Technologies Used
 
